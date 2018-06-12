@@ -1,0 +1,10 @@
+service_id,service_description
+c_2103_b_771_d_64,Year-round calendar (Sunday only)
+c_2103_b_771_d_32,Year-round calendar (Saturday only)
+c_2103_b_771_d_31,Year-round calendar (Monday-Friday)
+c_15347_b_16166_d_64,"Starting June 23, 2018 (Sunday only)"
+c_15347_b_16166_d_32,"Starting June 23, 2018 (Saturday only)"
+c_15347_b_16166_d_31,"Starting June 23, 2018 (Monday-Friday)"
+c_15346_b_16165_d_64,"Ending June 22, 2018 (Sunday only)"
+c_15346_b_16165_d_32,"Ending June 22, 2018 (Saturday only)"
+c_15346_b_16165_d_31,"Ending June 22, 2018 (Monday-Friday)"

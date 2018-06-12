@@ -1,0 +1,134 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,3870,0,20160101,20190101,1,1,1,1,1,0,0,Northbridge Walmart - Blackstone Valley Shoppes,Year-round calendar (Monday-Friday),Outbound,horizontal
+2,3870,1,20160101,20190101,1,1,1,1,1,0,0,Northbridge Walmart - Blackstone Valley Shoppes,Year-round calendar (Monday-Friday),Inbound,horizontal
+3,3871,0,20160101,20190101,1,1,1,1,1,0,0,Rockdale - Stop and Shop - Grafton MBTA Station,Year-round calendar (Monday-Friday),Outbound,horizontal
+4,3871,1,20160101,20190101,1,1,1,1,1,0,0,Rockdale - Stop and Shop - Grafton MBTA Station,Year-round calendar (Monday-Friday),Inbound,horizontal
+5,3661,0,20180605,20180622,0,0,0,0,0,0,1,ROUTE 1,"Ending June 22, 2018 (Sunday only)",Outbound,horizontal
+6,3661,0,20180605,20180622,0,0,0,0,0,1,0,ROUTE 1,"Ending June 22, 2018 (Saturday only)",Outbound,horizontal
+7,3661,0,20180605,20180622,1,1,1,1,1,0,0,ROUTE 1,"Ending June 22, 2018 (Monday-Friday)",Outbound,horizontal
+8,3661,1,20180605,20180622,0,0,0,0,0,0,1,ROUTE 1,"Ending June 22, 2018 (Sunday only)",Inbound,horizontal
+9,3661,1,20180605,20180622,0,0,0,0,0,1,0,ROUTE 1,"Ending June 22, 2018 (Saturday only)",Inbound,horizontal
+10,3661,1,20180605,20180622,1,1,1,1,1,0,0,ROUTE 1,"Ending June 22, 2018 (Monday-Friday)",Inbound,horizontal
+11,3661,0,20180623,20190101,0,0,0,0,0,0,1,ROUTE 1,"Starting June 23, 2018 (Sunday only)",Outbound,horizontal
+12,3661,0,20180623,20190101,0,0,0,0,0,1,0,ROUTE 1,"Starting June 23, 2018 (Saturday only)",Outbound,horizontal
+13,3661,0,20180623,20190101,1,1,1,1,1,0,0,ROUTE 1,"Starting June 23, 2018 (Monday-Friday)",Outbound,horizontal
+14,3661,1,20180623,20190101,0,0,0,0,0,0,1,ROUTE 1,"Starting June 23, 2018 (Sunday only)",Inbound,horizontal
+15,3661,1,20180623,20190101,0,0,0,0,0,1,0,ROUTE 1,"Starting June 23, 2018 (Saturday only)",Inbound,horizontal
+16,3661,1,20180623,20190101,1,1,1,1,1,0,0,ROUTE 1,"Starting June 23, 2018 (Monday-Friday)",Inbound,horizontal
+17,3663,0,20160101,20190101,0,0,0,0,0,0,1,ROUTE 11,Year-round calendar (Sunday only),Outbound,horizontal
+18,3663,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 11,Year-round calendar (Saturday only),Outbound,horizontal
+19,3663,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 11,Year-round calendar (Monday-Friday),Outbound,horizontal
+20,3663,1,20160101,20190101,0,0,0,0,0,0,1,ROUTE 11,Year-round calendar (Sunday only),Inbound,horizontal
+21,3663,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 11,Year-round calendar (Saturday only),Inbound,horizontal
+22,3663,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 11,Year-round calendar (Monday-Friday),Inbound,horizontal
+23,3666,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 14,Year-round calendar (Saturday only),Outbound,horizontal
+24,3666,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 14,Year-round calendar (Monday-Friday),Outbound,horizontal
+25,3666,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 14,Year-round calendar (Saturday only),Inbound,horizontal
+26,3666,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 14,Year-round calendar (Monday-Friday),Inbound,horizontal
+27,3667,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 15,Year-round calendar (Saturday only),Outbound,horizontal
+28,3667,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 15,Year-round calendar (Monday-Friday),Outbound,horizontal
+29,3667,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 15,Year-round calendar (Saturday only),Inbound,horizontal
+30,3667,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 15,Year-round calendar (Monday-Friday),Inbound,horizontal
+31,3668,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 16,Year-round calendar (Saturday only),Outbound,horizontal
+32,3668,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 16,Year-round calendar (Monday-Friday),Outbound,horizontal
+33,3668,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 16,Year-round calendar (Saturday only),Inbound,horizontal
+34,3668,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 16,Year-round calendar (Monday-Friday),Inbound,horizontal
+35,3670,0,20160101,20190101,0,0,0,0,0,0,1,ROUTE 19,Year-round calendar (Sunday only),Outbound,horizontal
+36,3670,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 19,Year-round calendar (Saturday only),Outbound,horizontal
+37,3670,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 19,Year-round calendar (Monday-Friday),Outbound,horizontal
+38,3670,1,20160101,20190101,0,0,0,0,0,0,1,ROUTE 19,Year-round calendar (Sunday only),Inbound,horizontal
+39,3670,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 19,Year-round calendar (Saturday only),Inbound,horizontal
+40,3670,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 19,Year-round calendar (Monday-Friday),Inbound,horizontal
+41,3671,0,20160101,20190101,0,0,0,0,0,0,1,ROUTE 2,Year-round calendar (Sunday only),Outbound,horizontal
+42,3671,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 2,Year-round calendar (Saturday only),Outbound,horizontal
+43,3671,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 2,Year-round calendar (Monday-Friday),Outbound,horizontal
+44,3671,1,20160101,20190101,0,0,0,0,0,0,1,ROUTE 2,Year-round calendar (Sunday only),Inbound,horizontal
+45,3671,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 2,Year-round calendar (Saturday only),Inbound,horizontal
+46,3671,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 2,Year-round calendar (Monday-Friday),Inbound,horizontal
+47,3673,0,20160101,20190101,0,0,0,0,0,0,1,ROUTE 23,Year-round calendar (Sunday only),Outbound,horizontal
+48,3673,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 23,Year-round calendar (Saturday only),Outbound,horizontal
+49,3673,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 23,Year-round calendar (Monday-Friday),Outbound,horizontal
+50,3673,1,20160101,20190101,0,0,0,0,0,0,1,ROUTE 23,Year-round calendar (Sunday only),Inbound,horizontal
+51,3673,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 23,Year-round calendar (Saturday only),Inbound,horizontal
+52,3673,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 23,Year-round calendar (Monday-Friday),Inbound,horizontal
+53,3674,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 24,Year-round calendar (Saturday only),Outbound,horizontal
+54,3674,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 24,Year-round calendar (Monday-Friday),Outbound,horizontal
+55,3674,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 24,Year-round calendar (Saturday only),Inbound,horizontal
+56,3674,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 24,Year-round calendar (Monday-Friday),Inbound,horizontal
+57,3675,0,20160101,20190101,0,0,0,0,0,0,1,ROUTE 24A,Year-round calendar (Sunday only),Outbound,horizontal
+58,3675,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 24A,Year-round calendar (Saturday only),Outbound,horizontal
+59,3675,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 24A,Year-round calendar (Monday-Friday),Outbound,horizontal
+60,3675,1,20160101,20190101,0,0,0,0,0,0,1,ROUTE 24A,Year-round calendar (Sunday only),Inbound,horizontal
+61,3675,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 24A,Year-round calendar (Saturday only),Inbound,horizontal
+62,3675,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 24A,Year-round calendar (Monday-Friday),Inbound,horizontal
+63,3676,0,20160101,20190101,0,0,0,0,0,0,1,ROUTE 25,Year-round calendar (Sunday only),Outbound,horizontal
+64,3676,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 25,Year-round calendar (Saturday only),Outbound,horizontal
+65,3676,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 25,Year-round calendar (Monday-Friday),Outbound,horizontal
+66,3676,1,20160101,20190101,0,0,0,0,0,0,1,ROUTE 25,Year-round calendar (Sunday only),Inbound,horizontal
+67,3676,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 25,Year-round calendar (Saturday only),Inbound,horizontal
+68,3676,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 25,Year-round calendar (Monday-Friday),Inbound,horizontal
+69,3677,0,20160101,20190101,0,0,0,0,0,0,1,ROUTE 26,Year-round calendar (Sunday only),Outbound,horizontal
+70,3677,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 26,Year-round calendar (Saturday only),Outbound,horizontal
+71,3677,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 26,Year-round calendar (Monday-Friday),Outbound,horizontal
+72,3677,1,20160101,20190101,0,0,0,0,0,0,1,ROUTE 26,Year-round calendar (Sunday only),Inbound,horizontal
+73,3677,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 26,Year-round calendar (Saturday only),Inbound,horizontal
+74,3677,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 26,Year-round calendar (Monday-Friday),Inbound,horizontal
+75,3678,0,20160101,20190101,0,0,0,0,0,0,1,ROUTE 27,Year-round calendar (Sunday only),Outbound,horizontal
+76,3678,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 27,Year-round calendar (Saturday only),Outbound,horizontal
+77,3678,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 27,Year-round calendar (Monday-Friday),Outbound,horizontal
+78,3678,1,20160101,20190101,0,0,0,0,0,0,1,ROUTE 27,Year-round calendar (Sunday only),Inbound,horizontal
+79,3678,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 27,Year-round calendar (Saturday only),Inbound,horizontal
+80,3678,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 27,Year-round calendar (Monday-Friday),Inbound,horizontal
+81,3679,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 29,Year-round calendar (Saturday only),Outbound,horizontal
+82,3679,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 29,Year-round calendar (Monday-Friday),Outbound,horizontal
+83,3679,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 29,Year-round calendar (Saturday only),Inbound,horizontal
+84,3679,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 29,Year-round calendar (Monday-Friday),Inbound,horizontal
+85,3680,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 3,Year-round calendar (Saturday only),Outbound,horizontal
+86,3680,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 3,Year-round calendar (Monday-Friday),Outbound,horizontal
+87,3680,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 3,Year-round calendar (Saturday only),Inbound,horizontal
+88,3680,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 3,Year-round calendar (Monday-Friday),Inbound,horizontal
+89,3681,0,20160101,20190101,0,0,0,0,0,0,1,ROUTE 30,Year-round calendar (Sunday only),Outbound,horizontal
+90,3681,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 30,Year-round calendar (Saturday only),Outbound,horizontal
+91,3681,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 30,Year-round calendar (Monday-Friday),Outbound,horizontal
+92,3681,1,20160101,20190101,0,0,0,0,0,0,1,ROUTE 30,Year-round calendar (Sunday only),Inbound,horizontal
+93,3681,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 30,Year-round calendar (Saturday only),Inbound,horizontal
+94,3681,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 30,Year-round calendar (Monday-Friday),Inbound,horizontal
+95,3682,0,20180605,20180622,0,0,0,0,0,1,0,ROUTE 31,"Ending June 22, 2018 (Saturday only)",Outbound,horizontal
+96,3682,0,20180605,20180622,1,1,1,1,1,0,0,ROUTE 31,"Ending June 22, 2018 (Monday-Friday)",Outbound,horizontal
+97,3682,1,20180605,20180622,0,0,0,0,0,1,0,ROUTE 31,"Ending June 22, 2018 (Saturday only)",Inbound,horizontal
+98,3682,1,20180605,20180622,1,1,1,1,1,0,0,ROUTE 31,"Ending June 22, 2018 (Monday-Friday)",Inbound,horizontal
+99,3682,0,20180623,20190101,0,0,0,0,0,1,0,ROUTE 31,"Starting June 23, 2018 (Saturday only)",Outbound,horizontal
+100,3682,0,20180623,20190101,1,1,1,1,1,0,0,ROUTE 31,"Starting June 23, 2018 (Monday-Friday)",Outbound,horizontal
+101,3682,1,20180623,20190101,0,0,0,0,0,1,0,ROUTE 31,"Starting June 23, 2018 (Saturday only)",Inbound,horizontal
+102,3682,1,20180623,20190101,1,1,1,1,1,0,0,ROUTE 31,"Starting June 23, 2018 (Monday-Friday)",Inbound,horizontal
+103,3683,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 33,Year-round calendar (Monday-Friday),Outbound,horizontal
+104,3683,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 33,Year-round calendar (Monday-Friday),Inbound,horizontal
+105,3685,0,20160101,20190101,0,0,0,0,0,0,1,ROUTE 4,Year-round calendar (Sunday only),Outbound,horizontal
+106,3685,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 4,Year-round calendar (Saturday only),Outbound,horizontal
+107,3685,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 4,Year-round calendar (Monday-Friday),Outbound,horizontal
+108,3685,1,20160101,20190101,0,0,0,0,0,0,1,ROUTE 4,Year-round calendar (Sunday only),Inbound,horizontal
+109,3685,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 4,Year-round calendar (Saturday only),Inbound,horizontal
+110,3685,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 4,Year-round calendar (Monday-Friday),Inbound,horizontal
+111,3691,,20160101,20190101,1,1,1,1,1,0,0,ROUTE 40,Year-round calendar (Monday-Friday),Loop,horizontal
+112,3686,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 42,Year-round calendar (Saturday only),Outbound,horizontal
+113,3686,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 42,Year-round calendar (Monday-Friday),Outbound,horizontal
+114,3686,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 42,Year-round calendar (Saturday only),Inbound,horizontal
+115,3686,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 42,Year-round calendar (Monday-Friday),Inbound,horizontal
+116,3687,0,20160101,20190101,0,0,0,0,0,0,1,ROUTE 5,Year-round calendar (Sunday only),Outbound,horizontal
+117,3687,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 5,Year-round calendar (Saturday only),Outbound,horizontal
+118,3687,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 5,Year-round calendar (Monday-Friday),Outbound,horizontal
+119,3687,1,20160101,20190101,0,0,0,0,0,0,1,ROUTE 5,Year-round calendar (Sunday only),Inbound,horizontal
+120,3687,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 5,Year-round calendar (Saturday only),Inbound,horizontal
+121,3687,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 5,Year-round calendar (Monday-Friday),Inbound,horizontal
+122,3688,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 6,Year-round calendar (Saturday only),Outbound,horizontal
+123,3688,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 6,Year-round calendar (Monday-Friday),Outbound,horizontal
+124,3688,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 6,Year-round calendar (Saturday only),Inbound,horizontal
+125,3688,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 6,Year-round calendar (Monday-Friday),Inbound,horizontal
+126,3689,0,20160101,20190101,0,0,0,0,0,0,1,ROUTE 7,Year-round calendar (Sunday only),Outbound,horizontal
+127,3689,0,20160101,20190101,0,0,0,0,0,1,0,ROUTE 7,Year-round calendar (Saturday only),Outbound,horizontal
+128,3689,0,20160101,20190101,1,1,1,1,1,0,0,ROUTE 7,Year-round calendar (Monday-Friday),Outbound,horizontal
+129,3689,1,20160101,20190101,0,0,0,0,0,0,1,ROUTE 7,Year-round calendar (Sunday only),Inbound,horizontal
+130,3689,1,20160101,20190101,0,0,0,0,0,1,0,ROUTE 7,Year-round calendar (Saturday only),Inbound,horizontal
+131,3689,1,20160101,20190101,1,1,1,1,1,0,0,ROUTE 7,Year-round calendar (Monday-Friday),Inbound,horizontal
+132,3873,0,20160101,20190101,1,1,1,1,1,0,0,Westborough Shuttle,Year-round calendar (Monday-Friday),Outbound,horizontal
+133,3873,1,20160101,20190101,1,1,1,1,1,0,0,Westborough Shuttle,Year-round calendar (Monday-Friday),Inbound,horizontal

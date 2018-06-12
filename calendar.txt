@@ -1,0 +1,10 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_2103_b_771_d_64,Year-round calendar (Sunday only),0,0,0,0,0,0,1,20160101,20190101
+c_2103_b_771_d_32,Year-round calendar (Saturday only),0,0,0,0,0,1,0,20160101,20190101
+c_2103_b_771_d_31,Year-round calendar (Monday-Friday),1,1,1,1,1,0,0,20160101,20190101
+c_15347_b_16166_d_64,"Starting June 23, 2018 (Sunday only)",0,0,0,0,0,0,1,20180623,20190101
+c_15347_b_16166_d_32,"Starting June 23, 2018 (Saturday only)",0,0,0,0,0,1,0,20180623,20190101
+c_15347_b_16166_d_31,"Starting June 23, 2018 (Monday-Friday)",1,1,1,1,1,0,0,20180623,20190101
+c_15346_b_16165_d_64,"Ending June 22, 2018 (Sunday only)",0,0,0,0,0,0,1,20180605,20180622
+c_15346_b_16165_d_32,"Ending June 22, 2018 (Saturday only)",0,0,0,0,0,1,0,20180605,20180622
+c_15346_b_16165_d_31,"Ending June 22, 2018 (Monday-Friday)",1,1,1,1,1,0,0,20180605,20180622
