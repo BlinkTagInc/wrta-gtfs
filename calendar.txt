@@ -1,12 +1,9 @@
 service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_2103_b_771_d_64,Year Round  (Sunday only),0,0,0,0,0,0,1,20160101,20180921
-c_2103_b_771_d_32,Year Round  (Saturday only),0,0,0,0,0,1,0,20160101,20180921
-c_2103_b_771_d_31,Year Round  (Monday-Friday),1,1,1,1,1,0,0,20160101,20180921
 c_15609_b_16718_d_64,Starting 9/22 (Sunday only),0,0,0,0,0,0,1,20180922,20190101
 c_15609_b_16718_d_32,Starting 9/22 (Saturday only),0,0,0,0,0,1,0,20180922,20190101
 c_15609_b_16718_d_31,Starting 9/22 (Monday-Friday),1,1,1,1,1,0,0,20180922,20190101
-c_15608_b_16719_d_64,Ending 9/21 (Sunday only),0,0,0,0,0,0,1,20180901,20180921
-c_15608_b_16719_d_32,Ending 9/21 (Saturday only),0,0,0,0,0,1,0,20180901,20180921
-c_15608_b_16719_d_31,Ending 9/21 (Monday-Friday),1,1,1,1,1,0,0,20180901,20180921
+c_15608_b_771_d_64,Ending 9/21 (Sunday only),0,0,0,0,0,0,1,20160101,20180921
+c_15608_b_771_d_32,Ending 9/21 (Saturday only),0,0,0,0,0,1,0,20160101,20180921
+c_15608_b_771_d_31,Ending 9/21 (Monday-Friday),1,1,1,1,1,0,0,20160101,20180921
 c_15398_b_16245_d_32,"Routes 29, 33, 42 (Saturday only)",0,0,0,0,0,1,0,20180101,20200101
 c_15398_b_16245_d_31,"Routes 29, 33, 42 (Monday-Friday)",1,1,1,1,1,0,0,20180101,20200101
