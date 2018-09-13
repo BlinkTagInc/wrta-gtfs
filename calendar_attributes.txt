@@ -1,9 +1,12 @@
 service_id,service_description
-c_2103_b_771_d_64,Year-round calendar (Sunday only)
-c_2103_b_771_d_32,Year-round calendar (Saturday only)
-c_2103_b_771_d_31,Year-round calendar (Monday-Friday)
+c_2103_b_771_d_64,Year Round  (Sunday only)
+c_2103_b_771_d_32,Year Round  (Saturday only)
+c_2103_b_771_d_31,Year Round  (Monday-Friday)
+c_15609_b_16718_d_64,Starting 9/22 (Sunday only)
+c_15609_b_16718_d_32,Starting 9/22 (Saturday only)
+c_15609_b_16718_d_31,Starting 9/22 (Monday-Friday)
+c_15608_b_16719_d_64,Ending 9/21 (Sunday only)
+c_15608_b_16719_d_32,Ending 9/21 (Saturday only)
+c_15608_b_16719_d_31,Ending 9/21 (Monday-Friday)
 c_15398_b_16245_d_32,"Routes 29, 33, 42 (Saturday only)"
 c_15398_b_16245_d_31,"Routes 29, 33, 42 (Monday-Friday)"
-c_15347_b_16166_d_64,"Starting June 23, 2018 (Sunday only)"
-c_15347_b_16166_d_32,"Starting June 23, 2018 (Saturday only)"
-c_15347_b_16166_d_31,"Starting June 23, 2018 (Monday-Friday)"

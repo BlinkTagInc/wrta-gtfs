@@ -1,17 +1,11 @@
-route_id,direction_id,Direction
+route_id,direction_id,direction
 3873,1,Inbound
 3873,0,Outbound
-3872,1,Inbound
-3872,0,Outbound
 3871,1,Inbound
 3871,0,Outbound
 3870,1,Inbound
 3870,0,Outbound
-3692,1,Inbound
-3692,0,Outbound
 3691,,Loop
-3690,1,Inbound
-3690,0,Outbound
 3689,1,Inbound
 3689,0,Outbound
 3688,1,Inbound
@@ -22,8 +16,6 @@ route_id,direction_id,Direction
 3686,0,Outbound
 3685,1,Inbound
 3685,0,Outbound
-3684,1,Inbound
-3684,0,Outbound
 3683,1,Inbound
 3683,0,Outbound
 3682,1,Inbound
@@ -46,8 +38,6 @@ route_id,direction_id,Direction
 3674,0,Outbound
 3673,1,Inbound
 3673,0,Outbound
-3672,1,Inbound
-3672,0,Outbound
 3671,1,Inbound
 3671,0,Outbound
 3670,1,Inbound
@@ -60,7 +50,5 @@ route_id,direction_id,Direction
 3666,0,Outbound
 3663,1,Inbound
 3663,0,Outbound
-3662,1,Inbound
-3662,0,Outbound
 3661,1,Inbound
 3661,0,Outbound
