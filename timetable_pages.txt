@@ -13,7 +13,7 @@ timetable_page_id,timetable_page_label,filename
 19,,
 23,,
 24,,
-24A,,
+24A,,24a.html
 25,,
 26,,
 27,,
@@ -23,6 +23,6 @@ timetable_page_id,timetable_page_label,filename
 33,,
 40,,
 42,,
-A,,
-B,,
-West,,
+A,,a.html
+B,,b.html
+West,,w.html
