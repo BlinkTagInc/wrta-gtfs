@@ -25,4 +25,4 @@ timetable_page_id,timetable_page_label,filename
 42,,
 A,,a.html
 B,,b.html
-West,,w.html
+West,,west.html
