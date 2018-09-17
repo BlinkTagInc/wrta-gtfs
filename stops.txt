@@ -81,43 +81,6 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 824891,5005,,Shaws/OSJL,,42.1251042615059,-71.6477073060822,,,0,,America/New_York,,,0
 824890,5011,,Shaws/OSJL,,42.125090336081,-71.6476938950371,,,0,,America/New_York,,,0
 824889,5026,,Senior Center,,42.2789988367282,-71.6049916025162,,,0,,America/New_York,,,0
-824888,5025,,Route 30 McDonalds,,42.285483,-71.5977,,,0,,America/New_York,,,0
-824887,5023,,Research Dr,,42.287751,-71.5815,,,0,,America/New_York,,,0
-824885,5004,,Northbridge Senior Center,,42.122513,-71.648494,,,0,,America/New_York,,,0
-824884,5032,,New Village/Coremark,,42.1162562358676,-71.6820240043359,,,0,,America/New_York,,,0
-824874,5016,,Grafton Train Station,,42.2466,-71.685325,,,0,,America/New_York,,,0
-824873,5014,,Grafton Town Common,,42.206177,-71.68569,,,0,,America/New_York,,,0
-824872,5013,,Grafton High School,,42.211069,-71.694932,,,0,,America/New_York,,,0
-824865,5006,,Fisherville,,42.1724756157117,-71.6926682123031,,,0,,America/New_York,,,0
-824864,5012,,Fisherville,,42.1725273,-71.692459,,,0,,America/New_York,,,0
-824863,5028,,Fischer + Church Street,,42.269088,-71.6421,,,0,,America/New_York,,,0
-824858,5002,,Church and Linwood Streets,,42.110428,-71.664346,,,0,,America/New_York,,,0
-824857,5010,,Church and Linwood Streets,,42.110428,-71.664346,,,0,,America/New_York,,,0
-824856,5009,,C Street/ New Village,,42.1148371715454,-71.6828833387316,,,0,,America/New_York,,,0
-824855,5007,,Blackstone Valley Shoppes,,42.195935668516,-71.7770419478644,,,0,,America/New_York,,,0
-824854,5027,,Bay State Commons,,42.270605,-71.6095,,,0,,America/New_York,,,0
-822194,3528,,SUMMER + BRIDGE,,42.26362,-71.7951,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=3528&showAllBusses=on,0,,America/New_York,,,0
-822193,3527,,SUMMER + MLK,,42.26597,-71.79561,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=3527&showAllBusses=on,0,,America/New_York,,,0
-822192,3526,,SUMMER + MLK,,42.26604,-71.79538,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=14&id=3526&showAllBusses=on,0,,America/New_York,,,0
-822191,3525,,SUMMER + ASYLUM,,42.2638,-71.79492,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=14&id=3525&showAllBusses=on,0,,America/New_York,,,0
-822190,1208,,GODDARD DR + COPPAGE DR,,42.25872,-71.8664,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=1208&showAllBusses=on,0,,America/New_York,,,0
-822189,3523,,EAST BROOKFIELD COURTHOUSE,,42.23209,-72.02954,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=3523&showAllBusses=on,0,,America/New_York,,,0
-822188,3503,,GREAT BROOK VALLEY POOL,,42.31074,-71.77565,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=3503&showAllBusses=on,0,,America/New_York,,,0
-822187,3502,,COPPAGE DR,,42.26177,-71.86992,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=3502&showAllBusses=on,0,,America/New_York,,,0
-822186,3501,,FAIRLAWN PLAZA INSIDE,,42.27742,-71.73632,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=15&id=3501&showAllBusses=on,0,,America/New_York,,,0
-822185,3522,,END OF LINE JULIO DRIVE,,42.29133,-71.70155,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=15&id=3522&showAllBusses=on,0,,America/New_York,,,0
-822184,3500,,PORTER AND CHESTER SCHOOL,,42.31795,-71.80044,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=14&id=3500&showAllBusses=on,0,,America/New_York,,,0
-822183,3521,,SOUTHWEST COMMONS,,42.24015,-71.74728,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=5&id=3521&showAllBusses=on,0,,America/New_York,,,0
-822182,3163,,PLEASANT ST + MAIN ST,,42.26349,-71.80275,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=3163&showAllBusses=on,0,,America/New_York,,,0
-822181,3162,,PLEASANT ST + PIEDMONT ST,,42.26394,-71.81279,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=3162&showAllBusses=on,0,,America/New_York,,,0
-822180,3161,,PLEASANT ST + BRANTWOOD RD,,42.27876,-71.84562,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=3161&showAllBusses=on,0,,America/New_York,,,0
-822179,3160,,PLEASANT ST + TATNUCK SQ,,42.27825,-71.8537,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=3160&showAllBusses=on,0,,America/New_York,,,0
-822178,3159,,PLEASANT ST + BRANTWOOD RD,,42.27872,-71.84493,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=3159&showAllBusses=on,0,,America/New_York,,,0
-822176,3153,,HIGHLAND ST + LANCASTER ST,,42.27129,-71.80356,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=3153&showAllBusses=on,0,,America/New_York,,,0
-822175,3149,,FRONT ST + CHURCH ST,,42.26269,-71.80026,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=3149&showAllBusses=on,0,,America/New_York,,,0
-822174,3145,,CHANDLER ST + MAY,,42.27062,-71.84389,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=3145&showAllBusses=on,0,,America/New_York,,,0
-822173,3144,,CHANDLER ST + MAY,,42.26729,-71.83946,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=3144&showAllBusses=on,0,,America/New_York,,,0
-822172,3143,,CHANDLER ST + LOVELL,,42.26274,-71.82829,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=3143&showAllBusses=on,0,,America/New_York,,,0
 822171,3107,,APRICOT @ GODDARD,,42.24166,-71.85367,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=3107&showAllBusses=on,0,,America/New_York,,,0
 822169,3103,,MYRTLE ST (LIBRARY),,42.2591,-71.80135,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=3103&showAllBusses=on,0,,America/New_York,,,0
 822168,3104,,MYRTLE ST (LIBRARY),,42.2590813761883,-71.801698841331,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=3104&showAllBusses=on,0,,America/New_York,,,0
@@ -130,6 +93,36 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 822141,3004,,MAJ TAYLOR BLVD + THOMAS ST,,42.2680580151488,-71.798207609787,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=3004&showAllBusses=on,0,,America/New_York,,,0
 822140,3002,,MAJ TAYLOR BLVD + DCU,,42.2662528194905,-71.7978561643595,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=3002&showAllBusses=on,0,,America/New_York,,,0
 822139,3001,,MAJ TAYLOR BLVD + ST VS,,42.2644030957913,-71.7977174880282,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=3001&showAllBusses=on,0,,America/New_York,,,0
+822133,3047,,PARK AVE + SALISBURY ST,,42.2795,-71.8086,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=31&id=3047&showAllBusses=on,0,,America/New_York,,,0
+822131,3045,,WRTA GARAGE,,42.28182,-71.80868,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=31&id=3045&showAllBusses=on,0,,America/New_York,,,0
+822130,3044,,PARK AVE + GROVE ST,,42.28413,-71.80828,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=31&id=3044&showAllBusses=on,0,,America/New_York,,,0
+822113,3075,,MECHANIC ST + CHARLTON ST,,42.07882,-72.02734,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3075&showAllBusses=on,0,,America/New_York,,,0
+822112,3074,,MECHANIC ST + RANDOLPH ST,,42.08144,-72.02791,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3074&showAllBusses=on,0,,America/New_York,,,0
+822111,3073,,WORCESTER RD + VINTON ST,,42.0906,-72.02281,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3073&showAllBusses=on,0,,America/New_York,,,0
+822110,3072,,SOUTHBRIDGE RD + ENTERING SOUTHBRIDGE,,42.10164,-72.01778,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3072&showAllBusses=on,0,,America/New_York,,,0
+822109,3071,,SOUTHBRIDGE RD + BERRY CORNER RD,,42.1263,-72.00594,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3071&showAllBusses=on,0,,America/New_York,,,0
+822108,3070,,SOUTHBRIDGE RD + WORCESTER RD,,42.14374,-71.99488,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3070&showAllBusses=on,0,,America/New_York,,,0
+822107,3069,,WORCESTER RD + STAFFORD ST,,42.14522,-71.99048,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3069&showAllBusses=on,0,,America/New_York,,,0
+822106,3068,,MASONIC HOME RD + WORCESTER RD,,42.14558,-71.9861,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3068&showAllBusses=on,0,,America/New_York,,,0
+822105,3067,,MASONIC HOME RD,,42.13882,-71.97419,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3067&showAllBusses=on,0,,America/New_York,,,0
+822104,3066,,MASONIC HOME RD + N MAIN ST,,42.13702,-71.97013,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3066&showAllBusses=on,0,,America/New_York,,,0
+822103,3065,,N MAIN ST + WORCESTER RD,,42.14541,-71.9697,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3065&showAllBusses=on,0,,America/New_York,,,0
+822102,3064,,WORCESTER RD + NORTHSIDE RD,,42.14438,-71.96319,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3064&showAllBusses=on,0,,America/New_York,,,0
+822101,3063,,WORCESTER RD + CARROLL HILL RD,,42.14739,-71.94101,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3063&showAllBusses=on,0,,America/New_York,,,0
+822100,3062,,WORCESTER RD + OXBOW RD,,42.1503,-71.92547,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3062&showAllBusses=on,0,,America/New_York,,,0
+822099,3061,,SOUTHBRIDGE RD + ENTERING CHARLTON,,42.15486,-71.90961,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3061&showAllBusses=on,0,,America/New_York,,,0
+822098,3060,,SOUTHBRIDGE RD + LEICESTER ST,,42.16732,-71.89464,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3060&showAllBusses=on,0,,America/New_York,,,0
+822097,3059,,SOUTHBRIDGE RD + TURNER RD,,42.16827,-71.88632,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3059&showAllBusses=on,0,,America/New_York,,,0
+822096,3101,,FRANCIS J MCGRATH BLVD + MYRTLE ST,,42.25857,-71.80058,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3101&showAllBusses=on,0,,America/New_York,,,0
+822095,3099,,SOUTHBRIDGE RD + TURNER RD,,42.16842,-71.88549,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3099&showAllBusses=on,0,,America/New_York,,,0
+822094,3098,,SOUTHBRIDGE RD + LEICESTER ST,,42.1670857096722,-71.8946230979013,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3098&showAllBusses=on,0,,America/New_York,,,0
+822093,3097,,SOUTHBRIDGE RD + ENTERING OXFORD,,42.154703624651,-71.9095194571019,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3097&showAllBusses=on,0,,America/New_York,,,0
+822092,3096,,WORCESTER RD + BAY PATH RD,,42.15416,-71.91422,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3096&showAllBusses=on,0,,America/New_York,,,0
+822091,3095,,WORCESTER RD + RICHARDSON CORNER RD,,42.15021,-71.92507,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3095&showAllBusses=on,0,,America/New_York,,,0
+822090,3094,,WORCESTER RD + OLD WORCESTER RD,,42.1471,-71.94008,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3094&showAllBusses=on,0,,America/New_York,,,0
+822089,3093,,WORCESTER RD + L STEVENS RD,,42.14421,-71.9632,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3093&showAllBusses=on,0,,America/New_York,,,0
+822088,3092,,N MAIN ST + WORCESTER RD,,42.14506,-71.96943,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3092&showAllBusses=on,0,,America/New_York,,,0
+822087,3091,,N MAIN ST + L STEVENS RD,,42.13955,-71.96972,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3091&showAllBusses=on,0,,America/New_York,,,0
 822086,3090,,MASONIC HOME INBOUND,,42.1387125189572,-71.9741639169457,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3090&showAllBusses=on,0,,America/New_York,,,0
 822085,3089,,MASONIC HOME RD + WORCESTER RD,,42.14564,-71.98663,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3089&showAllBusses=on,0,,America/New_York,,,0
 822084,3088,,WORCESTER RD + CARPENTER HILL RD,,42.1449679561873,-71.9906684666,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3088&showAllBusses=on,0,,America/New_York,,,0
@@ -257,25 +250,6 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 821947,173,,CHANDLER ST + KING ST,,42.2604359140961,-71.816019238466,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=173&showAllBusses=on,0,,America/New_York,,,0
 821945,160,,CHANDLER ST + DEWEY ST,,42.2612666751574,-71.8202520967739,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=160&showAllBusses=on,0,,America/New_York,,,0
 821944,159,,CHANDLER ST + ABBOTT ST,,42.2617120513852,-71.8218050455016,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=159&showAllBusses=on,0,,America/New_York,,,0
-821943,171,,CHANDLER ST + MAYFIELD ST,,42.262200612549,-71.8238116522523,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=171&showAllBusses=on,0,,America/New_York,,,0
-821942,170,,CHANDLER ST + COOLIDGE RD,,42.2622983191776,-71.8257542986614,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=170&showAllBusses=on,0,,America/New_York,,,0
-821939,157,,CHANDLER ST + GENEVA ST,,42.263128478651,-71.8312175145514,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=157&showAllBusses=on,0,,America/New_York,,,0
-821938,156,,CHANDLER ST + JUNE ST,,42.2637700895154,-71.8333926286412,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=156&showAllBusses=on,0,,America/New_York,,,0
-821937,155,,CHANDLER ST + FISKE ST,,42.2647095678872,-71.8350157815067,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=155&showAllBusses=on,0,,America/New_York,,,0
-821936,154,,CHANDLER ST + UNDERWOOD ST,,42.2656660484426,-71.8367296863064,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=154&showAllBusses=on,0,,America/New_York,,,0
-821934,169,,CHANDLER ST + HAMILL RD,,42.266929089303,-71.8391066051084,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=169&showAllBusses=on,0,,America/New_York,,,0
-821933,168,,CHANDLER ST + WORCESTER STATE UNIVERSITY,,42.2684,-71.84111,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=168&showAllBusses=on,0,,America/New_York,,,0
-821932,166,,CHANDLER ST + HUNTHURST CIRCLE,,42.27196,-71.8475,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=166&showAllBusses=on,0,,America/New_York,,,0
-821931,164,,CHANDLER ST + MANHATTEN RD,,42.27358,-71.84965,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=164&showAllBusses=on,0,,America/New_York,,,0
-821929,1253,,CHANDLER ST + ANNISQUAM ST,,42.27555,-71.85167,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=1253&showAllBusses=on,0,,America/New_York,,,0
-821928,162,,CHANDLER ST + MILL ST,,42.27677,-71.85294,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=162&showAllBusses=on,0,,America/New_York,,,0
-821927,161,,CHANDLER ST + TATNUCK SQUARE,,42.27818,-71.85396,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=161&showAllBusses=on,0,,America/New_York,,,0
-821926,781,,MOWER ST + OLEAN ST,,42.27993,-71.85649,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=781&showAllBusses=on,0,,America/New_York,,,0
-821925,780,,MOWER ST + STARK RD,,42.2802686398712,-71.858385122364,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=780&showAllBusses=on,0,,America/New_York,,,0
-821923,778,,MOWER ST + CATARACT ST,,42.2800548135659,-71.8616276865421,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=778&showAllBusses=on,0,,America/New_York,,,0
-821921,776,,MOWER ST + NAVASOTA AVE,,42.2796605569433,-71.8639372644222,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=776&showAllBusses=on,0,,America/New_York,,,0
-821920,850,,PLEASANT ST + JOPPA RD,,42.2796009721262,-71.8676638310336,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=850&showAllBusses=on,0,,America/New_York,,,0
-821919,849,,PLEASANT ST + PROUTY LN,,42.2801841373091,-71.8694414732343,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=849&showAllBusses=on,0,,America/New_York,,,0
 821917,881,,PLEASANT ST + EDWIDGE ST,,42.2804714285625,-71.8724972955119,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=881&showAllBusses=on,0,,America/New_York,,,0
 821916,2,,BAILEY ST + AIRPORT DR,,42.28015,-71.87414,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=2&showAllBusses=on,0,,America/New_York,,,0
 821915,1,,BAILEY ST + ASABET LN,,42.2796709767287,-71.8764023303005,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=1&showAllBusses=on,0,,America/New_York,,,0
@@ -337,250 +311,6 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 821853,6505,,SOUTHBRIDGE ST + WALMART,,42.17209,-71.88018,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=42&id=6505&showAllBusses=on,0,,America/New_York,,,0
 821852,6500,,SOUTHBRIDGE ST + ENTERING OXFORD,,42.1735551238163,-71.8788166400041,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=6500&showAllBusses=on,0,,America/New_York,,,0
 821851,6185,,SOUTHBRIDGE ST + WEST ST,,42.18263,-71.86663,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=6185&showAllBusses=on,0,,America/New_York,,,0
-821521,1218,,4 MCKEON RD,,42.24345,-71.80928,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=1218&showAllBusses=on,0,,America/New_York,,,0
-821520,965,,SOUTHBRIDGE ST + COLLEGE OF THE HOLY CROSS,,42.24177,-71.812,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=965&showAllBusses=on,0,,America/New_York,,,0
-821519,964,,SOUTHBRIDGE ST + COLLEGE OF THE HOLY CROSS,,42.23943,-71.81335,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=964&showAllBusses=on,0,,America/New_York,,,0
-821518,963,,SOUTHBRIDGE ST + BOYDEN ST,,42.2371936972358,-71.8148330169977,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=963&showAllBusses=on,0,,America/New_York,,,0
-821517,962,,SOUTHBRIDGE ST + KENDIG ST,,42.2362691620049,-71.8157743450547,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=962&showAllBusses=on,0,,America/New_York,,,0
-821516,961,,SOUTHBRIDGE ST + MALVERN RD,,42.2355347487685,-71.8165258439235,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=961&showAllBusses=on,0,,America/New_York,,,0
-821515,1217,,982 SOUTHBRIDGE ST,,42.23296,-71.81841,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=1217&showAllBusses=on,0,,America/New_York,,,0
-821514,1216,,HOPE AVE + SOUTHBRIDGE ST,,42.23169,-71.81925,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=1216&showAllBusses=on,0,,America/New_York,,,0
-821513,475,,HOPE AVE + RR TRACKS,,42.23199,-71.82095,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=475&showAllBusses=on,0,,America/New_York,,,0
-821512,476,,HOPE AVE + 7 HILLS,,42.23199,-71.82592,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=476&showAllBusses=on,0,,America/New_York,,,0
-821511,1215,,HOPE AVE + TROWBRIDGE CIRCUIT,,42.232,-71.83149,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=1215&showAllBusses=on,0,,America/New_York,,,0
-821510,1906,,HOPE AVE + ENTERING WORCESTER,,42.22879,-71.83523,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=1906&showAllBusses=on,0,,America/New_York,,,0
-821509,6040,,BOYCE ST + WOODLAND ST,,42.22708,-71.83516,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=6040&showAllBusses=on,0,,America/New_York,,,0
-821508,6035,,SWORD ST + FRANKLIN ST,,42.22366,-71.83384,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=6035&showAllBusses=on,0,,America/New_York,,,0
-821507,6030,,SWORD ST + A ST,,42.22253,-71.8307,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=6030&showAllBusses=on,0,,America/New_York,,,0
-821506,6025,,AUBURN INDUSTRIAL PARK,,42.22025,-71.83034,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=6025&showAllBusses=on,0,,America/New_York,,,0
-821505,1214,,SEABURY HEIGHTS,,42.27227,-71.78155,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=1214&showAllBusses=on,0,,America/New_York,,,0
-821504,786,,NORTH LAKE AVE + NORTH LAKE AVE,,42.2781,-71.75921,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=786&showAllBusses=on,0,,America/New_York,,,0
-821503,15,,BELMONT ST + MCRAE CT,,42.27358,-71.77407,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=15&showAllBusses=on,0,,America/New_York,,,0
-821502,14,,BELMONT ST + PRENTICE ST,,42.27357,-71.77528,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=14&showAllBusses=on,0,,America/New_York,,,0
-821501,13,,BELMONT ST + ADAMS ST,,42.27348,-71.77814,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=13&showAllBusses=on,0,,America/New_York,,,0
-821500,12,,BELMONT ST + SKYLINE DR,,42.2733,-71.7817,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=12&showAllBusses=on,0,,America/New_York,,,0
-821499,11,,BELMONT ST + OLGA AVE,,42.27273,-71.78463,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=11&showAllBusses=on,0,,America/New_York,,,0
-821498,10,,BELMONT ST + STANTON ST,,42.27273,-71.78566,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=10&showAllBusses=on,0,,America/New_York,,,0
-821497,9,,BELMONT ST + EVERARD ST,,42.27268,-71.78703,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=9&showAllBusses=on,0,,America/New_York,,,0
-821496,8,,BELMONT ST + MERRIFIELD ST,,42.27245,-71.78893,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=8&showAllBusses=on,0,,America/New_York,,,0
-821495,7,,BELMONT ST + EASTERN AVE,,42.27236,-71.78973,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=7&showAllBusses=on,0,,America/New_York,,,0
-821494,6,,BELMONT ST + ELIZABETH ST,,42.27226,-71.79067,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=6&showAllBusses=on,0,,America/New_York,,,0
-821493,5,,BELMONT ST + MEMORIAL HOSPITAL,,42.27214,-71.79186,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=5&showAllBusses=on,0,,America/New_York,,,0
-821492,4,,BELMONT ST + ROUTE 290 RAMP EAST,,42.27192,-71.79365,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=4&showAllBusses=on,0,,America/New_York,,,0
-821491,3,,BELMONT ST + ROUTE 290 RAMP WEST,,42.27158,-71.79625,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=3&showAllBusses=on,0,,America/New_York,,,0
-821490,467,,HOOPER ST + BELMONT ST,,42.27262,-71.79017,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=467&showAllBusses=on,0,,America/New_York,,,0
-821489,468,,HOOPER ST + KENDALL ST,,42.27353,-71.7899,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=468&showAllBusses=on,0,,America/New_York,,,0
-821488,469,,HOOPER ST + CATHERINE ST,,42.27486,-71.78944,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=469&showAllBusses=on,0,,America/New_York,,,0
-821487,1213,,GREENHILL APARTMENTS,,42.27709,-71.78831,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=1213&showAllBusses=on,0,,America/New_York,,,0
-821486,471,,HOOPER ST + CATHERINE ST,,42.2748417542102,-71.7893627116394,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=471&showAllBusses=on,0,,America/New_York,,,0
-821485,470,,HOOPER ST + KENDALL ST,,42.2733081854562,-71.7898505282864,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=470&showAllBusses=on,0,,America/New_York,,,0
-821484,36,,BELMONT ST + FOUNTAIN ST,,42.27178,-71.79598,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=36&showAllBusses=on,0,,America/New_York,,,0
-821483,35,,BELMONT ST + MEMORIAL HOSPITAL,,42.2721,-71.7927,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=35&showAllBusses=on,0,,America/New_York,,,0
-821482,34,,BELMONT ST + HOOPER ST,,42.2723,-71.79051,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=34&showAllBusses=on,0,,America/New_York,,,0
-821481,33,,BELMONT ST + EASTERN AVE,,42.27246,-71.78916,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=33&showAllBusses=on,0,,America/New_York,,,0
-821480,32,,BELMONT ST + RODNEY ST,,42.27257,-71.78808,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=32&showAllBusses=on,0,,America/New_York,,,0
-821479,31,,BELMONT ST + EVERARD ST,,42.27272,-71.78696,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=31&showAllBusses=on,0,,America/New_York,,,0
-821478,30,,BELMONT ST + STANTON ST,,42.2728,-71.78604,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=30&showAllBusses=on,0,,America/New_York,,,0
-821477,29,,BELMONT ST + OLGA AVE,,42.2728,-71.78455,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=29&showAllBusses=on,0,,America/New_York,,,0
-821476,28,,BELMONT ST + SKYLINE DR,,42.27341,-71.78208,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=28&showAllBusses=on,0,,America/New_York,,,0
-821475,27,,BELMONT ST + ODEN AVE,,42.27358,-71.77863,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=27&showAllBusses=on,0,,America/New_York,,,0
-821474,26,,BELMONT ST + PRENTICE ST,,42.27365,-71.77573,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=26&showAllBusses=on,0,,America/New_York,,,0
-821473,25,,BELMONT ST + MCRAE CT,,42.27373,-71.7739,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=25&showAllBusses=on,0,,America/New_York,,,0
-821472,478,,HOSPITAL DR + BELMONT ST,,42.27399,-71.77266,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=478&showAllBusses=on,0,,America/New_York,,,0
-822133,3047,,PARK AVE + SALISBURY ST,,42.2795,-71.8086,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=31&id=3047&showAllBusses=on,0,,America/New_York,,,0
-822131,3045,,WRTA GARAGE,,42.28182,-71.80868,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=31&id=3045&showAllBusses=on,0,,America/New_York,,,0
-822130,3044,,PARK AVE + GROVE ST,,42.28413,-71.80828,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=31&id=3044&showAllBusses=on,0,,America/New_York,,,0
-822113,3075,,MECHANIC ST + CHARLTON ST,,42.07882,-72.02734,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3075&showAllBusses=on,0,,America/New_York,,,0
-822112,3074,,MECHANIC ST + RANDOLPH ST,,42.08144,-72.02791,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3074&showAllBusses=on,0,,America/New_York,,,0
-822111,3073,,WORCESTER RD + VINTON ST,,42.0906,-72.02281,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3073&showAllBusses=on,0,,America/New_York,,,0
-822110,3072,,SOUTHBRIDGE RD + ENTERING SOUTHBRIDGE,,42.10164,-72.01778,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3072&showAllBusses=on,0,,America/New_York,,,0
-822109,3071,,SOUTHBRIDGE RD + BERRY CORNER RD,,42.1263,-72.00594,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3071&showAllBusses=on,0,,America/New_York,,,0
-822108,3070,,SOUTHBRIDGE RD + WORCESTER RD,,42.14374,-71.99488,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3070&showAllBusses=on,0,,America/New_York,,,0
-822107,3069,,WORCESTER RD + STAFFORD ST,,42.14522,-71.99048,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3069&showAllBusses=on,0,,America/New_York,,,0
-822106,3068,,MASONIC HOME RD + WORCESTER RD,,42.14558,-71.9861,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3068&showAllBusses=on,0,,America/New_York,,,0
-822105,3067,,MASONIC HOME RD,,42.13882,-71.97419,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3067&showAllBusses=on,0,,America/New_York,,,0
-822104,3066,,MASONIC HOME RD + N MAIN ST,,42.13702,-71.97013,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3066&showAllBusses=on,0,,America/New_York,,,0
-822103,3065,,N MAIN ST + WORCESTER RD,,42.14541,-71.9697,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3065&showAllBusses=on,0,,America/New_York,,,0
-822102,3064,,WORCESTER RD + NORTHSIDE RD,,42.14438,-71.96319,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3064&showAllBusses=on,0,,America/New_York,,,0
-822101,3063,,WORCESTER RD + CARROLL HILL RD,,42.14739,-71.94101,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3063&showAllBusses=on,0,,America/New_York,,,0
-822100,3062,,WORCESTER RD + OXBOW RD,,42.1503,-71.92547,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3062&showAllBusses=on,0,,America/New_York,,,0
-822099,3061,,SOUTHBRIDGE RD + ENTERING CHARLTON,,42.15486,-71.90961,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3061&showAllBusses=on,0,,America/New_York,,,0
-822098,3060,,SOUTHBRIDGE RD + LEICESTER ST,,42.16732,-71.89464,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3060&showAllBusses=on,0,,America/New_York,,,0
-822097,3059,,SOUTHBRIDGE RD + TURNER RD,,42.16827,-71.88632,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3059&showAllBusses=on,0,,America/New_York,,,0
-822096,3101,,FRANCIS J MCGRATH BLVD + MYRTLE ST,,42.25857,-71.80058,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3101&showAllBusses=on,0,,America/New_York,,,0
-822095,3099,,SOUTHBRIDGE RD + TURNER RD,,42.16842,-71.88549,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3099&showAllBusses=on,0,,America/New_York,,,0
-822094,3098,,SOUTHBRIDGE RD + LEICESTER ST,,42.1670857096722,-71.8946230979013,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3098&showAllBusses=on,0,,America/New_York,,,0
-822093,3097,,SOUTHBRIDGE RD + ENTERING OXFORD,,42.154703624651,-71.9095194571019,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3097&showAllBusses=on,0,,America/New_York,,,0
-822092,3096,,WORCESTER RD + BAY PATH RD,,42.15416,-71.91422,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3096&showAllBusses=on,0,,America/New_York,,,0
-822091,3095,,WORCESTER RD + RICHARDSON CORNER RD,,42.15021,-71.92507,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3095&showAllBusses=on,0,,America/New_York,,,0
-822090,3094,,WORCESTER RD + OLD WORCESTER RD,,42.1471,-71.94008,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3094&showAllBusses=on,0,,America/New_York,,,0
-822089,3093,,WORCESTER RD + L STEVENS RD,,42.14421,-71.9632,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3093&showAllBusses=on,0,,America/New_York,,,0
-822088,3092,,N MAIN ST + WORCESTER RD,,42.14506,-71.96943,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3092&showAllBusses=on,0,,America/New_York,,,0
-822087,3091,,N MAIN ST + L STEVENS RD,,42.13955,-71.96972,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=3091&showAllBusses=on,0,,America/New_York,,,0
-821471,1252,,WORCESTER STATE HOSPITAL,,42.27791,-71.77213,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=1252&showAllBusses=on,0,,America/New_York,,,0
-821470,1261,,RESEARCH DR + INNOVATION DR,,42.27624,-71.76719,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=1261&showAllBusses=on,0,,America/New_York,,,0
-821469,1198,,MOUNTAIN ST EAST + BRIAR LN,,42.31782,-71.77557,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1198&showAllBusses=on,0,,America/New_York,,,0
-821468,1197,,MOUNTAIN ST EAST + MOSQUE,,42.31521,-71.77283,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1197&showAllBusses=on,0,,America/New_York,,,0
-821467,1169,,CLARK ST + TEAMSTER VILLAGE,,42.31301,-71.77341,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1169&showAllBusses=on,0,,America/New_York,,,0
-821466,182,,TACOMA ST + CLARK ST,,42.3117384565421,-71.7761409962883,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=182&showAllBusses=on,0,,America/New_York,,,0
-821465,181,,CLARK ST + HARLEY DR,,42.3114742969403,-71.7800383936509,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=181&showAllBusses=on,0,,America/New_York,,,0
-821464,983,,ST NICHOLAS AVE + CLARK ST,,42.31052,-71.78134,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=983&showAllBusses=on,0,,America/New_York,,,0
-821463,982,,191 ST NICHOLAS AVE,,42.30939,-71.78051,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=982&showAllBusses=on,0,,America/New_York,,,0
-821462,985,,ST NICHOLAS AVE + ONTARIO ST,,42.30816,-71.7796,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=985&showAllBusses=on,0,,America/New_York,,,0
-821461,981,,ST NICHOLAS AVE + SQUANTUM ST,,42.30679,-71.77859,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=981&showAllBusses=on,0,,America/New_York,,,0
-821460,980,,ST NICHOLAS AVE + ONANDAGA ST,,42.30586,-71.77789,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=980&showAllBusses=on,0,,America/New_York,,,0
-821459,979,,ST NICHOLAS AVE + HILDA ST,,42.30443,-71.77682,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=979&showAllBusses=on,0,,America/New_York,,,0
-821458,978,,ST NICHOLAS AVE + COUNTRY CLUB BLVD,,42.30332,-71.77522,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=978&showAllBusses=on,0,,America/New_York,,,0
-821457,200,,COUNTRY CLUB BLVD + ERIE AVE,,42.30303,-71.77471,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=200&showAllBusses=on,0,,America/New_York,,,0
-821456,199,,COUNTRY CLUB BLVD + REC CENTER,,42.30184,-71.77631,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=199&showAllBusses=on,0,,America/New_York,,,0
-821455,198,,132 COUNTRY CLUB BLVD,,42.29994,-71.77679,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=198&showAllBusses=on,0,,America/New_York,,,0
-821454,197,,126 COUNTRY CLUB BLVD,,42.29929,-71.77626,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=197&showAllBusses=on,0,,America/New_York,,,0
-821453,196,,COUNTRY CLUB BLVD + LINCOLN VILLAGE,,42.29757,-71.77503,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=196&showAllBusses=on,0,,America/New_York,,,0
-821452,195,,COUNTRY CLUB BLVD + HOTEL ENTRANCE,,42.29615,-71.77483,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=195&showAllBusses=on,0,,America/New_York,,,0
-821451,194,,COUNTRY CLUB BLVD + LINCOLN ST,,42.29508,-71.77464,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=194&showAllBusses=on,0,,America/New_York,,,0
-821450,531,,LINCOLN ST + LINCOLN PLAZA,,42.29295,-71.7783,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=531&showAllBusses=on,0,,America/New_York,,,0
-821449,530,,LINCOLN ST + MARSH AVE,,42.29208,-71.78021,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=530&showAllBusses=on,0,,America/New_York,,,0
-821448,529,,LINCOLN ST + HANOVER INSURANCE,,42.29133,-71.78218,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=529&showAllBusses=on,0,,America/New_York,,,0
-821447,528,,LINCOLN ST + WAKEFIELD ST,,42.28938,-71.78642,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=528&showAllBusses=on,0,,America/New_York,,,0
-821446,527,,LINCOLN ST + GORHAM ST,,42.28842,-71.78781,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=527&showAllBusses=on,0,,America/New_York,,,0
-821445,526,,LINCOLN ST + BUCKINGHAM ST,,42.28748,-71.78918,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=526&showAllBusses=on,0,,America/New_York,,,0
-821444,518,,LINCOLN ST + OLD LINCOLN ST,,42.27371,-71.79753,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=518&showAllBusses=on,0,,America/New_York,,,0
-821443,516,,LINCOLN ST + OLD LINCOLN ST,,42.27226,-71.79851,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=516&showAllBusses=on,0,,America/New_York,,,0
-821442,567,,MAJOR TAYLOR BLVD + LINCOLN SQUARE,,42.27095,-71.79859,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=567&showAllBusses=on,0,,America/New_York,,,0
-821441,566,,MAJOR TAYLOR BLVD + MCPHS,,42.26982,-71.79858,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=566&showAllBusses=on,0,,America/New_York,,,0
-821440,573,,MAIN ST + THOMAS ST,,42.26819,-71.80044,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=573&showAllBusses=on,0,,America/New_York,,,0
-821438,570,,MAJOR TAYLOR BLVD + MCPHS,,42.2698,-71.79888,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=570&showAllBusses=on,0,,America/New_York,,,0
-821437,569,,MAJOR TAYLOR BLVD + HIGHLAND ST,,42.27085,-71.79891,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=569&showAllBusses=on,0,,America/New_York,,,0
-821436,553,,LINCOLN ST + LINCOLN SQUARE,,42.2719,-71.79884,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=553&showAllBusses=on,0,,America/New_York,,,0
-821435,551,,LINCOLN ST + ROUTE 290 RAMP,,42.27399,-71.79757,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=551&showAllBusses=on,0,,America/New_York,,,0
-821434,546,,LINCOLN ST + FROTHINGHAM RD,,42.28755,-71.78928,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=546&showAllBusses=on,0,,America/New_York,,,0
-821432,544,,LINCOLN ST + ORAN ST,,42.28933,-71.78674,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=544&showAllBusses=on,0,,America/New_York,,,0
-821431,543,,LINCOLN ST + HANOVER INSURANCE,,42.29161,-71.78196,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=543&showAllBusses=on,0,,America/New_York,,,0
-821430,542,,LINCOLN ST + BEVERLY RD,,42.29224,-71.78011,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=542&showAllBusses=on,0,,America/New_York,,,0
-821429,541,,LINCOLN ST + GOLDWAITHE RD,,42.29311,-71.77825,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=541&showAllBusses=on,0,,America/New_York,,,0
-821428,207,,COUNTRY CLUB BLVD + LINCOLN ST,,42.29513,-71.77499,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=207&showAllBusses=on,0,,America/New_York,,,0
-821427,206,,COUNTRY CLUB BLVD + PLAZA ENTRANCE,,42.2963727569743,-71.7751332213636,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=206&showAllBusses=on,0,,America/New_York,,,0
-821426,205,,COUNTRY CLUB BLVD + LINCOLN VILLAGE,,42.2977370244777,-71.7754372025705,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=205&showAllBusses=on,0,,America/New_York,,,0
-821425,204,,91 COUNTRY CLUB BLVD,,42.29926,-71.77635,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=204&showAllBusses=on,0,,America/New_York,,,0
-821424,203,,111 COUNTRY CLUB BLVD,,42.2999,-71.77689,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=203&showAllBusses=on,0,,America/New_York,,,0
-821423,202,,COUNTRY CLUB BLVD + REC CENTER,,42.3019,-71.77636,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=202&showAllBusses=on,0,,America/New_York,,,0
-821422,201,,COUNTRY CLUB BLVD + ERIE AVE,,42.303,-71.77487,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=201&showAllBusses=on,0,,America/New_York,,,0
-821421,992,,5 ST NICHOLAS AVE,,42.30328,-71.7753,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=992&showAllBusses=on,0,,America/New_York,,,0
-821420,991,,ST NICHOLAS AVE + HILDA ST,,42.30441,-71.77695,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=991&showAllBusses=on,0,,America/New_York,,,0
-821419,990,,ST NICHOLAS AVE + ONANDAGA ST,,42.3056077097108,-71.7778915739462,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=990&showAllBusses=on,0,,America/New_York,,,0
-821418,989,,ST NICHOLAS AVE + SQUANTUM ST,,42.30685,-71.77878,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=989&showAllBusses=on,0,,America/New_York,,,0
-821417,988,,ST NICHOLAS AVE + ONTARIO ST,,42.30831,-71.77988,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=988&showAllBusses=on,0,,America/New_York,,,0
-821416,987,,194 ST NICHOLAS AVE,,42.30939,-71.7807,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=987&showAllBusses=on,0,,America/New_York,,,0
-821415,986,,ST NICHOLAS AVE + CLARK ST,,42.31047,-71.7815,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=986&showAllBusses=on,0,,America/New_York,,,0
-821414,185,,CLARK ST + HARLEY DR,,42.31153,-71.77976,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=185&showAllBusses=on,0,,America/New_York,,,0
-821413,184,,TACOMA ST + CLARK ST,,42.31204,-71.77575,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=184&showAllBusses=on,0,,America/New_York,,,0
-821412,1168,,CLARK ST + TEAMSTER VILLAGE,,42.31304,-71.77355,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1168&showAllBusses=on,0,,America/New_York,,,0
-821411,1167,,CENTURY DR + RED CROSS,,42.31572,-71.76923,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1167&showAllBusses=on,0,,America/New_York,,,0
-821410,1155,,100 CENTURY DR,,42.31411,-71.76991,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1155&showAllBusses=on,0,,America/New_York,,,0
-821409,751,,MOUNTAIN ST EAST + MOSQUE,,42.31508,-71.77286,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=751&showAllBusses=on,0,,America/New_York,,,0
-821408,1153,,MOUNTAIN VILLAGE,,42.3181,-71.77875,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1153&showAllBusses=on,0,,America/New_York,,,0
-821381,652,,MASSASOIT RD + HEYWOOD ST,,42.249727417441,-71.7796300713552,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=652&showAllBusses=on,0,,America/New_York,,,0
-821379,1181,,GRAFTON ST + RICE SQUARE,,42.2517107331156,-71.7821680244653,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=5&id=1181&showAllBusses=on,0,,America/New_York,,,0
-821378,217,,DORCHESTER ST + ARTHUR ST,,42.2521333035683,-71.7838138689256,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=217&showAllBusses=on,0,,America/New_York,,,0
-821376,215,,DORCHESTER ST + CUTLER ST,,42.2519727742719,-71.7866616999517,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=215&showAllBusses=on,0,,America/New_York,,,0
-821375,211,,DORCHESTER ST + RICE LN,,42.2518871300142,-71.7882313749345,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=211&showAllBusses=on,0,,America/New_York,,,0
-821374,210,,DORCHESTER ST + SHANNON ST,,42.2518397682027,-71.7890677922973,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=210&showAllBusses=on,0,,America/New_York,,,0
-821373,209,,DORCHESTER ST + CHAPIN ST,,42.2517548995657,-71.790628094763,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=209&showAllBusses=on,0,,America/New_York,,,0
-821372,214,,DORCHESTER ST + PROVIDENCE ST,,42.251663457533,-71.7922483346778,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=214&showAllBusses=on,0,,America/New_York,,,0
-821366,224,,DORCHESTER ST + PROVIDENCE ST,,42.25174,-71.79232,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=224&showAllBusses=on,0,,America/New_York,,,0
-821365,223,,DORCHESTER ST + CHAPIN ST,,42.25179,-71.79101,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=223&showAllBusses=on,0,,America/New_York,,,0
-821364,222,,DORCHESTER ST + BARCLAY ST,,42.25191,-71.78906,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=222&showAllBusses=on,0,,America/New_York,,,0
-821363,221,,DORCHESTER ST + MENDON ST,,42.25198,-71.78783,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=221&showAllBusses=on,0,,America/New_York,,,0
-821362,219,,DORCHESTER ST + HOUGHTON ST,,42.25208,-71.78646,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=219&showAllBusses=on,0,,America/New_York,,,0
-821361,218,,DORCHESTER ST + ARTHUR ST,,42.25221,-71.78396,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=218&showAllBusses=on,0,,America/New_York,,,0
-821360,294,,GRAFTON ST + RICE SQUARE,,42.25172,-71.78205,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=5&id=294&showAllBusses=on,0,,America/New_York,,,0
-821359,693,,MASSASOIT RD + HEYWOOD ST,,42.24973,-71.77936,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=693&showAllBusses=on,0,,America/New_York,,,0
-821347,670,,MASSASOIT RD + BLITHEWOOD AVE,,42.2359,-71.76498,,,0,,America/New_York,,,0
-821335,4085,,MAIN ST + MILLBURY CENTER,,42.1915,-71.76052,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=4&id=4085&showAllBusses=on,0,,America/New_York,,,0
-821334,1255,,PLEASANT ST + SOUTH OLEANS ST,,42.27866,-71.85609,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=1255&showAllBusses=on,0,,America/New_York,,,0
-821333,1173,,PLEASANT ST + TATNUCK SQUARE,,42.2783205151152,-71.853324917193,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=1173&showAllBusses=on,0,,America/New_York,,,0
-821332,838,,PLEASANT ST + POMONA RD,,42.2781833288098,-71.8523142074934,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=838&showAllBusses=on,0,,America/New_York,,,0
-821330,836,,PLEASANT ST + CHESTERFIELD RD,,42.2783529549401,-71.8488521930115,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=836&showAllBusses=on,0,,America/New_York,,,0
-821329,835,,PLEASANT ST + WRENTHAM RD,,42.27877,-71.84646,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=835&showAllBusses=on,0,,America/New_York,,,0
-821328,833,,PLEASANT ST + MORELAND ST,,42.27815,-71.84375,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=833&showAllBusses=on,0,,America/New_York,,,0
-821327,832,,PLEASANT ST + MOORE AVE,,42.27749,-71.84159,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=832&showAllBusses=on,0,,America/New_York,,,0
-821326,831,,PLEASANT ST + GUILD RD,,42.27736,-71.84007,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=831&showAllBusses=on,0,,America/New_York,,,0
-821325,830,,PLEASANT ST + FLAGG ST,,42.27742,-71.83826,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=830&showAllBusses=on,0,,America/New_York,,,0
-821324,829,,PLEASANT ST + KENILWORTH RD,,42.27692,-71.83638,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=829&showAllBusses=on,0,,America/New_York,,,0
-821323,828,,PLEASANT ST + BERWICK ST,,42.2761,-71.83493,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=828&showAllBusses=on,0,,America/New_York,,,0
-821322,827,,PLEASANT ST + LENOX ST,,42.27488,-71.83311,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=827&showAllBusses=on,0,,America/New_York,,,0
-821321,826,,PLEASANT ST + INTERVALE RD,,42.27268,-71.83059,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=826&showAllBusses=on,0,,America/New_York,,,0
-821319,825,,PLEASANT ST + ELMWOOD ST,,42.27148,-71.8294,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=825&showAllBusses=on,0,,America/New_York,,,0
-821318,824,,PLEASANT ST + GREENLEAF TER,,42.2706,-71.82778,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=824&showAllBusses=on,0,,America/New_York,,,0
-821316,822,,PLEASANT ST + NEWTON SQUARE,,42.2695,-71.82508,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=822&showAllBusses=on,0,,America/New_York,,,0
-821314,811,,PLEASANT ST + COPLEY RD,,42.26711,-71.82376,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=811&showAllBusses=on,0,,America/New_York,,,0
-821313,810,,PLEASANT ST + COPLEY RD,,42.26585,-71.82298,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=810&showAllBusses=on,0,,America/New_York,,,0
-821311,821,,PLEASANT ST + FEDERAL PL,,42.26433,-71.82052,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=821&showAllBusses=on,0,,America/New_York,,,0
-821310,820,,PLEASANT ST + PARK AVE,,42.26369,-71.81928,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=820&showAllBusses=on,0,,America/New_York,,,0
-821309,819,,PLEASANT ST + HUDSON ST,,42.26343,-71.81806,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=819&showAllBusses=on,0,,America/New_York,,,0
-821308,1244,,ELM PARK TOWERS,,42.26347,-71.81647,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=1244&showAllBusses=on,0,,America/New_York,,,0
-821307,817,,PLEASANT ST + RUSSELL ST,,42.2637,-71.81504,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=817&showAllBusses=on,0,,America/New_York,,,0
-821306,816,,PLEASANT ST + MERRICK ST,,42.26387,-71.81403,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=816&showAllBusses=on,0,,America/New_York,,,0
-821305,815,,PLEASANT ST + FRUIT ST,,42.26411,-71.81144,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=815&showAllBusses=on,0,,America/New_York,,,0
-821304,814,,PLEASANT ST + WEST ST,,42.26401,-71.80914,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=814&showAllBusses=on,0,,America/New_York,,,0
-821303,813,,PLEASANT ST + ASHLAND ST,,42.2639,-71.80763,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=813&showAllBusses=on,0,,America/New_York,,,0
-821302,812,,PLEASANT ST + LINDEN ST,,42.26382,-71.80635,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=812&showAllBusses=on,0,,America/New_York,,,0
-821301,878,,PLEASANT ST + CHESTNUT ST,,42.2636357100168,-71.8047795581373,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=878&showAllBusses=on,0,,America/New_York,,,0
-821300,877,,PLEASANT ST + IRVING ST,,42.2637112926264,-71.806187019031,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=877&showAllBusses=on,0,,America/New_York,,,0
-821299,876,,PLEASANT ST + OXFORD ST,,42.2638040339008,-71.8075357804922,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=876&showAllBusses=on,0,,America/New_York,,,0
-821298,875,,PLEASANT ST + CROWN ST,,42.2638885627256,-71.8087225707506,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=875&showAllBusses=on,0,,America/New_York,,,0
-821297,874,,PLEASANT ST + HAWLEY ST,,42.2640084642157,-71.8119970447074,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=874&showAllBusses=on,0,,America/New_York,,,0
-821296,872,,PLEASANT ST + RUSSELL ST,,42.2637158716582,-71.8143578013768,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=872&showAllBusses=on,0,,America/New_York,,,0
-821170,1151,,WORCESTER AIRPORT,,42.26947,-71.87027,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=1151&showAllBusses=on,0,,America/New_York,,,0
-821169,540,,LINCOLN ST + LINCOLN PLAZA,,42.29463,-71.77512,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=540&showAllBusses=on,0,,America/New_York,,,0
-821168,539,,LINCOLN ST + MCDONALDS,,42.29545,-71.77263,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=539&showAllBusses=on,0,,America/New_York,,,0
-821167,538,,LINCOLN ST + PASADENA PKWY,,42.29678,-71.76916,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=538&showAllBusses=on,0,,America/New_York,,,0
-821166,537,,LINCOLN ST + BOYLSTON ST,,42.29761,-71.76779,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=537&showAllBusses=on,0,,America/New_York,,,0
-821165,1207,,640 LINCOLN ST,,42.29781,-71.76453,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=1207&showAllBusses=on,0,,America/New_York,,,0
-821164,437,,LINCOLN ST + GEORGE BOOTH APARTMENTS,,42.29736,-71.76092,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=437&showAllBusses=on,0,,America/New_York,,,0
-821163,1206,,425 NORTH LAKE AVE,,42.29436,-71.75874,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=1206&showAllBusses=on,0,,America/New_York,,,0
-821162,808,,PLANTATION ST + FALLON CLINIC,,42.29201,-71.76049,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=808&showAllBusses=on,0,,America/New_York,,,0
-821161,785,,PLANTATION ST + NATURAL HISTORY RD,,42.28987,-71.76047,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=785&showAllBusses=on,0,,America/New_York,,,0
-821160,1205,,PLANTATION ST + NOTRE DAME,,42.28785,-71.762,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=1205&showAllBusses=on,0,,America/New_York,,,0
-821159,1269,,PLANTATION ST + WINCO ST,,42.28349,-71.76264,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=1269&showAllBusses=on,0,,America/New_York,,,0
-821158,1204,,PLANTATION ST + NORTH RD,,42.2785872581955,-71.7649663704633,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=1204&showAllBusses=on,0,,America/New_York,,,0
-821157,500,,LAKE AVE + BELMONT ST,,42.27377,-71.75885,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=500&showAllBusses=on,0,,America/New_York,,,0
-821156,501,,LAKE AVE + LINCOLN PARK TOWERS,,42.27263,-71.75897,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=501&showAllBusses=on,0,,America/New_York,,,0
-821155,507,,LAKE AVE + LAKEVIEW ST,,42.2684,-71.75564,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=507&showAllBusses=on,0,,America/New_York,,,0
-821154,505,,LAKE AVE + ANNA ST,,42.26637,-71.75521,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=505&showAllBusses=on,0,,America/New_York,,,0
-821153,506,,LAKE AVE + OTHELLO RD,,42.26482,-71.75459,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=506&showAllBusses=on,0,,America/New_York,,,0
-821152,504,,LAKE AVE + LAKE PARK,,42.26197,-71.75397,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=504&showAllBusses=on,0,,America/New_York,,,0
-821151,502,,LAKE AVE + HAMILTON ST,,42.26045,-71.75368,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=502&showAllBusses=on,0,,America/New_York,,,0
-821150,407,,HAMILTON ST + PARK ROAD ENTRANCE,,42.25996,-71.75573,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=407&showAllBusses=on,0,,America/New_York,,,0
-821149,406,,HAMILTON ST + COBURN AVE,,42.25951,-71.75914,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=406&showAllBusses=on,0,,America/New_York,,,0
-821147,404,,HAMILTON ST + BOSTON AVE,,42.25885,-71.76208,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=404&showAllBusses=on,0,,America/New_York,,,0
-821145,402,,HAMILTON ST + COMMONWEALTH AVE,,42.25929,-71.76466,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=402&showAllBusses=on,0,,America/New_York,,,0
-821144,401,,HAMILTON ST + HAROLD ST,,42.259,-71.76534,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=401&showAllBusses=on,0,,America/New_York,,,0
-821142,399,,HAMILTON ST + ERNEST AVE,,42.25781,-71.76744,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=399&showAllBusses=on,0,,America/New_York,,,0
-821141,398,,HAMILTON ST + ELMIRE AVE,,42.25735,-71.76892,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=398&showAllBusses=on,0,,America/New_York,,,0
-821140,397,,HAMILTON ST + TRAHAN AVE,,42.25708,-71.76982,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=397&showAllBusses=on,0,,America/New_York,,,0
-821139,395,,HAMILTON ST + WARNER AVE,,42.25633,-71.77305,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=395&showAllBusses=on,0,,America/New_York,,,0
-821137,393,,HAMILTON ST + DELMONT AVE,,42.2562,-71.77601,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=393&showAllBusses=on,0,,America/New_York,,,0
-821136,391,,HAMILTON ST + PILGRIM AVE,,42.25608,-71.77848,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=391&showAllBusses=on,0,,America/New_York,,,0
-821134,389,,HAMILTON ST + INGLESIDE AVE,,42.25597,-71.78052,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=389&showAllBusses=on,0,,America/New_York,,,0
-821133,388,,HAMILTON ST + PLANTATION ST,,42.25591,-71.78205,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=388&showAllBusses=on,0,,America/New_York,,,0
-821132,387,,HAMILTON ST + DUPONT ST,,42.25576,-71.78429,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=387&showAllBusses=on,0,,America/New_York,,,0
-821131,263,,GRAFTON ST + BILLINGS SQUARE,,42.2559,-71.78599,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=263&showAllBusses=on,0,,America/New_York,,,0
-821130,262,,GRAFTON ST + MENDON ST,,42.25618,-71.78796,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=262&showAllBusses=on,0,,America/New_York,,,0
-821129,261,,GRAFTON ST + WAVERLY ST,,42.25652,-71.78993,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=261&showAllBusses=on,0,,America/New_York,,,0
-821128,260,,GRAFTON ST + CORAL ST,,42.25739,-71.79149,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=260&showAllBusses=on,0,,America/New_York,,,0
-821127,1202,,PLANTATION TOWERS,,42.28602,-71.76524,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=1202&showAllBusses=on,0,,America/New_York,,,0
-821126,297,,GRAFTON ST + PENN AVE,,42.25728,-71.79106,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=297&showAllBusses=on,0,,America/New_York,,,0
-821125,319,,GRAFTON ST + MENDON ST,,42.25647,-71.78924,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=319&showAllBusses=on,0,,America/New_York,,,0
-821124,305,,GRAFTON ST + FAY ST,,42.2562,-71.78762,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=305&showAllBusses=on,0,,America/New_York,,,0
-821123,304,,GRAFTON ST + ORIENT ST,,42.25601,-71.78568,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=304&showAllBusses=on,0,,America/New_York,,,0
-821122,424,,HAMILTON ST + PLANTATION ST,,42.2561,-71.78227,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=424&showAllBusses=on,0,,America/New_York,,,0
-821121,412,,HAMILTON ST + INGLESIDE AVE,,42.2562,-71.78019,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=412&showAllBusses=on,0,,America/New_York,,,0
-821120,411,,HAMILTON ST + PILGRIM AVE,,42.25629,-71.77856,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=411&showAllBusses=on,0,,America/New_York,,,0
-821118,422,,HAMILTON ST + DELMONT AVE,,42.25643,-71.77604,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=422&showAllBusses=on,0,,America/New_York,,,0
-821116,409,,HAMILTON ST + WARNER AVE,,42.25656,-71.77339,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=409&showAllBusses=on,0,,America/New_York,,,0
-821115,421,,HAMILTON ST + GORDON ST,,42.25708,-71.7705,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=421&showAllBusses=on,0,,America/New_York,,,0
-821114,420,,HAMILTON ST + HARRINGTON WAY,,42.25751,-71.76913,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=420&showAllBusses=on,0,,America/New_York,,,0
 821850,6180,,SOUTHBRIDGE ST + GOULDING ST,,42.18327,-71.85994,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=6180&showAllBusses=on,0,,America/New_York,,,0
 821849,6175,,SOUTHBRIDGE ST + OXFORD ST,,42.18865,-71.8495,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=6175&showAllBusses=on,0,,America/New_York,,,0
 821848,6170,,SOUTHBRIDGE ST + JOHNSON ST,,42.19183,-71.84504,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=6170&showAllBusses=on,0,,America/New_York,,,0
@@ -633,6 +363,43 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 821797,744,,MILLBURY ST + CANTON ST,,42.2487933036341,-71.8010558635235,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=4&id=744&showAllBusses=on,0,,America/New_York,,,0
 821796,1176,,MILLBURY ST + WARD ST,,42.2472180357918,-71.8005120488766,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=4&id=1176&showAllBusses=on,0,,America/New_York,,,0
 821795,743,,MILLBURY ST + HARLEM ST,,42.2464015497142,-71.8010430592265,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=4&id=743&showAllBusses=on,0,,America/New_York,,,0
+824888,5025,,Route 30 McDonalds,,42.285483,-71.5977,,,0,,America/New_York,,,0
+824887,5023,,Research Dr,,42.287751,-71.5815,,,0,,America/New_York,,,0
+824885,5004,,Northbridge Senior Center,,42.122513,-71.648494,,,0,,America/New_York,,,0
+824884,5032,,New Village/Coremark,,42.1162562358676,-71.6820240043359,,,0,,America/New_York,,,0
+824874,5016,,Grafton Train Station,,42.2466,-71.685325,,,0,,America/New_York,,,0
+824873,5014,,Grafton Town Common,,42.206177,-71.68569,,,0,,America/New_York,,,0
+824872,5013,,Grafton High School,,42.211069,-71.694932,,,0,,America/New_York,,,0
+824865,5006,,Fisherville,,42.1724756157117,-71.6926682123031,,,0,,America/New_York,,,0
+824864,5012,,Fisherville,,42.1725273,-71.692459,,,0,,America/New_York,,,0
+824863,5028,,Fischer + Church Street,,42.269088,-71.6421,,,0,,America/New_York,,,0
+824858,5002,,Church and Linwood Streets,,42.110428,-71.664346,,,0,,America/New_York,,,0
+824857,5010,,Church and Linwood Streets,,42.110428,-71.664346,,,0,,America/New_York,,,0
+824856,5009,,C Street/ New Village,,42.1148371715454,-71.6828833387316,,,0,,America/New_York,,,0
+824855,5007,,Blackstone Valley Shoppes,,42.195935668516,-71.7770419478644,,,0,,America/New_York,,,0
+824854,5027,,Bay State Commons,,42.270605,-71.6095,,,0,,America/New_York,,,0
+822194,3528,,SUMMER + BRIDGE,,42.26362,-71.7951,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=3528&showAllBusses=on,0,,America/New_York,,,0
+822193,3527,,SUMMER + MLK,,42.26597,-71.79561,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=3527&showAllBusses=on,0,,America/New_York,,,0
+822192,3526,,SUMMER + MLK,,42.26604,-71.79538,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=14&id=3526&showAllBusses=on,0,,America/New_York,,,0
+822191,3525,,SUMMER + ASYLUM,,42.2638,-71.79492,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=14&id=3525&showAllBusses=on,0,,America/New_York,,,0
+822190,1208,,GODDARD DR + COPPAGE DR,,42.25872,-71.8664,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=1208&showAllBusses=on,0,,America/New_York,,,0
+822189,3523,,EAST BROOKFIELD COURTHOUSE,,42.23209,-72.02954,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=3523&showAllBusses=on,0,,America/New_York,,,0
+822188,3503,,GREAT BROOK VALLEY POOL,,42.31074,-71.77565,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=3503&showAllBusses=on,0,,America/New_York,,,0
+822187,3502,,COPPAGE DR,,42.26177,-71.86992,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=3502&showAllBusses=on,0,,America/New_York,,,0
+822186,3501,,FAIRLAWN PLAZA INSIDE,,42.27742,-71.73632,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=15&id=3501&showAllBusses=on,0,,America/New_York,,,0
+822185,3522,,END OF LINE JULIO DRIVE,,42.29133,-71.70155,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=15&id=3522&showAllBusses=on,0,,America/New_York,,,0
+822184,3500,,PORTER AND CHESTER SCHOOL,,42.31795,-71.80044,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=14&id=3500&showAllBusses=on,0,,America/New_York,,,0
+822183,3521,,SOUTHWEST COMMONS,,42.24015,-71.74728,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=5&id=3521&showAllBusses=on,0,,America/New_York,,,0
+822182,3163,,PLEASANT ST + MAIN ST,,42.26349,-71.80275,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=3163&showAllBusses=on,0,,America/New_York,,,0
+822181,3162,,PLEASANT ST + PIEDMONT ST,,42.26394,-71.81279,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=3162&showAllBusses=on,0,,America/New_York,,,0
+822180,3161,,PLEASANT ST + BRANTWOOD RD,,42.27876,-71.84562,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=3161&showAllBusses=on,0,,America/New_York,,,0
+822179,3160,,PLEASANT ST + TATNUCK SQ,,42.27825,-71.8537,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=3160&showAllBusses=on,0,,America/New_York,,,0
+822178,3159,,PLEASANT ST + BRANTWOOD RD,,42.27872,-71.84493,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=3159&showAllBusses=on,0,,America/New_York,,,0
+822176,3153,,HIGHLAND ST + LANCASTER ST,,42.27129,-71.80356,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=3153&showAllBusses=on,0,,America/New_York,,,0
+822175,3149,,FRONT ST + CHURCH ST,,42.26269,-71.80026,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=3149&showAllBusses=on,0,,America/New_York,,,0
+822174,3145,,CHANDLER ST + MAY,,42.27062,-71.84389,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=3145&showAllBusses=on,0,,America/New_York,,,0
+822173,3144,,CHANDLER ST + MAY,,42.26729,-71.83946,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=3144&showAllBusses=on,0,,America/New_York,,,0
+822172,3143,,CHANDLER ST + LOVELL,,42.26274,-71.82829,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=3143&showAllBusses=on,0,,America/New_York,,,0
 821794,748,,MILLBURY ST + DIAMOND ST,,42.2446391203453,-71.8021174911279,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=4&id=748&showAllBusses=on,0,,America/New_York,,,0
 821793,742,,MILLBURY ST + PERRY AVE,,42.24303,-71.80236,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=4&id=742&showAllBusses=on,0,,America/New_York,,,0
 821792,741,,MILLBURY ST + FIFTH AVE,,42.24081,-71.80143,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=4&id=741&showAllBusses=on,0,,America/New_York,,,0
@@ -684,6 +451,29 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 821746,1089,,WEST BOYLSTON ST + ASSUMPTION AVE,,42.31286,-71.79739,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1089&showAllBusses=on,0,,America/New_York,,,0
 821745,1088,,WEST BOYLSTON ST + RANDALL ST,,42.31143,-71.79784,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1088&showAllBusses=on,0,,America/New_York,,,0
 821744,1087,,WEST BOYLSTON ST + FALES ST,,42.31059,-71.79811,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1087&showAllBusses=on,0,,America/New_York,,,0
+821743,1086,,WEST BOYLSTON ST + FAIRHAVEN RD,,42.3096,-71.79844,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1086&showAllBusses=on,0,,America/New_York,,,0
+821742,1085,,WEST BOYLSTON ST + AIRLIE ST,,42.3079,-71.79904,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1085&showAllBusses=on,0,,America/New_York,,,0
+821741,1084,,WEST BOYLSTON ST + NEW BOND ST,,42.3051,-71.80049,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1084&showAllBusses=on,0,,America/New_York,,,0
+821740,1083,,WEST BOYLSTON ST + BOURNE ST,,42.30192,-71.80017,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1083&showAllBusses=on,0,,America/New_York,,,0
+821739,1082,,WEST BOYLSTON ST + BARBER AVE,,42.30099,-71.79994,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1082&showAllBusses=on,0,,America/New_York,,,0
+821738,1080,,WEST BOYLSTON ST + NEPONSET ST,,42.29897,-71.80208,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1080&showAllBusses=on,0,,America/New_York,,,0
+821737,259,,GOLD STAR BLVD + GREENDALE MALL,,42.2976400077659,-71.8027950886458,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=259&showAllBusses=on,0,,America/New_York,,,0
+821736,258,,GOLD STAR BLVD + FROSTHOLM ST,,42.29348,-71.80244,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=258&showAllBusses=on,0,,America/New_York,,,0
+821735,257,,GOLD STAR BLVD + WEST BOYLSTON TER,,42.29208,-71.8027,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=257&showAllBusses=on,0,,America/New_York,,,0
+821734,256,,GOLD STAR BLVD + RUTHVEN AVE,,42.29077,-71.8032,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=256&showAllBusses=on,0,,America/New_York,,,0
+821733,255,,GOLD STAR BLVD + MILLBROOK ST,,42.28926,-71.80419,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=255&showAllBusses=on,0,,America/New_York,,,0
+821732,253,,GOLD STAR BLVD + CHADWICK ST,,42.28816,-71.80514,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=253&showAllBusses=on,0,,America/New_York,,,0
+821731,374,,GROVE ST + GLENNIE ST,,42.28402,-71.80722,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=374&showAllBusses=on,0,,America/New_York,,,0
+821730,373,,GROVE ST + WRTA OFFICES,,42.28256,-71.80633,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=373&showAllBusses=on,0,,America/New_York,,,0
+821729,372,,GROVE ST + NORTH ST,,42.28072,-71.80526,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=372&showAllBusses=on,0,,America/New_York,,,0
+821728,371,,GROVE ST + CEMETERY,,42.27932,-71.80426,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=371&showAllBusses=on,0,,America/New_York,,,0
+821727,370,,GROVE ST + FIRE STATION,,42.27808,-71.80309,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=370&showAllBusses=on,0,,America/New_York,,,0
+821726,369,,GROVE ST + LANCASTER ST,,42.27644,-71.80125,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=369&showAllBusses=on,0,,America/New_York,,,0
+821725,368,,GROVE ST + FARADAY ST,,42.27564,-71.80066,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=368&showAllBusses=on,0,,America/New_York,,,0
+821724,375,,74 GROVE ST,,42.27489,-71.80053,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=375&showAllBusses=on,0,,America/New_York,,,0
+821723,189,,GROVE ST + CONCORD ST,,42.27394,-71.80039,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=189&showAllBusses=on,0,,America/New_York,,,0
+821722,386,,GROVE ST + CONCORD ST,,42.2738901167036,-71.800545633858,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=386&showAllBusses=on,0,,America/New_York,,,0
+821721,385,,GROVE ST + FARADAY ST,,42.27499,-71.80065,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=385&showAllBusses=on,0,,America/New_York,,,0
 821720,384,,106 GROVE ST,,42.27634,-71.8013,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=384&showAllBusses=on,0,,America/New_York,,,0
 821719,383,,GROVE ST + FIRE STATION,,42.27772,-71.80292,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=383&showAllBusses=on,0,,America/New_York,,,0
 821718,382,,GROVE ST + CEMETERY,,42.27961,-71.80465,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=382&showAllBusses=on,0,,America/New_York,,,0
@@ -711,76 +501,6 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 821696,1115,,829 WEST BOYLSTON ST,,42.3221118895153,-71.7945122174999,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1115&showAllBusses=on,0,,America/New_York,,,0
 821695,1114,,WEST BOYLSTON ST + VENDORA RD,,42.32321,-71.79401,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1114&showAllBusses=on,0,,America/New_York,,,0
 821694,1113,,WEST BOYLSTON ST + MALDEN ST,,42.3248027889436,-71.7933165069057,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1113&showAllBusses=on,0,,America/New_York,,,0
-821693,1112,,WEST BOYLSTON ST + REYNOLDS ST,,42.3255914955618,-71.7927866548234,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1112&showAllBusses=on,0,,America/New_York,,,0
-821692,1111,,WEST BOYLSTON ST + STOP & SHOP,,42.3271945761164,-71.7919687815557,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1111&showAllBusses=on,0,,America/New_York,,,0
-821691,1110,,WEST BOYLSTON ST + DIXFIELD RD,,42.3282563250909,-71.7916450841895,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1110&showAllBusses=on,0,,America/New_York,,,0
-821690,1109,,WEST BOYLSTON ST + COTUIT ST,,42.3301303482572,-71.7912323487134,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1109&showAllBusses=on,0,,America/New_York,,,0
-821689,1108,,WEST BOYLSTON ST + APTHROP ST,,42.3315126826615,-71.7906701922915,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1108&showAllBusses=on,0,,America/New_York,,,0
-821688,1107,,WEST BOYLSTON ST + KENNEBEC ST,,42.3334058999639,-71.7898861747121,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1107&showAllBusses=on,0,,America/New_York,,,0
-821687,1106,,WEST BOYLSTON ST + WILBUR ST,,42.3345395756275,-71.7894110024767,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1106&showAllBusses=on,0,,America/New_York,,,0
-821686,1105,,WEST BOYLSTON ST + MEOLA AVE,,42.3356246205055,-71.7890820092009,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1105&showAllBusses=on,0,,America/New_York,,,0
-821685,1909,,WEST BOYLSTON ST + ENTERING WORCESTER,,42.3394499411339,-71.7888486976848,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1909&showAllBusses=on,0,,America/New_York,,,0
-821684,5040,,326 WEST BOYLSTON ST,,42.34145,-71.78817,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=5040&showAllBusses=on,0,,America/New_York,,,0
-821683,5035,,WEST BOYLSTON ST + WOODLAND ST,,42.34505,-71.78707,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=5035&showAllBusses=on,0,,America/New_York,,,0
-821682,5030,,WACHUSETT PLAZA,,42.35166,-71.78744,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=5030&showAllBusses=on,0,,America/New_York,,,0
-821681,5025,,WALMART WEST BOYLESTON,,42.35547,-71.78288,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=5025&showAllBusses=on,0,,America/New_York,,,0
-821680,149,,CHANDLER ST + HADWEN RD,,42.26676,-71.83848,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=149&showAllBusses=on,0,,America/New_York,,,0
-821679,147,,CHANDLER ST + PERROT ST,,42.26624,-71.83748,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=147&showAllBusses=on,0,,America/New_York,,,0
-821677,145,,CHANDLER ST + FISKE ST,,42.26475,-71.83488,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=145&showAllBusses=on,0,,America/New_York,,,0
-821676,487,,JUNE ST + CHANDLER ST,,42.2641651337678,-71.8337562990848,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=487&showAllBusses=on,0,,America/New_York,,,0
-821675,486,,JUNE ST + EDGEWOOD ST,,42.26558,-71.83158,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=486&showAllBusses=on,0,,America/New_York,,,0
-821674,485,,JUNE ST + HADWEN RD,,42.26644,-71.8304,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=485&showAllBusses=on,0,,America/New_York,,,0
-821673,484,,JUNE ST + NEVADA ST,,42.26756,-71.82878,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=484&showAllBusses=on,0,,America/New_York,,,0
-821671,482,,JUNE ST + PLEASANT ST,,42.26932,-71.82625,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=482&showAllBusses=on,0,,America/New_York,,,0
-821670,448,,HIGHLAND ST + NEWTON SQUARE,,42.26993,-71.82462,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=448&showAllBusses=on,0,,America/New_York,,,0
-821669,447,,HIGHLAND ST + SUBURBAN RD,,42.27009,-71.82172,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=447&showAllBusses=on,0,,America/New_York,,,0
-821668,446,,HIGHLAND ST + HAVILAND ST,,42.27019,-71.8196,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=446&showAllBusses=on,0,,America/New_York,,,0
-821667,445,,HIGHLAND ST + GERMAIN ST,,42.27025,-71.81813,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=445&showAllBusses=on,0,,America/New_York,,,0
-821666,444,,HIGHLAND ST + PARK AVE,,42.2704,-71.81576,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=444&showAllBusses=on,0,,America/New_York,,,0
-821665,443,,HIGHLAND ST + DOVER ST,,42.27057,-71.81348,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=443&showAllBusses=on,0,,America/New_York,,,0
-821664,442,,HIGHLAND ST + EINHORN RD,,42.27072,-71.81167,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=442&showAllBusses=on,0,,America/New_York,,,0
-821663,441,,HIGHLAND ST + SCHUSSLER RD,,42.27093,-71.80895,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=441&showAllBusses=on,0,,America/New_York,,,0
-821662,440,,HIGHLAND ST + NORTH ASHLAND ST,,42.27108,-71.80714,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=440&showAllBusses=on,0,,America/New_York,,,0
-821661,439,,HIGHLAND ST + DEAN ST,,42.2713,-71.80447,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=439&showAllBusses=on,0,,America/New_York,,,0
-821660,438,,HIGHLAND ST + HARVARD ST,,42.2715,-71.80209,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=438&showAllBusses=on,0,,America/New_York,,,0
-821659,433,,HARVARD ST + DIX ST,,42.26897,-71.8024,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=433&showAllBusses=on,0,,America/New_York,,,0
-821658,179,,CHESTNUT ST + BOWDOIN ST,,42.26742,-71.80347,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=179&showAllBusses=on,0,,America/New_York,,,0
-821657,178,,CHESTNUT ST + WALNUT ST,,42.26641,-71.80376,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=178&showAllBusses=on,0,,America/New_York,,,0
-821656,556,,11 LINDEN ST,,42.26471,-71.80585,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=556&showAllBusses=on,0,,America/New_York,,,0
-821655,558,,LINDEN ST + CEDAR ST,,42.26631,-71.80523,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=558&showAllBusses=on,0,,America/New_York,,,0
-821654,557,,LINDEN ST + WILLIAM ST,,42.2669041416623,-71.8046779889007,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=557&showAllBusses=on,0,,America/New_York,,,0
-821653,515,,LANCASTER ST + DIX ST,,42.26942,-71.80322,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=515&showAllBusses=on,0,,America/New_York,,,0
-821652,461,,HIGHLAND ST + GOULDING ST,,42.2712117003333,-71.8045572851931,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=461&showAllBusses=on,0,,America/New_York,,,0
-821651,460,,HIGHLAND ST + NORTH ASHLAND ST,,42.2710657561801,-71.8063732182724,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=460&showAllBusses=on,0,,America/New_York,,,0
-821650,459,,HIGHLAND ST + WEST ST,,42.270919331499,-71.8081350961846,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=459&showAllBusses=on,0,,America/New_York,,,0
-821649,458,,HIGHLAND ST + SEVER ST,,42.2706668252426,-71.8113281539459,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=458&showAllBusses=on,0,,America/New_York,,,0
-821648,456,,HIGHLAND ST + SOMERSET ST,,42.2704607379635,-71.8136569936109,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=456&showAllBusses=on,0,,America/New_York,,,0
-821647,455,,HIGHLAND ST + PARK AVE,,42.2703556468114,-71.8153255076227,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=455&showAllBusses=on,0,,America/New_York,,,0
-821645,450,,HIGHLAND ST + GERMAIN ST,,42.2701578301122,-71.8181613249467,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=450&showAllBusses=on,0,,America/New_York,,,0
-821644,449,,HIGHLAND ST + HAVILAND ST,,42.2700716368821,-71.819996339082,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=449&showAllBusses=on,0,,America/New_York,,,0
-821643,453,,HIGHLAND ST + SUBURBAN RD,,42.2699641572963,-71.821842163223,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=453&showAllBusses=on,0,,America/New_York,,,0
-821642,451,,HIGHLAND ST + NEWTON SQUARE,,42.269853031058,-71.82410940355,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=451&showAllBusses=on,0,,America/New_York,,,0
-821641,497,,JUNE ST + PLEASANT ST,,42.2695233912569,-71.8257379822485,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=497&showAllBusses=on,0,,America/New_York,,,0
-821639,495,,JUNE ST + COMMODORE RD,,42.26834,-71.82757,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=495&showAllBusses=on,0,,America/New_York,,,0
-821638,494,,JUNE ST + BERKMANS ST,,42.26732,-71.82902,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=494&showAllBusses=on,0,,America/New_York,,,0
-821637,493,,JUNE ST + BROWNELL ST,,42.26645,-71.83029,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=493&showAllBusses=on,0,,America/New_York,,,0
-821636,492,,JUNE ST + EDGEWOOD ST,,42.26556,-71.83157,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=492&showAllBusses=on,0,,America/New_York,,,0
-821635,1174,,JUNE ST + CARLISE ST,,42.2646,-71.83296,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=1174&showAllBusses=on,0,,America/New_York,,,0
-821634,491,,JUNE ST + COURTLAND ST,,42.2636470736841,-71.8348903461449,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=491&showAllBusses=on,0,,America/New_York,,,0
-821633,490,,JUNE ST + MAY ST,,42.2632850748854,-71.8361892940315,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=490&showAllBusses=on,0,,America/New_York,,,0
-821631,700,,MAY ST + UNDERWOOD ST,,42.26417,-71.83787,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=700&showAllBusses=on,0,,America/New_York,,,0
-821630,701,,MAY ST + ZENITH DR,,42.2658,-71.83962,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=701&showAllBusses=on,0,,America/New_York,,,0
-821629,698,,MAY ST + WSU,,42.2669,-71.84038,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=698&showAllBusses=on,0,,America/New_York,,,0
-821628,6070,,AUBURN ST + BRYN MAWR ST,,42.21363,-71.84248,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=6070&showAllBusses=on,0,,America/New_York,,,0
-821627,6060,,OXFORD ST NORTH + AUBURN ST,,42.21469,-71.846,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=6060&showAllBusses=on,0,,America/New_York,,,0
-821626,6055,,OXFORD ST NORTH + ROCHDALE ST,,42.21818,-71.84537,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=6055&showAllBusses=on,0,,America/New_York,,,0
-821625,6050,,PINEHURST AVE + OTIS ST,,42.22323,-71.8472,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=6050&showAllBusses=on,0,,America/New_York,,,0
-821624,945,,SOUTH LUDLOW ST + MOSS ST,,42.22764,-71.8487,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=945&showAllBusses=on,0,,America/New_York,,,0
-821623,944,,SOUTH LUDLOW ST + KEEN ST,,42.22839,-71.84886,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=944&showAllBusses=on,0,,America/New_York,,,0
-821621,942,,SOUTH LUDLOW ST + LAURIER ST,,42.23039,-71.84934,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=942&showAllBusses=on,0,,America/New_York,,,0
-821620,1234,,70 JAMES ST,,42.2324,-71.84967,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=1234&showAllBusses=on,0,,America/New_York,,,0
-821619,1233,,JAMES ST + GENESEE ST,,42.23461,-71.8498,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=1233&showAllBusses=on,0,,America/New_York,,,0
-821618,1001,,STAFFORD ST + GRANDVIEW AVE,,42.23598,-71.84972,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=1001&showAllBusses=on,0,,America/New_York,,,0
 821617,1000,,STAFFORD ST + EUREKA ST,,42.23661,-71.84863,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=1000&showAllBusses=on,0,,America/New_York,,,0
 821616,999,,STAFFORD ST + HENSHAW ST,,42.23739,-71.84726,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=999&showAllBusses=on,0,,America/New_York,,,0
 821614,997,,STAFFORD ST + VARNUM ST,,42.23892,-71.84468,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=997&showAllBusses=on,0,,America/New_York,,,0
@@ -871,6 +591,322 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 821524,111,,CAMBRIDGE ST + CAMP ST,,42.24361,-71.81675,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=111&showAllBusses=on,0,,America/New_York,,,0
 821523,112,,CAMBRIDGE ST + WOODWARD ST,,42.24361,-71.81404,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=112&showAllBusses=on,0,,America/New_York,,,0
 821522,113,,CAMBRIDGE ST + CHELSEA ST,,42.24366,-71.81217,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=113&showAllBusses=on,0,,America/New_York,,,0
+821521,1218,,4 MCKEON RD,,42.24345,-71.80928,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=1218&showAllBusses=on,0,,America/New_York,,,0
+821520,965,,SOUTHBRIDGE ST + COLLEGE OF THE HOLY CROSS,,42.24177,-71.812,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=965&showAllBusses=on,0,,America/New_York,,,0
+821519,964,,SOUTHBRIDGE ST + COLLEGE OF THE HOLY CROSS,,42.23943,-71.81335,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=964&showAllBusses=on,0,,America/New_York,,,0
+821518,963,,SOUTHBRIDGE ST + BOYDEN ST,,42.2371936972358,-71.8148330169977,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=963&showAllBusses=on,0,,America/New_York,,,0
+821517,962,,SOUTHBRIDGE ST + KENDIG ST,,42.2362691620049,-71.8157743450547,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=962&showAllBusses=on,0,,America/New_York,,,0
+821516,961,,SOUTHBRIDGE ST + MALVERN RD,,42.2355347487685,-71.8165258439235,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=961&showAllBusses=on,0,,America/New_York,,,0
+821515,1217,,982 SOUTHBRIDGE ST,,42.23296,-71.81841,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=29&id=1217&showAllBusses=on,0,,America/New_York,,,0
+821514,1216,,HOPE AVE + SOUTHBRIDGE ST,,42.23169,-71.81925,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=1216&showAllBusses=on,0,,America/New_York,,,0
+821513,475,,HOPE AVE + RR TRACKS,,42.23199,-71.82095,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=475&showAllBusses=on,0,,America/New_York,,,0
+821512,476,,HOPE AVE + 7 HILLS,,42.23199,-71.82592,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=476&showAllBusses=on,0,,America/New_York,,,0
+821511,1215,,HOPE AVE + TROWBRIDGE CIRCUIT,,42.232,-71.83149,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=1215&showAllBusses=on,0,,America/New_York,,,0
+821510,1906,,HOPE AVE + ENTERING WORCESTER,,42.22879,-71.83523,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=1906&showAllBusses=on,0,,America/New_York,,,0
+821509,6040,,BOYCE ST + WOODLAND ST,,42.22708,-71.83516,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=6040&showAllBusses=on,0,,America/New_York,,,0
+821508,6035,,SWORD ST + FRANKLIN ST,,42.22366,-71.83384,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=6035&showAllBusses=on,0,,America/New_York,,,0
+821507,6030,,SWORD ST + A ST,,42.22253,-71.8307,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=6030&showAllBusses=on,0,,America/New_York,,,0
+821506,6025,,AUBURN INDUSTRIAL PARK,,42.22025,-71.83034,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=25&id=6025&showAllBusses=on,0,,America/New_York,,,0
+821505,1214,,SEABURY HEIGHTS,,42.27227,-71.78155,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=1214&showAllBusses=on,0,,America/New_York,,,0
+821504,786,,NORTH LAKE AVE + NORTH LAKE AVE,,42.2781,-71.75921,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=786&showAllBusses=on,0,,America/New_York,,,0
+821503,15,,BELMONT ST + MCRAE CT,,42.27358,-71.77407,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=15&showAllBusses=on,0,,America/New_York,,,0
+821502,14,,BELMONT ST + PRENTICE ST,,42.27357,-71.77528,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=14&showAllBusses=on,0,,America/New_York,,,0
+821501,13,,BELMONT ST + ADAMS ST,,42.27348,-71.77814,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=13&showAllBusses=on,0,,America/New_York,,,0
+821500,12,,BELMONT ST + SKYLINE DR,,42.2733,-71.7817,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=12&showAllBusses=on,0,,America/New_York,,,0
+821943,171,,CHANDLER ST + MAYFIELD ST,,42.262200612549,-71.8238116522523,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=171&showAllBusses=on,0,,America/New_York,,,0
+821942,170,,CHANDLER ST + COOLIDGE RD,,42.2622983191776,-71.8257542986614,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=170&showAllBusses=on,0,,America/New_York,,,0
+821939,157,,CHANDLER ST + GENEVA ST,,42.263128478651,-71.8312175145514,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=157&showAllBusses=on,0,,America/New_York,,,0
+821938,156,,CHANDLER ST + JUNE ST,,42.2637700895154,-71.8333926286412,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=156&showAllBusses=on,0,,America/New_York,,,0
+821937,155,,CHANDLER ST + FISKE ST,,42.2647095678872,-71.8350157815067,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=155&showAllBusses=on,0,,America/New_York,,,0
+821936,154,,CHANDLER ST + UNDERWOOD ST,,42.2656660484426,-71.8367296863064,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=154&showAllBusses=on,0,,America/New_York,,,0
+821934,169,,CHANDLER ST + HAMILL RD,,42.266929089303,-71.8391066051084,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=169&showAllBusses=on,0,,America/New_York,,,0
+821933,168,,CHANDLER ST + WORCESTER STATE UNIVERSITY,,42.2684,-71.84111,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=168&showAllBusses=on,0,,America/New_York,,,0
+821932,166,,CHANDLER ST + HUNTHURST CIRCLE,,42.27196,-71.8475,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=166&showAllBusses=on,0,,America/New_York,,,0
+821931,164,,CHANDLER ST + MANHATTEN RD,,42.27358,-71.84965,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=164&showAllBusses=on,0,,America/New_York,,,0
+821929,1253,,CHANDLER ST + ANNISQUAM ST,,42.27555,-71.85167,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=1253&showAllBusses=on,0,,America/New_York,,,0
+821928,162,,CHANDLER ST + MILL ST,,42.27677,-71.85294,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=162&showAllBusses=on,0,,America/New_York,,,0
+821927,161,,CHANDLER ST + TATNUCK SQUARE,,42.27818,-71.85396,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=161&showAllBusses=on,0,,America/New_York,,,0
+821926,781,,MOWER ST + OLEAN ST,,42.27993,-71.85649,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=781&showAllBusses=on,0,,America/New_York,,,0
+821925,780,,MOWER ST + STARK RD,,42.2802686398712,-71.858385122364,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=780&showAllBusses=on,0,,America/New_York,,,0
+821923,778,,MOWER ST + CATARACT ST,,42.2800548135659,-71.8616276865421,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=778&showAllBusses=on,0,,America/New_York,,,0
+821921,776,,MOWER ST + NAVASOTA AVE,,42.2796605569433,-71.8639372644222,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=776&showAllBusses=on,0,,America/New_York,,,0
+821920,850,,PLEASANT ST + JOPPA RD,,42.2796009721262,-71.8676638310336,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=850&showAllBusses=on,0,,America/New_York,,,0
+821919,849,,PLEASANT ST + PROUTY LN,,42.2801841373091,-71.8694414732343,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=849&showAllBusses=on,0,,America/New_York,,,0
+821499,11,,BELMONT ST + OLGA AVE,,42.27273,-71.78463,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=11&showAllBusses=on,0,,America/New_York,,,0
+821498,10,,BELMONT ST + STANTON ST,,42.27273,-71.78566,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=10&showAllBusses=on,0,,America/New_York,,,0
+821497,9,,BELMONT ST + EVERARD ST,,42.27268,-71.78703,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=9&showAllBusses=on,0,,America/New_York,,,0
+821496,8,,BELMONT ST + MERRIFIELD ST,,42.27245,-71.78893,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=8&showAllBusses=on,0,,America/New_York,,,0
+821495,7,,BELMONT ST + EASTERN AVE,,42.27236,-71.78973,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=7&showAllBusses=on,0,,America/New_York,,,0
+821494,6,,BELMONT ST + ELIZABETH ST,,42.27226,-71.79067,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=6&showAllBusses=on,0,,America/New_York,,,0
+821493,5,,BELMONT ST + MEMORIAL HOSPITAL,,42.27214,-71.79186,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=5&showAllBusses=on,0,,America/New_York,,,0
+821492,4,,BELMONT ST + ROUTE 290 RAMP EAST,,42.27192,-71.79365,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=4&showAllBusses=on,0,,America/New_York,,,0
+821491,3,,BELMONT ST + ROUTE 290 RAMP WEST,,42.27158,-71.79625,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=3&showAllBusses=on,0,,America/New_York,,,0
+821490,467,,HOOPER ST + BELMONT ST,,42.27262,-71.79017,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=467&showAllBusses=on,0,,America/New_York,,,0
+821489,468,,HOOPER ST + KENDALL ST,,42.27353,-71.7899,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=468&showAllBusses=on,0,,America/New_York,,,0
+821488,469,,HOOPER ST + CATHERINE ST,,42.27486,-71.78944,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=469&showAllBusses=on,0,,America/New_York,,,0
+821487,1213,,GREENHILL APARTMENTS,,42.27709,-71.78831,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=1213&showAllBusses=on,0,,America/New_York,,,0
+821486,471,,HOOPER ST + CATHERINE ST,,42.2748417542102,-71.7893627116394,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=471&showAllBusses=on,0,,America/New_York,,,0
+821485,470,,HOOPER ST + KENDALL ST,,42.2733081854562,-71.7898505282864,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=470&showAllBusses=on,0,,America/New_York,,,0
+821484,36,,BELMONT ST + FOUNTAIN ST,,42.27178,-71.79598,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=36&showAllBusses=on,0,,America/New_York,,,0
+821483,35,,BELMONT ST + MEMORIAL HOSPITAL,,42.2721,-71.7927,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=35&showAllBusses=on,0,,America/New_York,,,0
+821482,34,,BELMONT ST + HOOPER ST,,42.2723,-71.79051,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=34&showAllBusses=on,0,,America/New_York,,,0
+821481,33,,BELMONT ST + EASTERN AVE,,42.27246,-71.78916,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=33&showAllBusses=on,0,,America/New_York,,,0
+821480,32,,BELMONT ST + RODNEY ST,,42.27257,-71.78808,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=32&showAllBusses=on,0,,America/New_York,,,0
+821479,31,,BELMONT ST + EVERARD ST,,42.27272,-71.78696,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=31&showAllBusses=on,0,,America/New_York,,,0
+821478,30,,BELMONT ST + STANTON ST,,42.2728,-71.78604,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=30&showAllBusses=on,0,,America/New_York,,,0
+821477,29,,BELMONT ST + OLGA AVE,,42.2728,-71.78455,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=29&showAllBusses=on,0,,America/New_York,,,0
+821476,28,,BELMONT ST + SKYLINE DR,,42.27341,-71.78208,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=28&showAllBusses=on,0,,America/New_York,,,0
+821475,27,,BELMONT ST + ODEN AVE,,42.27358,-71.77863,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=27&showAllBusses=on,0,,America/New_York,,,0
+821474,26,,BELMONT ST + PRENTICE ST,,42.27365,-71.77573,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=26&showAllBusses=on,0,,America/New_York,,,0
+821473,25,,BELMONT ST + MCRAE CT,,42.27373,-71.7739,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=25&showAllBusses=on,0,,America/New_York,,,0
+821472,478,,HOSPITAL DR + BELMONT ST,,42.27399,-71.77266,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=478&showAllBusses=on,0,,America/New_York,,,0
+821471,1252,,WORCESTER STATE HOSPITAL,,42.27791,-71.77213,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=1252&showAllBusses=on,0,,America/New_York,,,0
+821470,1261,,RESEARCH DR + INNOVATION DR,,42.27624,-71.76719,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24&id=1261&showAllBusses=on,0,,America/New_York,,,0
+821469,1198,,MOUNTAIN ST EAST + BRIAR LN,,42.31782,-71.77557,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1198&showAllBusses=on,0,,America/New_York,,,0
+821468,1197,,MOUNTAIN ST EAST + MOSQUE,,42.31521,-71.77283,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1197&showAllBusses=on,0,,America/New_York,,,0
+821467,1169,,CLARK ST + TEAMSTER VILLAGE,,42.31301,-71.77341,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1169&showAllBusses=on,0,,America/New_York,,,0
+821466,182,,TACOMA ST + CLARK ST,,42.3117384565421,-71.7761409962883,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=182&showAllBusses=on,0,,America/New_York,,,0
+821465,181,,CLARK ST + HARLEY DR,,42.3114742969403,-71.7800383936509,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=181&showAllBusses=on,0,,America/New_York,,,0
+821464,983,,ST NICHOLAS AVE + CLARK ST,,42.31052,-71.78134,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=983&showAllBusses=on,0,,America/New_York,,,0
+821463,982,,191 ST NICHOLAS AVE,,42.30939,-71.78051,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=982&showAllBusses=on,0,,America/New_York,,,0
+821462,985,,ST NICHOLAS AVE + ONTARIO ST,,42.30816,-71.7796,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=985&showAllBusses=on,0,,America/New_York,,,0
+821461,981,,ST NICHOLAS AVE + SQUANTUM ST,,42.30679,-71.77859,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=981&showAllBusses=on,0,,America/New_York,,,0
+821460,980,,ST NICHOLAS AVE + ONANDAGA ST,,42.30586,-71.77789,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=980&showAllBusses=on,0,,America/New_York,,,0
+821459,979,,ST NICHOLAS AVE + HILDA ST,,42.30443,-71.77682,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=979&showAllBusses=on,0,,America/New_York,,,0
+821458,978,,ST NICHOLAS AVE + COUNTRY CLUB BLVD,,42.30332,-71.77522,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=978&showAllBusses=on,0,,America/New_York,,,0
+821457,200,,COUNTRY CLUB BLVD + ERIE AVE,,42.30303,-71.77471,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=200&showAllBusses=on,0,,America/New_York,,,0
+821456,199,,COUNTRY CLUB BLVD + REC CENTER,,42.30184,-71.77631,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=199&showAllBusses=on,0,,America/New_York,,,0
+821455,198,,132 COUNTRY CLUB BLVD,,42.29994,-71.77679,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=198&showAllBusses=on,0,,America/New_York,,,0
+821454,197,,126 COUNTRY CLUB BLVD,,42.29929,-71.77626,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=197&showAllBusses=on,0,,America/New_York,,,0
+821453,196,,COUNTRY CLUB BLVD + LINCOLN VILLAGE,,42.29757,-71.77503,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=196&showAllBusses=on,0,,America/New_York,,,0
+821452,195,,COUNTRY CLUB BLVD + HOTEL ENTRANCE,,42.29615,-71.77483,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=195&showAllBusses=on,0,,America/New_York,,,0
+821451,194,,COUNTRY CLUB BLVD + LINCOLN ST,,42.29508,-71.77464,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=194&showAllBusses=on,0,,America/New_York,,,0
+821450,531,,LINCOLN ST + LINCOLN PLAZA,,42.29295,-71.7783,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=531&showAllBusses=on,0,,America/New_York,,,0
+821449,530,,LINCOLN ST + MARSH AVE,,42.29208,-71.78021,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=530&showAllBusses=on,0,,America/New_York,,,0
+821448,529,,LINCOLN ST + HANOVER INSURANCE,,42.29133,-71.78218,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=529&showAllBusses=on,0,,America/New_York,,,0
+821447,528,,LINCOLN ST + WAKEFIELD ST,,42.28938,-71.78642,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=528&showAllBusses=on,0,,America/New_York,,,0
+821446,527,,LINCOLN ST + GORHAM ST,,42.28842,-71.78781,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=527&showAllBusses=on,0,,America/New_York,,,0
+821445,526,,LINCOLN ST + BUCKINGHAM ST,,42.28748,-71.78918,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=526&showAllBusses=on,0,,America/New_York,,,0
+821444,518,,LINCOLN ST + OLD LINCOLN ST,,42.27371,-71.79753,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=518&showAllBusses=on,0,,America/New_York,,,0
+821443,516,,LINCOLN ST + OLD LINCOLN ST,,42.27226,-71.79851,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=516&showAllBusses=on,0,,America/New_York,,,0
+821442,567,,MAJOR TAYLOR BLVD + LINCOLN SQUARE,,42.27095,-71.79859,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=567&showAllBusses=on,0,,America/New_York,,,0
+821441,566,,MAJOR TAYLOR BLVD + MCPHS,,42.26982,-71.79858,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=566&showAllBusses=on,0,,America/New_York,,,0
+821440,573,,MAIN ST + THOMAS ST,,42.26819,-71.80044,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=573&showAllBusses=on,0,,America/New_York,,,0
+821438,570,,MAJOR TAYLOR BLVD + MCPHS,,42.2698,-71.79888,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=570&showAllBusses=on,0,,America/New_York,,,0
+821437,569,,MAJOR TAYLOR BLVD + HIGHLAND ST,,42.27085,-71.79891,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=569&showAllBusses=on,0,,America/New_York,,,0
+821436,553,,LINCOLN ST + LINCOLN SQUARE,,42.2719,-71.79884,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=553&showAllBusses=on,0,,America/New_York,,,0
+821435,551,,LINCOLN ST + ROUTE 290 RAMP,,42.27399,-71.79757,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=551&showAllBusses=on,0,,America/New_York,,,0
+821434,546,,LINCOLN ST + FROTHINGHAM RD,,42.28755,-71.78928,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=546&showAllBusses=on,0,,America/New_York,,,0
+821432,544,,LINCOLN ST + ORAN ST,,42.28933,-71.78674,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=544&showAllBusses=on,0,,America/New_York,,,0
+821431,543,,LINCOLN ST + HANOVER INSURANCE,,42.29161,-71.78196,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=543&showAllBusses=on,0,,America/New_York,,,0
+821430,542,,LINCOLN ST + BEVERLY RD,,42.29224,-71.78011,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=542&showAllBusses=on,0,,America/New_York,,,0
+821429,541,,LINCOLN ST + GOLDWAITHE RD,,42.29311,-71.77825,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=541&showAllBusses=on,0,,America/New_York,,,0
+821428,207,,COUNTRY CLUB BLVD + LINCOLN ST,,42.29513,-71.77499,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=207&showAllBusses=on,0,,America/New_York,,,0
+821427,206,,COUNTRY CLUB BLVD + PLAZA ENTRANCE,,42.2963727569743,-71.7751332213636,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=206&showAllBusses=on,0,,America/New_York,,,0
+821426,205,,COUNTRY CLUB BLVD + LINCOLN VILLAGE,,42.2977370244777,-71.7754372025705,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=205&showAllBusses=on,0,,America/New_York,,,0
+821425,204,,91 COUNTRY CLUB BLVD,,42.29926,-71.77635,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=204&showAllBusses=on,0,,America/New_York,,,0
+821424,203,,111 COUNTRY CLUB BLVD,,42.2999,-71.77689,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=203&showAllBusses=on,0,,America/New_York,,,0
+821423,202,,COUNTRY CLUB BLVD + REC CENTER,,42.3019,-71.77636,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=202&showAllBusses=on,0,,America/New_York,,,0
+821422,201,,COUNTRY CLUB BLVD + ERIE AVE,,42.303,-71.77487,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=201&showAllBusses=on,0,,America/New_York,,,0
+821421,992,,5 ST NICHOLAS AVE,,42.30328,-71.7753,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=992&showAllBusses=on,0,,America/New_York,,,0
+821420,991,,ST NICHOLAS AVE + HILDA ST,,42.30441,-71.77695,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=991&showAllBusses=on,0,,America/New_York,,,0
+821419,990,,ST NICHOLAS AVE + ONANDAGA ST,,42.3056077097108,-71.7778915739462,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=990&showAllBusses=on,0,,America/New_York,,,0
+821418,989,,ST NICHOLAS AVE + SQUANTUM ST,,42.30685,-71.77878,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=989&showAllBusses=on,0,,America/New_York,,,0
+821417,988,,ST NICHOLAS AVE + ONTARIO ST,,42.30831,-71.77988,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=988&showAllBusses=on,0,,America/New_York,,,0
+821416,987,,194 ST NICHOLAS AVE,,42.30939,-71.7807,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=987&showAllBusses=on,0,,America/New_York,,,0
+821415,986,,ST NICHOLAS AVE + CLARK ST,,42.31047,-71.7815,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=986&showAllBusses=on,0,,America/New_York,,,0
+821414,185,,CLARK ST + HARLEY DR,,42.31153,-71.77976,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=185&showAllBusses=on,0,,America/New_York,,,0
+821413,184,,TACOMA ST + CLARK ST,,42.31204,-71.77575,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=184&showAllBusses=on,0,,America/New_York,,,0
+821412,1168,,CLARK ST + TEAMSTER VILLAGE,,42.31304,-71.77355,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1168&showAllBusses=on,0,,America/New_York,,,0
+821411,1167,,CENTURY DR + RED CROSS,,42.31572,-71.76923,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1167&showAllBusses=on,0,,America/New_York,,,0
+821410,1155,,100 CENTURY DR,,42.31411,-71.76991,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1155&showAllBusses=on,0,,America/New_York,,,0
+821409,751,,MOUNTAIN ST EAST + MOSQUE,,42.31508,-71.77286,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=751&showAllBusses=on,0,,America/New_York,,,0
+821408,1153,,MOUNTAIN VILLAGE,,42.3181,-71.77875,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1153&showAllBusses=on,0,,America/New_York,,,0
+821246,584,,MAIN ST + SYLVAN ST,,42.24175,-71.84819,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=584&showAllBusses=on,0,,America/New_York,,,0
+821244,582,,MAIN ST + BROOKLINE ST,,42.24225,-71.84593,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=582&showAllBusses=on,0,,America/New_York,,,0
+821243,581,,MAIN ST + GATES LN,,42.24264,-71.84432,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=581&showAllBusses=on,0,,America/New_York,,,0
+821242,580,,MAIN ST + WEBSTER SQUARE PLAZA,,42.2428,-71.84261,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=580&showAllBusses=on,0,,America/New_York,,,0
+821241,579,,MAIN ST + YOUNG ST,,42.24311,-71.84122,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=579&showAllBusses=on,0,,America/New_York,,,0
+821240,578,,MAIN ST + WAYNE ST,,42.24388,-71.83889,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=578&showAllBusses=on,0,,America/New_York,,,0
+821239,577,,MAIN ST + ARBOR VITAE ST,,42.24431,-71.83742,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=577&showAllBusses=on,0,,America/New_York,,,0
+821238,576,,MAIN ST + WEBSTER SQUARE,,42.24491,-71.83439,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=576&showAllBusses=on,0,,America/New_York,,,0
+821236,609,,MAIN ST + CAMBRIDGE ST,,42.24547,-71.83142,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=609&showAllBusses=on,0,,America/New_York,,,0
+821235,608,,MAIN ST + LUCIAN ST,,42.24671,-71.82881,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=608&showAllBusses=on,0,,America/New_York,,,0
+821234,607,,MAIN ST + MARBLE ST,,42.24768,-71.82708,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=607&showAllBusses=on,0,,America/New_York,,,0
+821232,605,,MAIN ST + BEAVER ST,,42.2493,-71.82408,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=605&showAllBusses=on,0,,America/New_York,,,0
+821231,604,,MAIN ST + CLARK UNIVERSITY,,42.24996,-71.82285,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=604&showAllBusses=on,0,,America/New_York,,,0
+821230,603,,MAIN ST + HAWTHORNE ST,,42.2514,-71.82018,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=603&showAllBusses=on,0,,America/New_York,,,0
+821229,602,,MAIN ST + NORWOOD ST,,42.25248,-71.81817,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=602&showAllBusses=on,0,,America/New_York,,,0
+821228,601,,MAIN ST + CLAREMONT ST,,42.25365,-71.81604,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=601&showAllBusses=on,0,,America/New_York,,,0
+821227,600,,MAIN ST + MAY ST,,42.25444,-71.81476,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=600&showAllBusses=on,0,,America/New_York,,,0
+821226,599,,MAIN ST + OREAD PL,,42.25568,-71.81225,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=599&showAllBusses=on,0,,America/New_York,,,0
+821224,597,,MAIN ST + JACKSON ST,,42.25678,-71.81008,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=597&showAllBusses=on,0,,America/New_York,,,0
+821223,596,,MAIN ST + WELLINGTON ST,,42.2581,-71.80766,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=596&showAllBusses=on,0,,America/New_York,,,0
+821221,1182,,MAIN ST + FEDERAL COURT HOUSE,,42.2608928160553,-71.8039068398615,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=1182&showAllBusses=on,0,,America/New_York,,,0
+821219,7501,,MAIN ST + ENTERING LEICESTER,,42.2558231003696,-71.954648100233,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7501&showAllBusses=on,0,,America/New_York,,,0
+821218,8055,,MAIN ST + BOND ST,,42.2564447991352,-71.9590795378246,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=8055&showAllBusses=on,0,,America/New_York,,,0
+821217,8050,,MAIN ST + DAVID PROUTY HIGH SCHOOL,,42.25089,-71.97818,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=8050&showAllBusses=on,0,,America/New_York,,,0
+821216,8045,,MAIN ST + SPENCER TOWN HALL,,42.24423,-71.99216,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=8045&showAllBusses=on,0,,America/New_York,,,0
+821215,8040,,MAIN ST + SPENCER CENTER,,42.243841728166,-71.9945363836327,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=8040&showAllBusses=on,0,,America/New_York,,,0
+821214,8035,,MEADOW RD + MAIN ST,,42.23451,-72.01204,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=8035&showAllBusses=on,0,,America/New_York,,,0
+821213,8030,,SPENCER DPW,,42.2378,-72.00955,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=8030&showAllBusses=on,0,,America/New_York,,,0
+821211,625,,MAIN ST + LUDLOW ST,,42.23973,-71.85625,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=625&showAllBusses=on,0,,America/New_York,,,0
+821210,624,,MAIN ST + GOULD HILL RD,,42.24034,-71.86053,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=624&showAllBusses=on,0,,America/New_York,,,0
+821209,622,,MAIN ST + LEICESTER LINE,,42.2405829168033,-71.8634343139828,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=622&showAllBusses=on,0,,America/New_York,,,0
+821208,7560,,MAIN ST + GERALD CT,,42.2423260087317,-71.8676209629128,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7560&showAllBusses=on,0,,America/New_York,,,0
+821207,7555,,MAIN ST + AUBURN ST,,42.2403821060212,-71.8799002702507,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7555&showAllBusses=on,0,,America/New_York,,,0
+821206,7550,,MAIN ST + HENSHAW ST,,42.2454713701875,-71.8991557956647,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7550&showAllBusses=on,0,,America/New_York,,,0
+821205,7545,,MAIN ST + LEICESTER CENTER,,42.2459984633992,-71.9087362526041,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7545&showAllBusses=on,0,,America/New_York,,,0
+821204,7540,,MAIN ST + PINE ST,,42.2455,-71.91348,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7540&showAllBusses=on,0,,America/New_York,,,0
+821203,7535,,1530 MAIN ST,,42.2454942553576,-71.9323730597044,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7535&showAllBusses=on,0,,America/New_York,,,0
+821202,7530,,SOOJIANS DR + LEICESTER WALMART,,42.24975,-71.93679,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7530&showAllBusses=on,0,,America/New_York,,,0
+821201,647,,MAIN ST + DMV,,42.25987,-71.80474,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=647&showAllBusses=on,0,,America/New_York,,,0
+821200,619,,MAIN ST + IONIC AVE,,42.25881,-71.80619,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=619&showAllBusses=on,0,,America/New_York,,,0
+821199,646,,MAIN ST + HERMON ST,,42.25772,-71.80813,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=646&showAllBusses=on,0,,America/New_York,,,0
+821197,617,,MAIN ST + LAGRANGE ST,,42.25633,-71.81071,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=617&showAllBusses=on,0,,America/New_York,,,0
+821196,644,,MAIN ST + BENEFIT ST,,42.25545,-71.81244,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=644&showAllBusses=on,0,,America/New_York,,,0
+821195,643,,MAIN ST + HAMMOND ST,,42.25429,-71.81473,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=643&showAllBusses=on,0,,America/New_York,,,0
+821194,616,,MAIN ST + RIPLEY ST,,42.25336,-71.81624,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=616&showAllBusses=on,0,,America/New_York,,,0
+821193,615,,MAIN ST + GARDNER ST,,42.25213,-71.81855,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=615&showAllBusses=on,0,,America/New_York,,,0
+821192,614,,MAIN ST + WYMAN ST,,42.25135,-71.82001,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=614&showAllBusses=on,0,,America/New_York,,,0
+821190,642,,MAIN ST + CRYSTAL ST,,42.24973,-71.82304,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=642&showAllBusses=on,0,,America/New_York,,,0
+821189,641,,MAIN ST + FREELAND ST,,42.24835,-71.82557,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=641&showAllBusses=on,0,,America/New_York,,,0
+821188,612,,MAIN ST + LOWELL ST,,42.24764,-71.82689,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=612&showAllBusses=on,0,,America/New_York,,,0
+821187,611,,MAIN ST + TIRRELL ST,,42.2468485246465,-71.8282699398339,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=611&showAllBusses=on,0,,America/New_York,,,0
+821185,640,,MAIN ST + ARENA PLAZA,,42.2457148080313,-71.8305140695368,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=640&showAllBusses=on,0,,America/New_York,,,0
+821184,637,,MAIN ST + WEBSTER SQUARE,,42.24481,-71.83436,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=637&showAllBusses=on,0,,America/New_York,,,0
+821183,636,,MAIN ST + ARBOR VITAE ST,,42.244214635271,-71.8372113810942,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=636&showAllBusses=on,0,,America/New_York,,,0
+821182,635,,MAIN ST + MONTAGUE ST,,42.24348,-71.83973,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=635&showAllBusses=on,0,,America/New_York,,,0
+821180,648,,MAIN ST + WEBSTER SQUARE PLAZA,,42.24261,-71.84257,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=648&showAllBusses=on,0,,America/New_York,,,0
+821179,633,,MAIN ST + CURTIS PKWY,,42.2425,-71.84415,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=633&showAllBusses=on,0,,America/New_York,,,0
+821178,631,,MAIN ST + BLAINE AVE,,42.24196,-71.84664,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=631&showAllBusses=on,0,,America/New_York,,,0
+821177,630,,MAIN ST + HENSHAW ST,,42.24163,-71.84811,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=630&showAllBusses=on,0,,America/New_York,,,0
+821176,629,,MAIN ST + EUREKA TER,,42.24134,-71.84946,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=629&showAllBusses=on,0,,America/New_York,,,0
+821175,628,,MAIN ST + GRANDVIEW AVE,,42.2409296506121,-71.8516265933396,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=628&showAllBusses=on,0,,America/New_York,,,0
+821174,627,,MAIN ST + STEARNS ST,,42.2406453501124,-71.8535647587642,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=627&showAllBusses=on,0,,America/New_York,,,0
+821173,1209,,GODDARD DR + LOWER PARSONS HILL DR,,42.2434036547541,-71.8561945499827,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=1209&showAllBusses=on,0,,America/New_York,,,0
+821172,250,,GODDARD DR + UPPER PARSONS HILL DR,,42.24743,-71.86118,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=250&showAllBusses=on,0,,America/New_York,,,0
+821171,251,,GODDARD DR + T J MAXX,,42.25426,-71.86683,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=251&showAllBusses=on,0,,America/New_York,,,0
+821170,1151,,WORCESTER AIRPORT,,42.26947,-71.87027,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=1151&showAllBusses=on,0,,America/New_York,,,0
+821169,540,,LINCOLN ST + LINCOLN PLAZA,,42.29463,-71.77512,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=540&showAllBusses=on,0,,America/New_York,,,0
+821168,539,,LINCOLN ST + MCDONALDS,,42.29545,-71.77263,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=539&showAllBusses=on,0,,America/New_York,,,0
+821167,538,,LINCOLN ST + PASADENA PKWY,,42.29678,-71.76916,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=538&showAllBusses=on,0,,America/New_York,,,0
+821166,537,,LINCOLN ST + BOYLSTON ST,,42.29761,-71.76779,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=26&id=537&showAllBusses=on,0,,America/New_York,,,0
+821165,1207,,640 LINCOLN ST,,42.29781,-71.76453,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=1207&showAllBusses=on,0,,America/New_York,,,0
+821164,437,,LINCOLN ST + GEORGE BOOTH APARTMENTS,,42.29736,-71.76092,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=437&showAllBusses=on,0,,America/New_York,,,0
+821163,1206,,425 NORTH LAKE AVE,,42.29436,-71.75874,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=1206&showAllBusses=on,0,,America/New_York,,,0
+821162,808,,PLANTATION ST + FALLON CLINIC,,42.29201,-71.76049,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=808&showAllBusses=on,0,,America/New_York,,,0
+821161,785,,PLANTATION ST + NATURAL HISTORY RD,,42.28987,-71.76047,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=785&showAllBusses=on,0,,America/New_York,,,0
+821160,1205,,PLANTATION ST + NOTRE DAME,,42.28785,-71.762,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=1205&showAllBusses=on,0,,America/New_York,,,0
+821159,1269,,PLANTATION ST + WINCO ST,,42.28349,-71.76264,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=1269&showAllBusses=on,0,,America/New_York,,,0
+821158,1204,,PLANTATION ST + NORTH RD,,42.2785872581955,-71.7649663704633,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=1204&showAllBusses=on,0,,America/New_York,,,0
+821157,500,,LAKE AVE + BELMONT ST,,42.27377,-71.75885,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=500&showAllBusses=on,0,,America/New_York,,,0
+821156,501,,LAKE AVE + LINCOLN PARK TOWERS,,42.27263,-71.75897,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=501&showAllBusses=on,0,,America/New_York,,,0
+821155,507,,LAKE AVE + LAKEVIEW ST,,42.2684,-71.75564,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=507&showAllBusses=on,0,,America/New_York,,,0
+821154,505,,LAKE AVE + ANNA ST,,42.26637,-71.75521,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=505&showAllBusses=on,0,,America/New_York,,,0
+821153,506,,LAKE AVE + OTHELLO RD,,42.26482,-71.75459,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=506&showAllBusses=on,0,,America/New_York,,,0
+821152,504,,LAKE AVE + LAKE PARK,,42.26197,-71.75397,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=504&showAllBusses=on,0,,America/New_York,,,0
+821151,502,,LAKE AVE + HAMILTON ST,,42.26045,-71.75368,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=502&showAllBusses=on,0,,America/New_York,,,0
+821150,407,,HAMILTON ST + PARK ROAD ENTRANCE,,42.25996,-71.75573,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=407&showAllBusses=on,0,,America/New_York,,,0
+821149,406,,HAMILTON ST + COBURN AVE,,42.25951,-71.75914,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=406&showAllBusses=on,0,,America/New_York,,,0
+821147,404,,HAMILTON ST + BOSTON AVE,,42.25885,-71.76208,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=404&showAllBusses=on,0,,America/New_York,,,0
+821145,402,,HAMILTON ST + COMMONWEALTH AVE,,42.25929,-71.76466,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=402&showAllBusses=on,0,,America/New_York,,,0
+821144,401,,HAMILTON ST + HAROLD ST,,42.259,-71.76534,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=401&showAllBusses=on,0,,America/New_York,,,0
+821142,399,,HAMILTON ST + ERNEST AVE,,42.25781,-71.76744,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=399&showAllBusses=on,0,,America/New_York,,,0
+821141,398,,HAMILTON ST + ELMIRE AVE,,42.25735,-71.76892,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=398&showAllBusses=on,0,,America/New_York,,,0
+821140,397,,HAMILTON ST + TRAHAN AVE,,42.25708,-71.76982,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=397&showAllBusses=on,0,,America/New_York,,,0
+821139,395,,HAMILTON ST + WARNER AVE,,42.25633,-71.77305,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=395&showAllBusses=on,0,,America/New_York,,,0
+821137,393,,HAMILTON ST + DELMONT AVE,,42.2562,-71.77601,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=393&showAllBusses=on,0,,America/New_York,,,0
+821136,391,,HAMILTON ST + PILGRIM AVE,,42.25608,-71.77848,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=391&showAllBusses=on,0,,America/New_York,,,0
+821134,389,,HAMILTON ST + INGLESIDE AVE,,42.25597,-71.78052,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=389&showAllBusses=on,0,,America/New_York,,,0
+821133,388,,HAMILTON ST + PLANTATION ST,,42.25591,-71.78205,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=388&showAllBusses=on,0,,America/New_York,,,0
+821132,387,,HAMILTON ST + DUPONT ST,,42.25576,-71.78429,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=387&showAllBusses=on,0,,America/New_York,,,0
+821131,263,,GRAFTON ST + BILLINGS SQUARE,,42.2559,-71.78599,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=263&showAllBusses=on,0,,America/New_York,,,0
+821130,262,,GRAFTON ST + MENDON ST,,42.25618,-71.78796,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=262&showAllBusses=on,0,,America/New_York,,,0
+821129,261,,GRAFTON ST + WAVERLY ST,,42.25652,-71.78993,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=261&showAllBusses=on,0,,America/New_York,,,0
+821128,260,,GRAFTON ST + CORAL ST,,42.25739,-71.79149,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=260&showAllBusses=on,0,,America/New_York,,,0
+821127,1202,,PLANTATION TOWERS,,42.28602,-71.76524,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=1202&showAllBusses=on,0,,America/New_York,,,0
+821126,297,,GRAFTON ST + PENN AVE,,42.25728,-71.79106,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=297&showAllBusses=on,0,,America/New_York,,,0
+821125,319,,GRAFTON ST + MENDON ST,,42.25647,-71.78924,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=319&showAllBusses=on,0,,America/New_York,,,0
+821124,305,,GRAFTON ST + FAY ST,,42.2562,-71.78762,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=305&showAllBusses=on,0,,America/New_York,,,0
+821123,304,,GRAFTON ST + ORIENT ST,,42.25601,-71.78568,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=304&showAllBusses=on,0,,America/New_York,,,0
+821122,424,,HAMILTON ST + PLANTATION ST,,42.2561,-71.78227,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=424&showAllBusses=on,0,,America/New_York,,,0
+821121,412,,HAMILTON ST + INGLESIDE AVE,,42.2562,-71.78019,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=412&showAllBusses=on,0,,America/New_York,,,0
+821120,411,,HAMILTON ST + PILGRIM AVE,,42.25629,-71.77856,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=411&showAllBusses=on,0,,America/New_York,,,0
+821118,422,,HAMILTON ST + DELMONT AVE,,42.25643,-71.77604,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=422&showAllBusses=on,0,,America/New_York,,,0
+821116,409,,HAMILTON ST + WARNER AVE,,42.25656,-71.77339,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=409&showAllBusses=on,0,,America/New_York,,,0
+821115,421,,HAMILTON ST + GORDON ST,,42.25708,-71.7705,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=421&showAllBusses=on,0,,America/New_York,,,0
+821114,420,,HAMILTON ST + HARRINGTON WAY,,42.25751,-71.76913,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=420&showAllBusses=on,0,,America/New_York,,,0
+821693,1112,,WEST BOYLSTON ST + REYNOLDS ST,,42.3255914955618,-71.7927866548234,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1112&showAllBusses=on,0,,America/New_York,,,0
+821692,1111,,WEST BOYLSTON ST + STOP & SHOP,,42.3271945761164,-71.7919687815557,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1111&showAllBusses=on,0,,America/New_York,,,0
+821691,1110,,WEST BOYLSTON ST + DIXFIELD RD,,42.3282563250909,-71.7916450841895,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1110&showAllBusses=on,0,,America/New_York,,,0
+821690,1109,,WEST BOYLSTON ST + COTUIT ST,,42.3301303482572,-71.7912323487134,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1109&showAllBusses=on,0,,America/New_York,,,0
+821689,1108,,WEST BOYLSTON ST + APTHROP ST,,42.3315126826615,-71.7906701922915,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1108&showAllBusses=on,0,,America/New_York,,,0
+821688,1107,,WEST BOYLSTON ST + KENNEBEC ST,,42.3334058999639,-71.7898861747121,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1107&showAllBusses=on,0,,America/New_York,,,0
+821687,1106,,WEST BOYLSTON ST + WILBUR ST,,42.3345395756275,-71.7894110024767,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1106&showAllBusses=on,0,,America/New_York,,,0
+821686,1105,,WEST BOYLSTON ST + MEOLA AVE,,42.3356246205055,-71.7890820092009,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1105&showAllBusses=on,0,,America/New_York,,,0
+821685,1909,,WEST BOYLSTON ST + ENTERING WORCESTER,,42.3394499411339,-71.7888486976848,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1909&showAllBusses=on,0,,America/New_York,,,0
+821684,5040,,326 WEST BOYLSTON ST,,42.34145,-71.78817,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=5040&showAllBusses=on,0,,America/New_York,,,0
+821683,5035,,WEST BOYLSTON ST + WOODLAND ST,,42.34505,-71.78707,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=5035&showAllBusses=on,0,,America/New_York,,,0
+821682,5030,,WACHUSETT PLAZA,,42.35166,-71.78744,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=5030&showAllBusses=on,0,,America/New_York,,,0
+821681,5025,,WALMART WEST BOYLESTON,,42.35547,-71.78288,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=5025&showAllBusses=on,0,,America/New_York,,,0
+821680,149,,CHANDLER ST + HADWEN RD,,42.26676,-71.83848,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=149&showAllBusses=on,0,,America/New_York,,,0
+821679,147,,CHANDLER ST + PERROT ST,,42.26624,-71.83748,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=147&showAllBusses=on,0,,America/New_York,,,0
+821677,145,,CHANDLER ST + FISKE ST,,42.26475,-71.83488,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=145&showAllBusses=on,0,,America/New_York,,,0
+821676,487,,JUNE ST + CHANDLER ST,,42.2641651337678,-71.8337562990848,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=487&showAllBusses=on,0,,America/New_York,,,0
+821675,486,,JUNE ST + EDGEWOOD ST,,42.26558,-71.83158,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=486&showAllBusses=on,0,,America/New_York,,,0
+821674,485,,JUNE ST + HADWEN RD,,42.26644,-71.8304,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=485&showAllBusses=on,0,,America/New_York,,,0
+821673,484,,JUNE ST + NEVADA ST,,42.26756,-71.82878,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=484&showAllBusses=on,0,,America/New_York,,,0
+821671,482,,JUNE ST + PLEASANT ST,,42.26932,-71.82625,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=482&showAllBusses=on,0,,America/New_York,,,0
+821670,448,,HIGHLAND ST + NEWTON SQUARE,,42.26993,-71.82462,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=448&showAllBusses=on,0,,America/New_York,,,0
+821669,447,,HIGHLAND ST + SUBURBAN RD,,42.27009,-71.82172,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=447&showAllBusses=on,0,,America/New_York,,,0
+821668,446,,HIGHLAND ST + HAVILAND ST,,42.27019,-71.8196,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=446&showAllBusses=on,0,,America/New_York,,,0
+821667,445,,HIGHLAND ST + GERMAIN ST,,42.27025,-71.81813,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=445&showAllBusses=on,0,,America/New_York,,,0
+821666,444,,HIGHLAND ST + PARK AVE,,42.2704,-71.81576,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=444&showAllBusses=on,0,,America/New_York,,,0
+821665,443,,HIGHLAND ST + DOVER ST,,42.27057,-71.81348,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=443&showAllBusses=on,0,,America/New_York,,,0
+821664,442,,HIGHLAND ST + EINHORN RD,,42.27072,-71.81167,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=442&showAllBusses=on,0,,America/New_York,,,0
+821663,441,,HIGHLAND ST + SCHUSSLER RD,,42.27093,-71.80895,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=441&showAllBusses=on,0,,America/New_York,,,0
+821662,440,,HIGHLAND ST + NORTH ASHLAND ST,,42.27108,-71.80714,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=440&showAllBusses=on,0,,America/New_York,,,0
+821661,439,,HIGHLAND ST + DEAN ST,,42.2713,-71.80447,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=439&showAllBusses=on,0,,America/New_York,,,0
+821660,438,,HIGHLAND ST + HARVARD ST,,42.2715,-71.80209,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=438&showAllBusses=on,0,,America/New_York,,,0
+821659,433,,HARVARD ST + DIX ST,,42.26897,-71.8024,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=433&showAllBusses=on,0,,America/New_York,,,0
+821658,179,,CHESTNUT ST + BOWDOIN ST,,42.26742,-71.80347,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=179&showAllBusses=on,0,,America/New_York,,,0
+821657,178,,CHESTNUT ST + WALNUT ST,,42.26641,-71.80376,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=178&showAllBusses=on,0,,America/New_York,,,0
+821656,556,,11 LINDEN ST,,42.26471,-71.80585,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=556&showAllBusses=on,0,,America/New_York,,,0
+821655,558,,LINDEN ST + CEDAR ST,,42.26631,-71.80523,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=558&showAllBusses=on,0,,America/New_York,,,0
+821654,557,,LINDEN ST + WILLIAM ST,,42.2669041416623,-71.8046779889007,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=557&showAllBusses=on,0,,America/New_York,,,0
+821653,515,,LANCASTER ST + DIX ST,,42.26942,-71.80322,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=515&showAllBusses=on,0,,America/New_York,,,0
+821652,461,,HIGHLAND ST + GOULDING ST,,42.2712117003333,-71.8045572851931,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=461&showAllBusses=on,0,,America/New_York,,,0
+821651,460,,HIGHLAND ST + NORTH ASHLAND ST,,42.2710657561801,-71.8063732182724,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=460&showAllBusses=on,0,,America/New_York,,,0
+821650,459,,HIGHLAND ST + WEST ST,,42.270919331499,-71.8081350961846,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=459&showAllBusses=on,0,,America/New_York,,,0
+821649,458,,HIGHLAND ST + SEVER ST,,42.2706668252426,-71.8113281539459,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=458&showAllBusses=on,0,,America/New_York,,,0
+821648,456,,HIGHLAND ST + SOMERSET ST,,42.2704607379635,-71.8136569936109,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=456&showAllBusses=on,0,,America/New_York,,,0
+821647,455,,HIGHLAND ST + PARK AVE,,42.2703556468114,-71.8153255076227,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=455&showAllBusses=on,0,,America/New_York,,,0
+821645,450,,HIGHLAND ST + GERMAIN ST,,42.2701578301122,-71.8181613249467,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=450&showAllBusses=on,0,,America/New_York,,,0
+821644,449,,HIGHLAND ST + HAVILAND ST,,42.2700716368821,-71.819996339082,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=449&showAllBusses=on,0,,America/New_York,,,0
+821643,453,,HIGHLAND ST + SUBURBAN RD,,42.2699641572963,-71.821842163223,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=453&showAllBusses=on,0,,America/New_York,,,0
+821642,451,,HIGHLAND ST + NEWTON SQUARE,,42.269853031058,-71.82410940355,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=451&showAllBusses=on,0,,America/New_York,,,0
+821641,497,,JUNE ST + PLEASANT ST,,42.2695233912569,-71.8257379822485,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=497&showAllBusses=on,0,,America/New_York,,,0
+821639,495,,JUNE ST + COMMODORE RD,,42.26834,-71.82757,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=495&showAllBusses=on,0,,America/New_York,,,0
+821638,494,,JUNE ST + BERKMANS ST,,42.26732,-71.82902,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=494&showAllBusses=on,0,,America/New_York,,,0
+821637,493,,JUNE ST + BROWNELL ST,,42.26645,-71.83029,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=493&showAllBusses=on,0,,America/New_York,,,0
+821636,492,,JUNE ST + EDGEWOOD ST,,42.26556,-71.83157,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=492&showAllBusses=on,0,,America/New_York,,,0
+821635,1174,,JUNE ST + CARLISE ST,,42.2646,-71.83296,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=1174&showAllBusses=on,0,,America/New_York,,,0
+821634,491,,JUNE ST + COURTLAND ST,,42.2636470736841,-71.8348903461449,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=491&showAllBusses=on,0,,America/New_York,,,0
+821633,490,,JUNE ST + MAY ST,,42.2632850748854,-71.8361892940315,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=490&showAllBusses=on,0,,America/New_York,,,0
+821631,700,,MAY ST + UNDERWOOD ST,,42.26417,-71.83787,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=700&showAllBusses=on,0,,America/New_York,,,0
+821630,701,,MAY ST + ZENITH DR,,42.2658,-71.83962,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=701&showAllBusses=on,0,,America/New_York,,,0
+821629,698,,MAY ST + WSU,,42.2669,-71.84038,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=698&showAllBusses=on,0,,America/New_York,,,0
+821628,6070,,AUBURN ST + BRYN MAWR ST,,42.21363,-71.84248,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=6070&showAllBusses=on,0,,America/New_York,,,0
+821627,6060,,OXFORD ST NORTH + AUBURN ST,,42.21469,-71.846,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=6060&showAllBusses=on,0,,America/New_York,,,0
+821626,6055,,OXFORD ST NORTH + ROCHDALE ST,,42.21818,-71.84537,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=6055&showAllBusses=on,0,,America/New_York,,,0
+821625,6050,,PINEHURST AVE + OTIS ST,,42.22323,-71.8472,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=6050&showAllBusses=on,0,,America/New_York,,,0
+821624,945,,SOUTH LUDLOW ST + MOSS ST,,42.22764,-71.8487,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=945&showAllBusses=on,0,,America/New_York,,,0
+821623,944,,SOUTH LUDLOW ST + KEEN ST,,42.22839,-71.84886,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=944&showAllBusses=on,0,,America/New_York,,,0
+821621,942,,SOUTH LUDLOW ST + LAURIER ST,,42.23039,-71.84934,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=942&showAllBusses=on,0,,America/New_York,,,0
+821620,1234,,70 JAMES ST,,42.2324,-71.84967,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=1234&showAllBusses=on,0,,America/New_York,,,0
+821619,1233,,JAMES ST + GENESEE ST,,42.23461,-71.8498,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=1233&showAllBusses=on,0,,America/New_York,,,0
+821618,1001,,STAFFORD ST + GRANDVIEW AVE,,42.23598,-71.84972,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=27&id=1001&showAllBusses=on,0,,America/New_York,,,0
 821113,418,,HAMILTON ST + ANDERSON AVE,,42.25836,-71.76686,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=418&showAllBusses=on,0,,America/New_York,,,0
 821112,417,,HAMILTON ST + HAROLD ST,,42.25894,-71.76593,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=417&showAllBusses=on,0,,America/New_York,,,0
 821110,415,,HAMILTON ST + RALPH AVE,,42.25956,-71.76433,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=16&id=415&showAllBusses=on,0,,America/New_York,,,0
@@ -1082,29 +1118,58 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 820881,1043,,65 UPLAND ST,,42.2241453241056,-71.8027559141493,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=11&id=1043&showAllBusses=on,0,,America/New_York,,,0
 820880,1042,,UPLAND GARDEN DR + AUTUMN WOODS,,42.22327,-71.80478,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=11&id=1042&showAllBusses=on,0,,America/New_York,,,0
 820879,1041,,22 UPLAND GARDEN DR,,42.22247,-71.80403,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=11&id=1041&showAllBusses=on,0,,America/New_York,,,0
-821743,1086,,WEST BOYLSTON ST + FAIRHAVEN RD,,42.3096,-71.79844,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1086&showAllBusses=on,0,,America/New_York,,,0
-821742,1085,,WEST BOYLSTON ST + AIRLIE ST,,42.3079,-71.79904,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1085&showAllBusses=on,0,,America/New_York,,,0
-821741,1084,,WEST BOYLSTON ST + NEW BOND ST,,42.3051,-71.80049,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1084&showAllBusses=on,0,,America/New_York,,,0
-821740,1083,,WEST BOYLSTON ST + BOURNE ST,,42.30192,-71.80017,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1083&showAllBusses=on,0,,America/New_York,,,0
-821739,1082,,WEST BOYLSTON ST + BARBER AVE,,42.30099,-71.79994,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1082&showAllBusses=on,0,,America/New_York,,,0
-821738,1080,,WEST BOYLSTON ST + NEPONSET ST,,42.29897,-71.80208,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=1080&showAllBusses=on,0,,America/New_York,,,0
-821737,259,,GOLD STAR BLVD + GREENDALE MALL,,42.2976400077659,-71.8027950886458,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=259&showAllBusses=on,0,,America/New_York,,,0
-821736,258,,GOLD STAR BLVD + FROSTHOLM ST,,42.29348,-71.80244,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=258&showAllBusses=on,0,,America/New_York,,,0
-821735,257,,GOLD STAR BLVD + WEST BOYLSTON TER,,42.29208,-71.8027,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=257&showAllBusses=on,0,,America/New_York,,,0
-821734,256,,GOLD STAR BLVD + RUTHVEN AVE,,42.29077,-71.8032,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=256&showAllBusses=on,0,,America/New_York,,,0
-821733,255,,GOLD STAR BLVD + MILLBROOK ST,,42.28926,-71.80419,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=255&showAllBusses=on,0,,America/New_York,,,0
-821732,253,,GOLD STAR BLVD + CHADWICK ST,,42.28816,-71.80514,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=253&showAllBusses=on,0,,America/New_York,,,0
-821731,374,,GROVE ST + GLENNIE ST,,42.28402,-71.80722,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=374&showAllBusses=on,0,,America/New_York,,,0
-821730,373,,GROVE ST + WRTA OFFICES,,42.28256,-71.80633,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=373&showAllBusses=on,0,,America/New_York,,,0
-821729,372,,GROVE ST + NORTH ST,,42.28072,-71.80526,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=372&showAllBusses=on,0,,America/New_York,,,0
-821728,371,,GROVE ST + CEMETERY,,42.27932,-71.80426,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=371&showAllBusses=on,0,,America/New_York,,,0
-821727,370,,GROVE ST + FIRE STATION,,42.27808,-71.80309,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=370&showAllBusses=on,0,,America/New_York,,,0
-821726,369,,GROVE ST + LANCASTER ST,,42.27644,-71.80125,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=369&showAllBusses=on,0,,America/New_York,,,0
-821725,368,,GROVE ST + FARADAY ST,,42.27564,-71.80066,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=368&showAllBusses=on,0,,America/New_York,,,0
-821724,375,,74 GROVE ST,,42.27489,-71.80053,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=375&showAllBusses=on,0,,America/New_York,,,0
-821723,189,,GROVE ST + CONCORD ST,,42.27394,-71.80039,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=189&showAllBusses=on,0,,America/New_York,,,0
-821722,386,,GROVE ST + CONCORD ST,,42.2738901167036,-71.800545633858,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=386&showAllBusses=on,0,,America/New_York,,,0
-821721,385,,GROVE ST + FARADAY ST,,42.27499,-71.80065,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=385&showAllBusses=on,0,,America/New_York,,,0
+821381,652,,MASSASOIT RD + HEYWOOD ST,,42.249727417441,-71.7796300713552,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=652&showAllBusses=on,0,,America/New_York,,,0
+821379,1181,,GRAFTON ST + RICE SQUARE,,42.2517107331156,-71.7821680244653,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=5&id=1181&showAllBusses=on,0,,America/New_York,,,0
+821378,217,,DORCHESTER ST + ARTHUR ST,,42.2521333035683,-71.7838138689256,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=217&showAllBusses=on,0,,America/New_York,,,0
+821376,215,,DORCHESTER ST + CUTLER ST,,42.2519727742719,-71.7866616999517,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=215&showAllBusses=on,0,,America/New_York,,,0
+821375,211,,DORCHESTER ST + RICE LN,,42.2518871300142,-71.7882313749345,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=211&showAllBusses=on,0,,America/New_York,,,0
+821374,210,,DORCHESTER ST + SHANNON ST,,42.2518397682027,-71.7890677922973,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=210&showAllBusses=on,0,,America/New_York,,,0
+821373,209,,DORCHESTER ST + CHAPIN ST,,42.2517548995657,-71.790628094763,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=209&showAllBusses=on,0,,America/New_York,,,0
+821372,214,,DORCHESTER ST + PROVIDENCE ST,,42.251663457533,-71.7922483346778,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=214&showAllBusses=on,0,,America/New_York,,,0
+821366,224,,DORCHESTER ST + PROVIDENCE ST,,42.25174,-71.79232,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=224&showAllBusses=on,0,,America/New_York,,,0
+821365,223,,DORCHESTER ST + CHAPIN ST,,42.25179,-71.79101,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=223&showAllBusses=on,0,,America/New_York,,,0
+821364,222,,DORCHESTER ST + BARCLAY ST,,42.25191,-71.78906,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=222&showAllBusses=on,0,,America/New_York,,,0
+821363,221,,DORCHESTER ST + MENDON ST,,42.25198,-71.78783,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=221&showAllBusses=on,0,,America/New_York,,,0
+821362,219,,DORCHESTER ST + HOUGHTON ST,,42.25208,-71.78646,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=219&showAllBusses=on,0,,America/New_York,,,0
+821361,218,,DORCHESTER ST + ARTHUR ST,,42.25221,-71.78396,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=218&showAllBusses=on,0,,America/New_York,,,0
+821360,294,,GRAFTON ST + RICE SQUARE,,42.25172,-71.78205,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=5&id=294&showAllBusses=on,0,,America/New_York,,,0
+821359,693,,MASSASOIT RD + HEYWOOD ST,,42.24973,-71.77936,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=693&showAllBusses=on,0,,America/New_York,,,0
+821347,670,,MASSASOIT RD + BLITHEWOOD AVE,,42.2359,-71.76498,,,0,,America/New_York,,,0
+821335,4085,,MAIN ST + MILLBURY CENTER,,42.1915,-71.76052,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=4&id=4085&showAllBusses=on,0,,America/New_York,,,0
+821334,1255,,PLEASANT ST + SOUTH OLEANS ST,,42.27866,-71.85609,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=1255&showAllBusses=on,0,,America/New_York,,,0
+821333,1173,,PLEASANT ST + TATNUCK SQUARE,,42.2783205151152,-71.853324917193,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=1173&showAllBusses=on,0,,America/New_York,,,0
+821332,838,,PLEASANT ST + POMONA RD,,42.2781833288098,-71.8523142074934,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=838&showAllBusses=on,0,,America/New_York,,,0
+821330,836,,PLEASANT ST + CHESTERFIELD RD,,42.2783529549401,-71.8488521930115,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=836&showAllBusses=on,0,,America/New_York,,,0
+821329,835,,PLEASANT ST + WRENTHAM RD,,42.27877,-71.84646,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=835&showAllBusses=on,0,,America/New_York,,,0
+821328,833,,PLEASANT ST + MORELAND ST,,42.27815,-71.84375,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=833&showAllBusses=on,0,,America/New_York,,,0
+821327,832,,PLEASANT ST + MOORE AVE,,42.27749,-71.84159,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=832&showAllBusses=on,0,,America/New_York,,,0
+821326,831,,PLEASANT ST + GUILD RD,,42.27736,-71.84007,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=831&showAllBusses=on,0,,America/New_York,,,0
+821325,830,,PLEASANT ST + FLAGG ST,,42.27742,-71.83826,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=830&showAllBusses=on,0,,America/New_York,,,0
+821324,829,,PLEASANT ST + KENILWORTH RD,,42.27692,-71.83638,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=829&showAllBusses=on,0,,America/New_York,,,0
+821323,828,,PLEASANT ST + BERWICK ST,,42.2761,-71.83493,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=828&showAllBusses=on,0,,America/New_York,,,0
+821322,827,,PLEASANT ST + LENOX ST,,42.27488,-71.83311,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=827&showAllBusses=on,0,,America/New_York,,,0
+821321,826,,PLEASANT ST + INTERVALE RD,,42.27268,-71.83059,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=826&showAllBusses=on,0,,America/New_York,,,0
+821319,825,,PLEASANT ST + ELMWOOD ST,,42.27148,-71.8294,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=825&showAllBusses=on,0,,America/New_York,,,0
+821318,824,,PLEASANT ST + GREENLEAF TER,,42.2706,-71.82778,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=824&showAllBusses=on,0,,America/New_York,,,0
+821316,822,,PLEASANT ST + NEWTON SQUARE,,42.2695,-71.82508,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=822&showAllBusses=on,0,,America/New_York,,,0
+821314,811,,PLEASANT ST + COPLEY RD,,42.26711,-71.82376,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=811&showAllBusses=on,0,,America/New_York,,,0
+821313,810,,PLEASANT ST + COPLEY RD,,42.26585,-71.82298,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=810&showAllBusses=on,0,,America/New_York,,,0
+821311,821,,PLEASANT ST + FEDERAL PL,,42.26433,-71.82052,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=821&showAllBusses=on,0,,America/New_York,,,0
+821310,820,,PLEASANT ST + PARK AVE,,42.26369,-71.81928,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=820&showAllBusses=on,0,,America/New_York,,,0
+821309,819,,PLEASANT ST + HUDSON ST,,42.26343,-71.81806,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=819&showAllBusses=on,0,,America/New_York,,,0
+821308,1244,,ELM PARK TOWERS,,42.26347,-71.81647,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=1244&showAllBusses=on,0,,America/New_York,,,0
+821307,817,,PLEASANT ST + RUSSELL ST,,42.2637,-71.81504,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=817&showAllBusses=on,0,,America/New_York,,,0
+821306,816,,PLEASANT ST + MERRICK ST,,42.26387,-71.81403,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=816&showAllBusses=on,0,,America/New_York,,,0
+821305,815,,PLEASANT ST + FRUIT ST,,42.26411,-71.81144,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=815&showAllBusses=on,0,,America/New_York,,,0
+821304,814,,PLEASANT ST + WEST ST,,42.26401,-71.80914,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=814&showAllBusses=on,0,,America/New_York,,,0
+821303,813,,PLEASANT ST + ASHLAND ST,,42.2639,-71.80763,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=813&showAllBusses=on,0,,America/New_York,,,0
+821302,812,,PLEASANT ST + LINDEN ST,,42.26382,-71.80635,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=812&showAllBusses=on,0,,America/New_York,,,0
+821301,878,,PLEASANT ST + CHESTNUT ST,,42.2636357100168,-71.8047795581373,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=878&showAllBusses=on,0,,America/New_York,,,0
+821300,877,,PLEASANT ST + IRVING ST,,42.2637112926264,-71.806187019031,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=877&showAllBusses=on,0,,America/New_York,,,0
+821299,876,,PLEASANT ST + OXFORD ST,,42.2638040339008,-71.8075357804922,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=876&showAllBusses=on,0,,America/New_York,,,0
+821298,875,,PLEASANT ST + CROWN ST,,42.2638885627256,-71.8087225707506,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=875&showAllBusses=on,0,,America/New_York,,,0
+821297,874,,PLEASANT ST + HAWLEY ST,,42.2640084642157,-71.8119970447074,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=874&showAllBusses=on,0,,America/New_York,,,0
+821296,872,,PLEASANT ST + RUSSELL ST,,42.2637158716582,-71.8143578013768,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=872&showAllBusses=on,0,,America/New_York,,,0
 821295,871,,PLEASANT ST + BELLEVUE ST,,42.2633574550447,-71.8162473036739,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=871&showAllBusses=on,0,,America/New_York,,,0
 821294,870,,PLEASANT ST + MASON ST,,42.2632963946746,-71.8178781500819,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=870&showAllBusses=on,0,,America/New_York,,,0
 821293,869,,PLEASANT ST + PARK AVE,,42.2634856353027,-71.8192974341545,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=869&showAllBusses=on,0,,America/New_York,,,0
@@ -1150,71 +1215,6 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 821250,1210,,GODDARD DR + LOWER PARSONS HILL DR,,42.24365,-71.8561,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=1210&showAllBusses=on,0,,America/New_York,,,0
 821248,586,,MAIN ST + GRANDVIEW AVE,,42.24102,-71.85203,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=586&showAllBusses=on,0,,America/New_York,,,0
 821247,585,,MAIN ST + EUREKA ST,,42.24136,-71.84992,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=585&showAllBusses=on,0,,America/New_York,,,0
-821246,584,,MAIN ST + SYLVAN ST,,42.24175,-71.84819,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=584&showAllBusses=on,0,,America/New_York,,,0
-821244,582,,MAIN ST + BROOKLINE ST,,42.24225,-71.84593,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=582&showAllBusses=on,0,,America/New_York,,,0
-821243,581,,MAIN ST + GATES LN,,42.24264,-71.84432,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=581&showAllBusses=on,0,,America/New_York,,,0
-821242,580,,MAIN ST + WEBSTER SQUARE PLAZA,,42.2428,-71.84261,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=580&showAllBusses=on,0,,America/New_York,,,0
-821241,579,,MAIN ST + YOUNG ST,,42.24311,-71.84122,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=579&showAllBusses=on,0,,America/New_York,,,0
-821240,578,,MAIN ST + WAYNE ST,,42.24388,-71.83889,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=578&showAllBusses=on,0,,America/New_York,,,0
-821239,577,,MAIN ST + ARBOR VITAE ST,,42.24431,-71.83742,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=577&showAllBusses=on,0,,America/New_York,,,0
-821238,576,,MAIN ST + WEBSTER SQUARE,,42.24491,-71.83439,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=576&showAllBusses=on,0,,America/New_York,,,0
-821236,609,,MAIN ST + CAMBRIDGE ST,,42.24547,-71.83142,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=609&showAllBusses=on,0,,America/New_York,,,0
-821235,608,,MAIN ST + LUCIAN ST,,42.24671,-71.82881,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=608&showAllBusses=on,0,,America/New_York,,,0
-821234,607,,MAIN ST + MARBLE ST,,42.24768,-71.82708,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=607&showAllBusses=on,0,,America/New_York,,,0
-821232,605,,MAIN ST + BEAVER ST,,42.2493,-71.82408,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=605&showAllBusses=on,0,,America/New_York,,,0
-821231,604,,MAIN ST + CLARK UNIVERSITY,,42.24996,-71.82285,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=604&showAllBusses=on,0,,America/New_York,,,0
-821230,603,,MAIN ST + HAWTHORNE ST,,42.2514,-71.82018,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=603&showAllBusses=on,0,,America/New_York,,,0
-821229,602,,MAIN ST + NORWOOD ST,,42.25248,-71.81817,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=602&showAllBusses=on,0,,America/New_York,,,0
-821228,601,,MAIN ST + CLAREMONT ST,,42.25365,-71.81604,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=601&showAllBusses=on,0,,America/New_York,,,0
-821227,600,,MAIN ST + MAY ST,,42.25444,-71.81476,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=600&showAllBusses=on,0,,America/New_York,,,0
-821226,599,,MAIN ST + OREAD PL,,42.25568,-71.81225,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=599&showAllBusses=on,0,,America/New_York,,,0
-821224,597,,MAIN ST + JACKSON ST,,42.25678,-71.81008,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=597&showAllBusses=on,0,,America/New_York,,,0
-821223,596,,MAIN ST + WELLINGTON ST,,42.2581,-71.80766,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=596&showAllBusses=on,0,,America/New_York,,,0
-821221,1182,,MAIN ST + FEDERAL COURT HOUSE,,42.2608928160553,-71.8039068398615,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=1182&showAllBusses=on,0,,America/New_York,,,0
-821219,7501,,MAIN ST + ENTERING LEICESTER,,42.2558231003696,-71.954648100233,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7501&showAllBusses=on,0,,America/New_York,,,0
-821218,8055,,MAIN ST + BOND ST,,42.2564447991352,-71.9590795378246,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=8055&showAllBusses=on,0,,America/New_York,,,0
-821217,8050,,MAIN ST + DAVID PROUTY HIGH SCHOOL,,42.25089,-71.97818,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=8050&showAllBusses=on,0,,America/New_York,,,0
-821216,8045,,MAIN ST + SPENCER TOWN HALL,,42.24423,-71.99216,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=8045&showAllBusses=on,0,,America/New_York,,,0
-821215,8040,,MAIN ST + SPENCER CENTER,,42.243841728166,-71.9945363836327,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=8040&showAllBusses=on,0,,America/New_York,,,0
-821214,8035,,MEADOW RD + MAIN ST,,42.23451,-72.01204,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=8035&showAllBusses=on,0,,America/New_York,,,0
-821213,8030,,SPENCER DPW,,42.2378,-72.00955,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=8030&showAllBusses=on,0,,America/New_York,,,0
-821211,625,,MAIN ST + LUDLOW ST,,42.23973,-71.85625,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=625&showAllBusses=on,0,,America/New_York,,,0
-821210,624,,MAIN ST + GOULD HILL RD,,42.24034,-71.86053,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=624&showAllBusses=on,0,,America/New_York,,,0
-821209,622,,MAIN ST + LEICESTER LINE,,42.2405829168033,-71.8634343139828,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=622&showAllBusses=on,0,,America/New_York,,,0
-821208,7560,,MAIN ST + GERALD CT,,42.2423260087317,-71.8676209629128,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7560&showAllBusses=on,0,,America/New_York,,,0
-821207,7555,,MAIN ST + AUBURN ST,,42.2403821060212,-71.8799002702507,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7555&showAllBusses=on,0,,America/New_York,,,0
-821206,7550,,MAIN ST + HENSHAW ST,,42.2454713701875,-71.8991557956647,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7550&showAllBusses=on,0,,America/New_York,,,0
-821205,7545,,MAIN ST + LEICESTER CENTER,,42.2459984633992,-71.9087362526041,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7545&showAllBusses=on,0,,America/New_York,,,0
-821204,7540,,MAIN ST + PINE ST,,42.2455,-71.91348,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7540&showAllBusses=on,0,,America/New_York,,,0
-821203,7535,,1530 MAIN ST,,42.2454942553576,-71.9323730597044,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7535&showAllBusses=on,0,,America/New_York,,,0
-821202,7530,,SOOJIANS DR + LEICESTER WALMART,,42.24975,-71.93679,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=7530&showAllBusses=on,0,,America/New_York,,,0
-821201,647,,MAIN ST + DMV,,42.25987,-71.80474,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=647&showAllBusses=on,0,,America/New_York,,,0
-821200,619,,MAIN ST + IONIC AVE,,42.25881,-71.80619,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=619&showAllBusses=on,0,,America/New_York,,,0
-821199,646,,MAIN ST + HERMON ST,,42.25772,-71.80813,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=646&showAllBusses=on,0,,America/New_York,,,0
-821197,617,,MAIN ST + LAGRANGE ST,,42.25633,-71.81071,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=617&showAllBusses=on,0,,America/New_York,,,0
-821196,644,,MAIN ST + BENEFIT ST,,42.25545,-71.81244,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=644&showAllBusses=on,0,,America/New_York,,,0
-821195,643,,MAIN ST + HAMMOND ST,,42.25429,-71.81473,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=643&showAllBusses=on,0,,America/New_York,,,0
-821194,616,,MAIN ST + RIPLEY ST,,42.25336,-71.81624,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=616&showAllBusses=on,0,,America/New_York,,,0
-821193,615,,MAIN ST + GARDNER ST,,42.25213,-71.81855,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=615&showAllBusses=on,0,,America/New_York,,,0
-821192,614,,MAIN ST + WYMAN ST,,42.25135,-71.82001,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=614&showAllBusses=on,0,,America/New_York,,,0
-821190,642,,MAIN ST + CRYSTAL ST,,42.24973,-71.82304,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=642&showAllBusses=on,0,,America/New_York,,,0
-821189,641,,MAIN ST + FREELAND ST,,42.24835,-71.82557,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=641&showAllBusses=on,0,,America/New_York,,,0
-821188,612,,MAIN ST + LOWELL ST,,42.24764,-71.82689,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=612&showAllBusses=on,0,,America/New_York,,,0
-821187,611,,MAIN ST + TIRRELL ST,,42.2468485246465,-71.8282699398339,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=611&showAllBusses=on,0,,America/New_York,,,0
-821185,640,,MAIN ST + ARENA PLAZA,,42.2457148080313,-71.8305140695368,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=640&showAllBusses=on,0,,America/New_York,,,0
-821184,637,,MAIN ST + WEBSTER SQUARE,,42.24481,-71.83436,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=637&showAllBusses=on,0,,America/New_York,,,0
-821183,636,,MAIN ST + ARBOR VITAE ST,,42.244214635271,-71.8372113810942,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=636&showAllBusses=on,0,,America/New_York,,,0
-821182,635,,MAIN ST + MONTAGUE ST,,42.24348,-71.83973,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=635&showAllBusses=on,0,,America/New_York,,,0
-821180,648,,MAIN ST + WEBSTER SQUARE PLAZA,,42.24261,-71.84257,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=648&showAllBusses=on,0,,America/New_York,,,0
-821179,633,,MAIN ST + CURTIS PKWY,,42.2425,-71.84415,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=633&showAllBusses=on,0,,America/New_York,,,0
-821178,631,,MAIN ST + BLAINE AVE,,42.24196,-71.84664,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=631&showAllBusses=on,0,,America/New_York,,,0
-821177,630,,MAIN ST + HENSHAW ST,,42.24163,-71.84811,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=630&showAllBusses=on,0,,America/New_York,,,0
-821176,629,,MAIN ST + EUREKA TER,,42.24134,-71.84946,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=629&showAllBusses=on,0,,America/New_York,,,0
-821175,628,,MAIN ST + GRANDVIEW AVE,,42.2409296506121,-71.8516265933396,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=628&showAllBusses=on,0,,America/New_York,,,0
-821174,627,,MAIN ST + STEARNS ST,,42.2406453501124,-71.8535647587642,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=33&id=627&showAllBusses=on,0,,America/New_York,,,0
-821173,1209,,GODDARD DR + LOWER PARSONS HILL DR,,42.2434036547541,-71.8561945499827,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=1209&showAllBusses=on,0,,America/New_York,,,0
-821172,250,,GODDARD DR + UPPER PARSONS HILL DR,,42.24743,-71.86118,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=250&showAllBusses=on,0,,America/New_York,,,0
-821171,251,,GODDARD DR + T J MAXX,,42.25426,-71.86683,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=19&id=251&showAllBusses=on,0,,America/New_York,,,0
 820878,1040,,36 UPLAND GARDEN DR,,42.22159,-71.8037,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=11&id=1040&showAllBusses=on,0,,America/New_York,,,0
 820877,1039,,UPLAND GARDEN DR + AUTUMN WOODS,,42.22058,-71.80343,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=11&id=1039&showAllBusses=on,0,,America/New_York,,,0
 820876,1187,,SPOFFORD RD + BROUGHTON RD,,42.22085,-71.79962,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=11&id=1187&showAllBusses=on,0,,America/New_York,,,0
