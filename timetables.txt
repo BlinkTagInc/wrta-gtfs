@@ -1,124 +1,124 @@
-timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation,timetable_page_id,timetable_sequence,show_continues_as
-1,3870,0,20180922,20190101,1,1,1,1,1,0,0,Northbridge Walmart - Blackstone Valley Shoppes,Year-round calendar (Monday-Friday),Outbound,horizontal,A,1,0
-2,3870,1,20180922,20190101,1,1,1,1,1,0,0,Northbridge Walmart - Blackstone Valley Shoppes,Year-round calendar (Monday-Friday),Inbound,horizontal,A,2,0
-3,3871,0,20180922,20190101,1,1,1,1,1,0,0,Rockdale - Stop and Shop - Grafton MBTA Station,Year-round calendar (Monday-Friday),Outbound,horizontal,B,1,0
-4,3871,1,20180922,20190101,1,1,1,1,1,0,0,Rockdale - Stop and Shop - Grafton MBTA Station,Year-round calendar (Monday-Friday),Inbound,horizontal,B,2,0
-11,3661,0,20180922,20190101,0,0,0,0,0,0,1,ROUTE 1,"Year-round calendar (Sunday only)",Outbound,horizontal,1,5,0
-12,3661,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 1,"Year-round calendar (Saturday only)",Outbound,horizontal,1,3,0
-13,3661,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 1,"Year-round calendar (Monday-Friday)",Outbound,horizontal,1,1,0
-14,3661,1,20180922,20190101,0,0,0,0,0,0,1,ROUTE 1,"Year-round calendar (Sunday only)",Inbound,horizontal,1,6,0
-15,3661,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 1,"Year-round calendar (Saturday only)",Inbound,horizontal,1,4,0
-16,3661,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 1,"Year-round calendar (Monday-Friday)",Inbound,horizontal,1,2,0
-17,3663,0,20180922,20190101,0,0,0,0,0,0,1,ROUTE 11,Year-round calendar (Sunday only),Outbound,horizontal,11,5,0
-18,3663,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 11,Year-round calendar (Saturday only),Outbound,horizontal,11,3,0
-19,3663,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 11,Year-round calendar (Monday-Friday),Outbound,horizontal,11,1,0
-20,3663,1,20180922,20190101,0,0,0,0,0,0,1,ROUTE 11,Year-round calendar (Sunday only),Inbound,horizontal,11,6,0
-21,3663,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 11,Year-round calendar (Saturday only),Inbound,horizontal,11,4,1
-22,3663,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 11,Year-round calendar (Monday-Friday),Inbound,horizontal,11,2,1
-23,3666,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 14,Year-round calendar (Saturday only),Outbound,horizontal,14,3,0
-24,3666,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 14,Year-round calendar (Monday-Friday),Outbound,horizontal,14,1,0
-25,3666,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 14,Year-round calendar (Saturday only),Inbound,horizontal,14,4,0
-26,3666,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 14,Year-round calendar (Monday-Friday),Inbound,horizontal,14,2,0
-27,3667,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 15,Year-round calendar (Saturday only),Outbound,horizontal,15,3,0
-28,3667,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 15,Year-round calendar (Monday-Friday),Outbound,horizontal,15,1,0
-29,3667,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 15,Year-round calendar (Saturday only),Inbound,horizontal,15,4,0
-30,3667,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 15,Year-round calendar (Monday-Friday),Inbound,horizontal,15,2,0
-31,3668,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 16,Year-round calendar (Saturday only),Outbound,horizontal,16,3,0
-32,3668,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 16,Year-round calendar (Monday-Friday),Outbound,horizontal,16,1,0
-33,3668,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 16,Year-round calendar (Saturday only),Inbound,horizontal,16,4,0
-34,3668,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 16,Year-round calendar (Monday-Friday),Inbound,horizontal,16,2,0
-35,3670,0,20180922,20190101,0,0,0,0,0,0,1,ROUTE 19,Year-round calendar (Sunday only),Outbound,horizontal,19,5,0
-36,3670,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 19,Year-round calendar (Saturday only),Outbound,horizontal,19,3,0
-37,3670,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 19,Year-round calendar (Monday-Friday),Outbound,horizontal,19,1,0
-38,3670,1,20180922,20190101,0,0,0,0,0,0,1,ROUTE 19,Year-round calendar (Sunday only),Inbound,horizontal,19,6,1
-39,3670,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 19,Year-round calendar (Saturday only),Inbound,horizontal,19,4,1
-40,3670,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 19,Year-round calendar (Monday-Friday),Inbound,horizontal,19,2,1
-41,3671,0,20180922,20190101,0,0,0,0,0,0,1,ROUTE 2,Year-round calendar (Sunday only),Outbound,horizontal,2,5,0
-42,3671,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 2,Year-round calendar (Saturday only),Outbound,horizontal,2,3,0
-43,3671,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 2,Year-round calendar (Monday-Friday),Outbound,horizontal,2,1,0
-44,3671,1,20180922,20190101,0,0,0,0,0,0,1,ROUTE 2,Year-round calendar (Sunday only),Inbound,horizontal,2,6,0
-45,3671,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 2,Year-round calendar (Saturday only),Inbound,horizontal,2,4,0
-46,3671,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 2,Year-round calendar (Monday-Friday),Inbound,horizontal,2,2,0
-47,3673,0,20180922,20190101,0,0,0,0,0,0,1,ROUTE 23,Year-round calendar (Sunday only),Outbound,horizontal,23,5,0
-48,3673,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 23,Year-round calendar (Saturday only),Outbound,horizontal,23,3,0
-49,3673,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 23,Year-round calendar (Monday-Friday),Outbound,horizontal,23,1,0
-50,3673,1,20180922,20190101,0,0,0,0,0,0,1,ROUTE 23,Year-round calendar (Sunday only),Inbound,horizontal,23,6,1
-51,3673,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 23,Year-round calendar (Saturday only),Inbound,horizontal,23,4,1
-52,3673,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 23,Year-round calendar (Monday-Friday),Inbound,horizontal,23,2,0
-53,3674,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 24,Year-round calendar (Saturday only),Outbound,horizontal,24,3,0
-54,3674,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 24,Year-round calendar (Monday-Friday),Outbound,horizontal,24,1,0
-55,3674,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 24,Year-round calendar (Saturday only),Inbound,horizontal,24,4,1
-56,3674,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 24,Year-round calendar (Monday-Friday),Inbound,horizontal,24,2,1
-57,3675,0,20180922,20190101,0,0,0,0,0,0,1,ROUTE 24A,Year-round calendar (Sunday only),Outbound,horizontal,24A,5,0
-58,3675,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 24A,Year-round calendar (Saturday only),Outbound,horizontal,24A,3,0
-59,3675,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 24A,Year-round calendar (Monday-Friday),Outbound,horizontal,24A,1,0
-60,3675,1,20180922,20190101,0,0,0,0,0,0,1,ROUTE 24A,Year-round calendar (Sunday only),Inbound,horizontal,24A,6,1
-61,3675,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 24A,Year-round calendar (Saturday only),Inbound,horizontal,24A,4,1
-62,3675,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 24A,Year-round calendar (Monday-Friday),Inbound,horizontal,24A,2,1
-63,3676,0,20180922,20190101,0,0,0,0,0,0,1,ROUTE 25,Year-round calendar (Sunday only),Outbound,horizontal,25,5,0
-64,3676,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 25,Year-round calendar (Saturday only),Outbound,horizontal,25,3,0
-65,3676,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 25,Year-round calendar (Monday-Friday),Outbound,horizontal,25,1,0
-66,3676,1,20180922,20190101,0,0,0,0,0,0,1,ROUTE 25,Year-round calendar (Sunday only),Inbound,horizontal,25,6,0
-67,3676,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 25,Year-round calendar (Saturday only),Inbound,horizontal,25,4,0
-68,3676,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 25,Year-round calendar (Monday-Friday),Inbound,horizontal,25,2,0
-69,3677,0,20180922,20190101,0,0,0,0,0,0,1,ROUTE 26,Year-round calendar (Sunday only),Outbound,horizontal,26,5,0
-70,3677,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 26,Year-round calendar (Saturday only),Outbound,horizontal,26,3,0
-71,3677,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 26,Year-round calendar (Monday-Friday),Outbound,horizontal,26,1,0
-72,3677,1,20180922,20190101,0,0,0,0,0,0,1,ROUTE 26,Year-round calendar (Sunday only),Inbound,horizontal,26,6,0
-73,3677,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 26,Year-round calendar (Saturday only),Inbound,horizontal,26,4,0
-74,3677,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 26,Year-round calendar (Monday-Friday),Inbound,horizontal,26,2,0
-75,3678,0,20180922,20190101,0,0,0,0,0,0,1,ROUTE 27,Year-round calendar (Sunday only),Outbound,horizontal,27,5,0
-76,3678,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 27,Year-round calendar (Saturday only),Outbound,horizontal,27,3,0
-77,3678,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 27,Year-round calendar (Monday-Friday),Outbound,horizontal,27,1,0
-78,3678,1,20180922,20190101,0,0,0,0,0,0,1,ROUTE 27,Year-round calendar (Sunday only),Inbound,horizontal,27,6,1
-79,3678,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 27,Year-round calendar (Saturday only),Inbound,horizontal,27,4,1
-80,3678,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 27,Year-round calendar (Monday-Friday),Inbound,horizontal,27,2,1
-81,3679,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 29,Year-round calendar (Saturday only),Outbound,horizontal,29,3,0
-82,3679,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 29,Year-round calendar (Monday-Friday),Outbound,horizontal,29,1,0
-83,3679,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 29,Year-round calendar (Saturday only),Inbound,horizontal,29,4,0
-84,3679,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 29,Year-round calendar (Monday-Friday),Inbound,horizontal,29,2,0
-85,3680,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 3,Year-round calendar (Saturday only),Outbound,horizontal,3,3,0
-86,3680,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 3,Year-round calendar (Monday-Friday),Outbound,horizontal,3,1,0
-87,3680,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 3,Year-round calendar (Saturday only),Inbound,horizontal,3,4,0
-88,3680,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 3,Year-round calendar (Monday-Friday),Inbound,horizontal,3,2,1
-89,3681,0,20180922,20190101,0,0,0,0,0,0,1,ROUTE 30,Year-round calendar (Sunday only),Outbound,horizontal,30,5,0
-90,3681,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 30,Year-round calendar (Saturday only),Outbound,horizontal,30,3,0
-91,3681,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 30,Year-round calendar (Monday-Friday),Outbound,horizontal,30,1,0
-92,3681,1,20180922,20190101,0,0,0,0,0,0,1,ROUTE 30,Year-round calendar (Sunday only),Inbound,horizontal,30,6,0
-93,3681,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 30,Year-round calendar (Saturday only),Inbound,horizontal,30,4,0
-94,3681,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 30,Year-round calendar (Monday-Friday),Inbound,horizontal,30,2,1
-99,3682,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 31,"Year-round calendar (Saturday only)",Outbound,horizontal,31,3,0
-100,3682,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 31,"Year-round calendar (Monday-Friday)",Outbound,horizontal,31,1,0
-101,3682,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 31,"Year-round calendar (Saturday only)",Inbound,horizontal,31,4,0
-102,3682,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 31,"Year-round calendar (Monday-Friday)",Inbound,horizontal,31,2,0
-103,3683,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 33,Year-round calendar (Monday-Friday),Outbound,horizontal,33,1,0
-104,3683,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 33,Year-round calendar (Monday-Friday),Inbound,horizontal,33,2,0
-105,3685,0,20180922,20190101,0,0,0,0,0,0,1,ROUTE 4,Year-round calendar (Sunday only),Outbound,horizontal,4,5,0
-106,3685,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 4,Year-round calendar (Saturday only),Outbound,horizontal,4,3,0
-107,3685,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 4,Year-round calendar (Monday-Friday),Outbound,horizontal,4,1,0
-108,3685,1,20180922,20190101,0,0,0,0,0,0,1,ROUTE 4,Year-round calendar (Sunday only),Inbound,horizontal,4,6,0
-109,3685,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 4,Year-round calendar (Saturday only),Inbound,horizontal,4,4,0
-110,3685,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 4,Year-round calendar (Monday-Friday),Inbound,horizontal,4,2,0
-111,3691,,20180922,20190101,1,1,1,1,1,0,0,ROUTE 40,Year-round calendar (Monday-Friday),Loop,horizontal,40,1,0
-112,3686,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 42,Year-round calendar (Saturday only),Outbound,horizontal,42,3,0
-113,3686,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 42,Year-round calendar (Monday-Friday),Outbound,horizontal,42,1,0
-114,3686,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 42,Year-round calendar (Saturday only),Inbound,horizontal,42,4,0
-115,3686,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 42,Year-round calendar (Monday-Friday),Inbound,horizontal,42,2,0
-116,3687,0,20180922,20190101,0,0,0,0,0,0,1,ROUTE 5,Year-round calendar (Sunday only),Outbound,horizontal,5,5,0
-117,3687,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 5,Year-round calendar (Saturday only),Outbound,horizontal,5,3,0
-118,3687,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 5,Year-round calendar (Monday-Friday),Outbound,horizontal,5,1,0
-119,3687,1,20180922,20190101,0,0,0,0,0,0,1,ROUTE 5,Year-round calendar (Sunday only),Inbound,horizontal,5,6,0
-120,3687,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 5,Year-round calendar (Saturday only),Inbound,horizontal,5,4,0
-121,3687,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 5,Year-round calendar (Monday-Friday),Inbound,horizontal,5,2,0
-122,3688,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 6,Year-round calendar (Saturday only),Outbound,horizontal,6,3,0
-123,3688,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 6,Year-round calendar (Monday-Friday),Outbound,horizontal,6,1,0
-124,3688,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 6,Year-round calendar (Saturday only),Inbound,horizontal,6,4,0
-125,3688,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 6,Year-round calendar (Monday-Friday),Inbound,horizontal,6,2,0
-126,3689,0,20180922,20190101,0,0,0,0,0,0,1,ROUTE 7,Year-round calendar (Sunday only),Outbound,horizontal,7,5,0
-127,3689,0,20180922,20190101,0,0,0,0,0,1,0,ROUTE 7,Year-round calendar (Saturday only),Outbound,horizontal,7,3,0
-128,3689,0,20180922,20190101,1,1,1,1,1,0,0,ROUTE 7,Year-round calendar (Monday-Friday),Outbound,horizontal,7,1,0
-129,3689,1,20180922,20190101,0,0,0,0,0,0,1,ROUTE 7,Year-round calendar (Sunday only),Inbound,horizontal,7,6,1
-130,3689,1,20180922,20190101,0,0,0,0,0,1,0,ROUTE 7,Year-round calendar (Saturday only),Inbound,horizontal,7,4,1
-131,3689,1,20180922,20190101,1,1,1,1,1,0,0,ROUTE 7,Year-round calendar (Monday-Friday),Inbound,horizontal,7,2,0
-132,3873,0,20180922,20190101,1,1,1,1,1,0,0,Westborough Shuttle,Year-round calendar (Monday-Friday),Outbound,horizontal,West,1,0
-133,3873,1,20180922,20190101,1,1,1,1,1,0,0,Westborough Shuttle,Year-round calendar (Monday-Friday),Inbound,horizontal,West,2,0
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,direction_label,orientation
+2285,3679,0,20180101,20200101,1,1,1,1,1,0,0,Southbridge – Charlton,Monday-Friday,Outbound,horizontal
+2286,3679,0,20180101,20200101,0,0,0,0,0,1,0,Southbridge – Charlton,Saturday only,Outbound,horizontal
+2287,3683,0,20180101,20200101,1,1,1,1,1,0,0,Spencer – Brookfield via Main St. & Rt. 9 ,Monday-Friday,Outbound,horizontal
+2290,3679,1,20180101,20200101,1,1,1,1,1,0,0,Southbridge – Charlton,Monday-Friday,Inbound,horizontal
+2291,3679,1,20180101,20200101,0,0,0,0,0,1,0,Southbridge – Charlton,Saturday only,Inbound,horizontal
+2293,3686,1,20180101,20200101,1,1,1,1,1,0,0,Oxford – Webster via Southbridge St.,Monday-Friday,Inbound,horizontal
+2294,3686,1,20180101,20200101,0,0,0,0,0,1,0,Oxford – Webster via Southbridge St.,Saturday only,Inbound,horizontal
+2297,3685,0,20180922,20200101,1,1,1,1,1,0,0,The Shoppes at Blackstone Valley via Millbury St. ,Monday-Friday,Outbound,horizontal
+2299,3685,0,20180922,20200101,0,0,0,0,0,0,1,The Shoppes at Blackstone Valley via Millbury St. ,Sunday only,Outbound,horizontal
+2305,3663,0,20180922,20200101,0,0,0,0,0,0,1,The Fair Plaza via Vernon Hill and Greenwood St.,Sunday only,Outbound,horizontal
+2309,3667,0,20180922,20200101,0,0,0,0,0,1,0,Shrewsbury Center via Shrewsbury St.,Saturday only,Outbound,horizontal
+2315,3673,0,20180922,20200101,1,1,1,1,1,0,0,East Mountain Street via Lincoln St.,Monday-Friday,Outbound,horizontal
+2320,3675,0,20180922,20200101,1,1,1,1,1,0,0,UMass Medical Center via Belmont St. ,Monday-Friday,Outbound,horizontal
+2334,3871,0,20180922,20200101,1,1,1,1,1,0,0,Rockdale - Stop and Shop - Grafton MBTA Station,Monday-Friday,Outbound,horizontal
+2338,3685,1,20180922,20200101,0,0,0,0,0,1,0,The Shoppes at Blackstone Valley via Millbury St. ,Saturday only,Inbound,horizontal
+2339,3685,1,20180922,20200101,0,0,0,0,0,0,1,The Shoppes at Blackstone Valley via Millbury St. ,Sunday only,Inbound,horizontal
+2342,3689,1,20180922,20200101,0,0,0,0,0,0,1,Washington Heights Apts.,Sunday only,Inbound,horizontal
+2344,3663,1,20180922,20200101,0,0,0,0,0,1,0,The Fair Plaza via Vernon Hill and Greenwood St.,Saturday only,Inbound,horizontal
+2353,3670,1,20180922,20200101,0,0,0,0,0,1,0,Webster Square – Clark University via Main St.,Saturday only,Inbound,horizontal
+2364,3677,1,20180922,20200101,0,0,0,0,0,1,0,Great Brook Valley via Lincoln St.,Saturday only,Inbound,horizontal
+2365,3677,1,20180922,20200101,0,0,0,0,0,0,1,Great Brook Valley via Lincoln St.,Sunday only,Inbound,horizontal
+2370,3682,1,20180922,20200101,0,0,0,0,0,1,0,Lincoln Plaza via Grove St. & West Boylston St.,Saturday only,Inbound,horizontal
+2374,3871,1,20180922,20200101,1,1,1,1,1,0,0,Rockdale - Stop and Shop - Grafton MBTA Station,Monday-Friday,Inbound,horizontal
+2375,3687,0,20190126,20200101,1,1,1,1,1,0,0,Southwest Commons via Grafton St. ,Monday-Friday,Outbound,horizontal
+2386,3687,1,20190126,20200101,1,1,1,1,1,0,0,Southwest Commons via Grafton St. ,Monday-Friday,Inbound,horizontal
+2390,3688,1,20190126,20200101,0,0,0,0,0,1,0,West Tatnuck via Chandler St. ,Saturday only,Inbound,horizontal
+2391,3676,1,20190126,20200101,1,1,1,1,1,0,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Monday-Friday,Inbound,horizontal
+2392,3676,1,20190126,20200101,0,0,0,0,0,1,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Saturday only,Inbound,horizontal
+2393,3676,1,20190126,20200101,0,0,0,0,0,0,1,Auburn Industrial Park via Canterbury & Southbridge St. ,Sunday only,Inbound,horizontal
+2394,3678,1,20190126,20200101,1,1,1,1,1,0,0,Auburn Mall via Main St.,Monday-Friday,Inbound,horizontal
+2395,3678,1,20190126,20200101,0,0,0,0,0,1,0,Auburn Mall via Main St.,Saturday only,Inbound,horizontal
+2396,3678,1,20190126,20200101,0,0,0,0,0,0,1,Auburn Mall via Main St.,Sunday only,Inbound,horizontal
+2399,3686,0,20180101,20200101,1,1,1,1,1,0,0,Oxford – Webster via Southbridge St.,Monday-Friday,Outbound,horizontal
+2400,3686,0,20180101,20200101,0,0,0,0,0,1,0,Oxford – Webster via Southbridge St.,Saturday only,Outbound,horizontal
+2403,3683,1,20180101,20200101,1,1,1,1,1,0,0,Spencer – Brookfield via Main St. & Rt. 9 ,Monday-Friday,Inbound,horizontal
+2409,3685,0,20180922,20200101,0,0,0,0,0,1,0,The Shoppes at Blackstone Valley via Millbury St. ,Saturday only,Outbound,horizontal
+2411,3689,0,20180922,20200101,1,1,1,1,1,0,0,Washington Heights Apts.,Monday-Friday,Outbound,horizontal
+2412,3689,0,20180922,20200101,0,0,0,0,0,1,0,Washington Heights Apts.,Saturday only,Outbound,horizontal
+2413,3689,0,20180922,20200101,0,0,0,0,0,0,1,Washington Heights Apts.,Sunday only,Outbound,horizontal
+2414,3663,0,20180922,20200101,1,1,1,1,1,0,0,The Fair Plaza via Vernon Hill and Greenwood St.,Monday-Friday,Outbound,horizontal
+2415,3663,0,20180922,20200101,0,0,0,0,0,1,0,The Fair Plaza via Vernon Hill and Greenwood St.,Saturday only,Outbound,horizontal
+2417,3666,0,20180922,20200101,1,1,1,1,1,0,0,Showcase Cinemas/Holden via Burncoat St.,Monday-Friday,Outbound,horizontal
+2418,3666,0,20180922,20200101,0,0,0,0,0,1,0,Showcase Cinemas/Holden via Burncoat St.,Saturday only,Outbound,horizontal
+2419,3667,0,20180922,20200101,1,1,1,1,1,0,0,Shrewsbury Center via Shrewsbury St.,Monday-Friday,Outbound,horizontal
+2421,3668,0,20180922,20200101,1,1,1,1,1,0,0,Lincoln Plaza via Hamilton St. and Lake Ave.,Monday-Friday,Outbound,horizontal
+2422,3668,0,20180922,20200101,0,0,0,0,0,1,0,Lincoln Plaza via Hamilton St. and Lake Ave.,Saturday only,Outbound,horizontal
+2423,3670,0,20180922,20200101,1,1,1,1,1,0,0,Webster Square – Clark University via Main St.,Monday-Friday,Outbound,horizontal
+2424,3670,0,20180922,20200101,0,0,0,0,0,1,0,Webster Square – Clark University via Main St.,Saturday only,Outbound,horizontal
+2425,3670,0,20180922,20200101,0,0,0,0,0,0,1,Webster Square – Clark University via Main St.,Sunday only,Outbound,horizontal
+2427,3673,0,20180922,20200101,0,0,0,0,0,1,0,East Mountain Street via Lincoln St.,Saturday only,Outbound,horizontal
+2428,3673,0,20180922,20200101,0,0,0,0,0,0,1,East Mountain Street via Lincoln St.,Sunday only,Outbound,horizontal
+2429,3674,0,20180922,20200101,1,1,1,1,1,0,0,UMass Medical Center via Belmont St.,Monday-Friday,Outbound,horizontal
+2430,3674,0,20180922,20200101,0,0,0,0,0,1,0,UMass Medical Center via Belmont St.,Saturday only,Outbound,horizontal
+2432,3675,0,20180922,20200101,0,0,0,0,0,1,0,UMass Medical Center via Belmont St. ,Saturday only,Outbound,horizontal
+2433,3675,0,20180922,20200101,0,0,0,0,0,0,1,UMass Medical Center via Belmont St. ,Sunday only,Outbound,horizontal
+2434,3677,0,20180922,20200101,1,1,1,1,1,0,0,Great Brook Valley via Lincoln St.,Monday-Friday,Outbound,horizontal
+2435,3677,0,20180922,20200101,0,0,0,0,0,1,0,Great Brook Valley via Lincoln St.,Saturday only,Outbound,horizontal
+2436,3677,0,20180922,20200101,0,0,0,0,0,0,1,Great Brook Valley via Lincoln St.,Sunday only,Outbound,horizontal
+2437,3681,0,20180922,20200101,1,1,1,1,1,0,0,W. Boylston Wal-Mart via Grove St. & W. Boylston St.,Monday-Friday,Outbound,horizontal
+2438,3681,0,20180922,20200101,0,0,0,0,0,1,0,W. Boylston Wal-Mart via Grove St. & W. Boylston St.,Saturday only,Outbound,horizontal
+2439,3681,0,20180922,20200101,0,0,0,0,0,0,1,W. Boylston Wal-Mart via Grove St. & W. Boylston St.,Sunday only,Outbound,horizontal
+2440,3682,0,20180922,20200101,1,1,1,1,1,0,0,Lincoln Plaza via Grove St. & West Boylston St.,Monday-Friday,Outbound,horizontal
+2441,3682,0,20180922,20200101,0,0,0,0,0,1,0,Lincoln Plaza via Grove St. & West Boylston St.,Saturday only,Outbound,horizontal
+2443,3873,0,20180922,20200101,1,1,1,1,1,0,0,Westborough Shuttle,Monday-Friday,Outbound,horizontal
+2444,3870,0,20180922,20200101,1,1,1,1,1,0,0,Northbridge Walmart - Blackstone Valley Shoppes,Monday-Friday,Outbound,horizontal
+2448,3685,1,20180922,20200101,1,1,1,1,1,0,0,The Shoppes at Blackstone Valley via Millbury St. ,Monday-Friday,Inbound,horizontal
+2451,3689,1,20180922,20200101,1,1,1,1,1,0,0,Washington Heights Apts.,Monday-Friday,Inbound,horizontal
+2452,3689,1,20180922,20200101,0,0,0,0,0,1,0,Washington Heights Apts.,Saturday only,Inbound,horizontal
+2454,3663,1,20180922,20200101,1,1,1,1,1,0,0,The Fair Plaza via Vernon Hill and Greenwood St.,Monday-Friday,Inbound,horizontal
+2456,3663,1,20180922,20200101,0,0,0,0,0,0,1,The Fair Plaza via Vernon Hill and Greenwood St.,Sunday only,Inbound,horizontal
+2457,3666,1,20180922,20200101,1,1,1,1,1,0,0,Showcase Cinemas/Holden via Burncoat St.,Monday-Friday,Inbound,horizontal
+2458,3666,1,20180922,20200101,0,0,0,0,0,1,0,Showcase Cinemas/Holden via Burncoat St.,Saturday only,Inbound,horizontal
+2459,3667,1,20180922,20200101,1,1,1,1,1,0,0,Shrewsbury Center via Shrewsbury St.,Monday-Friday,Inbound,horizontal
+2460,3667,1,20180922,20200101,0,0,0,0,0,1,0,Shrewsbury Center via Shrewsbury St.,Saturday only,Inbound,horizontal
+2461,3668,1,20180922,20200101,1,1,1,1,1,0,0,Lincoln Plaza via Hamilton St. and Lake Ave.,Monday-Friday,Inbound,horizontal
+2462,3668,1,20180922,20200101,0,0,0,0,0,1,0,Lincoln Plaza via Hamilton St. and Lake Ave.,Saturday only,Inbound,horizontal
+2463,3670,1,20180922,20200101,1,1,1,1,1,0,0,Webster Square – Clark University via Main St.,Monday-Friday,Inbound,horizontal
+2465,3670,1,20180922,20200101,0,0,0,0,0,0,1,Webster Square – Clark University via Main St.,Sunday only,Inbound,horizontal
+2466,3673,1,20180922,20200101,1,1,1,1,1,0,0,East Mountain Street via Lincoln St.,Monday-Friday,Inbound,horizontal
+2467,3673,1,20180922,20200101,0,0,0,0,0,1,0,East Mountain Street via Lincoln St.,Saturday only,Inbound,horizontal
+2468,3673,1,20180922,20200101,0,0,0,0,0,0,1,East Mountain Street via Lincoln St.,Sunday only,Inbound,horizontal
+2469,3674,1,20180922,20200101,1,1,1,1,1,0,0,UMass Medical Center via Belmont St.,Monday-Friday,Inbound,horizontal
+2470,3674,1,20180922,20200101,0,0,0,0,0,1,0,UMass Medical Center via Belmont St.,Saturday only,Inbound,horizontal
+2471,3675,1,20180922,20200101,1,1,1,1,1,0,0,UMass Medical Center via Belmont St. ,Monday-Friday,Inbound,horizontal
+2472,3675,1,20180922,20200101,0,0,0,0,0,1,0,UMass Medical Center via Belmont St. ,Saturday only,Inbound,horizontal
+2473,3675,1,20180922,20200101,0,0,0,0,0,0,1,UMass Medical Center via Belmont St. ,Sunday only,Inbound,horizontal
+2474,3677,1,20180922,20200101,1,1,1,1,1,0,0,Great Brook Valley via Lincoln St.,Monday-Friday,Inbound,horizontal
+2477,3681,1,20180922,20200101,1,1,1,1,1,0,0,W. Boylston Wal-Mart via Grove St. & W. Boylston St.,Monday-Friday,Inbound,horizontal
+2478,3681,1,20180922,20200101,0,0,0,0,0,1,0,W. Boylston Wal-Mart via Grove St. & W. Boylston St.,Saturday only,Inbound,horizontal
+2479,3681,1,20180922,20200101,0,0,0,0,0,0,1,W. Boylston Wal-Mart via Grove St. & W. Boylston St.,Sunday only,Inbound,horizontal
+2480,3682,1,20180922,20200101,1,1,1,1,1,0,0,Lincoln Plaza via Grove St. & West Boylston St.,Monday-Friday,Inbound,horizontal
+2482,3691,,20180922,20200101,1,1,1,1,1,0,0,Downtown Loop,Monday-Friday,Loop,horizontal
+2483,3873,1,20180922,20200101,1,1,1,1,1,0,0,Westborough Shuttle,Monday-Friday,Inbound,horizontal
+2484,3870,1,20180922,20200101,1,1,1,1,1,0,0,Northbridge Walmart - Blackstone Valley Shoppes,Monday-Friday,Inbound,horizontal
+2487,3687,0,20190126,20200101,0,0,0,0,0,1,0,Southwest Commons via Grafton St. ,Saturday only,Outbound,horizontal
+2488,3687,0,20190126,20200101,0,0,0,0,0,0,1,Southwest Commons via Grafton St. ,Sunday only,Outbound,horizontal
+2489,3688,0,20190126,20200101,1,1,1,1,1,0,0,West Tatnuck via Chandler St. ,Monday-Friday,Outbound,horizontal
+2490,3688,0,20190126,20200101,0,0,0,0,0,1,0,West Tatnuck via Chandler St. ,Saturday only,Outbound,horizontal
+2491,3676,0,20190126,20200101,1,1,1,1,1,0,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Monday-Friday,Outbound,horizontal
+2492,3676,0,20190126,20200101,0,0,0,0,0,1,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Saturday only,Outbound,horizontal
+2493,3676,0,20190126,20200101,0,0,0,0,0,0,1,Auburn Industrial Park via Canterbury & Southbridge St. ,Sunday only,Outbound,horizontal
+2494,3678,0,20190126,20200101,1,1,1,1,1,0,0,Auburn Mall via Main St.,Monday-Friday,Outbound,horizontal
+2495,3678,0,20190126,20200101,0,0,0,0,0,1,0,Auburn Mall via Main St.,Saturday only,Outbound,horizontal
+2496,3678,0,20190126,20200101,0,0,0,0,0,0,1,Auburn Mall via Main St.,Sunday only,Outbound,horizontal
+2498,3687,1,20190126,20200101,0,0,0,0,0,1,0,Southwest Commons via Grafton St. ,Saturday only,Inbound,horizontal
+2499,3687,1,20190126,20200101,0,0,0,0,0,0,1,Southwest Commons via Grafton St. ,Sunday only,Inbound,horizontal
+2500,3688,1,20190126,20200101,1,1,1,1,1,0,0,West Tatnuck via Chandler St. ,Monday-Friday,Inbound,horizontal
+2508,3661,1,20180922,20200101,1,1,1,1,1,0,0,Mount St. Ann via Providence St.,Monday-Friday,Inbound,horizontalz
+2509,3661,0,20180922,20200101,1,1,1,1,1,0,0,Mount St. Ann via Providence St.,Monday-Friday,Outbound,horizontal
+2510,3661,1,20180922,20200101,0,0,0,0,0,1,0,Mount St. Ann via Providence St.,Saturday only,Inbound,horizontal
+2511,3661,0,20180922,20200101,0,0,0,0,0,1,0,Mount St. Ann via Providence St.,Saturday only,Outbound,horizontal
+2512,3661,1,20180922,20200101,0,0,0,0,0,0,1,Mount St. Ann via Providence St.,Sunday only,Inbound,horizontal
+2513,3661,0,20180922,20200101,0,0,0,0,0,0,1,Mount St. Ann via Providence St.,Sunday only,Outbound,horizontal
+2514,3671,1,20180922,20200101,1,1,1,1,1,0,0,Tatnuck Square via Pleasant St.,Monday-Friday,Inbound,horizontal
+2515,3671,0,20180922,20200101,0,0,0,0,0,1,0,Tatnuck Square via Pleasant St.,Saturday only,Outbound,horizontal
+2516,3671,0,20180922,20200101,1,1,1,1,1,0,0,Tatnuck Square via Pleasant St.,Monday-Friday,Outbound,horizontal
+2517,3671,1,20180922,20200101,0,0,0,0,0,1,0,Tatnuck Square via Pleasant St.,Saturday only,Inbound,horizontal
+2518,3671,1,20180922,20200101,0,0,0,0,0,0,1,Tatnuck Square via Pleasant St.,Sunday only,Inbound,horizontal
+2519,3671,0,20180922,20200101,0,0,0,0,0,0,1,Tatnuck Square via Pleasant St.,Sunday only,Outbound,horizontal
+2520,3680,1,20180922,20200101,1,1,1,1,1,0,0,Worcester State University via Highland St.,Monday-Friday,Inbound,horizontal
+2521,3680,0,20180922,20200101,1,1,1,1,1,0,0,Worcester State University via Highland St.,Monday-Friday,Outbound,horizontal
+2522,3680,1,20180922,20200101,0,0,0,0,0,1,0,Worcester State University via Highland St.,Saturday only,Inbound,horizontal
+2523,3680,0,20180922,20200101,0,0,0,0,0,1,0,Worcester State University via Highland St.,Saturday only,Outbound,horizontal

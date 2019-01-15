@@ -1,28 +1,28 @@
 agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted
-537,3661,1,Mount St. Ann via Providence St.,,3,http://www.therta.com/route-1/,6c64c4,ffffff,0,60,0
-537,3671,2,Tatnuck Square via Pleasant St.,,3,http://www.therta.com/schedules-2/route-2/,da05fb,000000,1,50,0
-537,3668,16,Lincoln Plaza via Hamilton St. and Lake Ave.,,3,http://www.therta.com/schedules-2/route-16/,ff66ff,000000,10,80,0
-537,3670,19,Webster Square – Clark University via Main St.,,3,http://www.therta.com/route-19/,9933ff,000000,11,30,0
-537,3673,23,East Mountain Street via Lincoln St.,,3,http://www.therta.com/schedules-2/route-23/,e7008b,000000,12,110,0
-537,3674,24,UMass Medical Center via Belmont St.,,3,http://www.therta.com/schedules-2/route-24-34/,0033ff,ffffff,13,110,0
-537,3675,24A,UMass Medical Center via Belmont St. ,,3,http://bustracker.therta.com/bustime/eta/eta.jsp?route=24A&id=3130&showAllBusses=on,ff0039,ffffff,14,60,0
+537,3661,1,Mount St. Ann via Providence St.,,3,http://www.therta.com/routes/1/,6c64c4,ffffff,0,60,0
+537,3671,2,Tatnuck Square via Pleasant St.,,3,http://www.therta.com/routes/2/,da05fb,000000,1,50,0
+537,3668,16,Lincoln Plaza via Hamilton St. and Lake Ave.,,3,http://www.therta.com/routes/16/,ff66ff,000000,10,80,0
+537,3670,19,Webster Square – Clark University via Main St.,,3,http://www.therta.com/routes/19/,9933ff,000000,11,30,0
+537,3673,23,East Mountain Street via Lincoln St.,,3,http://www.therta.com/routes/23/,e7008b,000000,12,110,0
+537,3674,24,UMass Medical Center via Belmont St.,,3,http://www.therta.com/routes/24/,0033ff,ffffff,13,110,0
+537,3675,24A,UMass Medical Center via Belmont St. ,,3,http://www.therta.com/routes/24a/,ff0039,ffffff,14,60,0
 537,3676,25,Auburn Industrial Park via Canterbury & Southbridge St. ,,3,,0099ff,000000,15,55,0
-537,3677,26,Great Brook Valley via Lincoln St.,,3,http://www.therta.com/schedules-2/route-26/,66ccff,000000,16,60,0
-537,3678,27,Auburn Mall via Main St.,,3,http://www.therta.com/route-27/,6666cc,000000,17,120,0
-537,3679,29,Southbridge – Charlton,,3,http://www.therta.com/schedules-2/route-29/,b70044,ffffff,18,120,0
-537,3681,30,W. Boylston Wal-Mart via Grove St. & W. Boylston St.,,3,http://www.therta.com/schedules-2/route-30/,cc00ff,000000,19,60,0
-537,3680,3,Worcester State University via Highland St.,,3,http://www.therta.com/schedules-612014/route-3/#inbound-weekdays,ff8704,000000,2,45,0
-537,3682,31,Lincoln Plaza via Grove St. & West Boylston St.,,3,http://www.therta.com/schedules-2/route-31/,ff6633,000000,20,80,0
-537,3683,33,Spencer – Brookfield via Main St. & Rt. 9 ,,3,http://www.therta.com/schedules/,ff3333,000000,21,120,0
-537,3691,40,Downtown Loop,,3,http://www.therta.com/route-40/,ff0087,000000,22,30,0
-537,3686,42,Oxford – Webster via Southbridge St.,,3,http://www.therta.com/schedules-2/route-42/,009900,000000,23,120,0
-537,3873,West,Westborough Shuttle,,3,http://www.therta.com/schedules/westborough/,ffffff,000000,24,,0
-537,3870,A,Northbridge Walmart - Blackstone Valley Shoppes,,3,http://www.therta.com/schedules/routea/,ff66ff,000000,25,,0
-537,3871,B,Rockdale - Stop and Shop - Grafton MBTA Station,,3,http://www.therta.com/schedules/route-b/,66ccff,000000,26,60,0
-537,3685,4,The Shoppes at Blackstone Valley via Millbury St. ,,3,http://www.therta.com/schedules-2/route-4-2/,f5270b,000000,3,60,0
-537,3687,5,Southwest Commons via Grafton St. ,,3,http://www.therta.com/route-5/,00da42,000000,4,120,0
-537,3688,6,West Tatnuck via Chandler St. ,,3,http://www.therta.com/route-6/,3100ff,ffffff,5,60,0
-537,3689,7,Washington Heights Apts.,,3,http://www.therta.com/route-7/,00a100,ffffff,6,60,0
-537,3663,11,The Fair Plaza via Vernon Hill and Greenwood St.,,3,http://www.therta.com/schedules-2/route-11/,ff1f87,000000,7,60,0
-537,3666,14,Showcase Cinemas/Holden via Burncoat St.,,3,http://www.therta.com/schedules-2/route-14/,ff99cc,000000,8,60,0
-537,3667,15,Shrewsbury Center via Shrewsbury St.,,3,http://www.therta.com/route-15/,663366,ffffff,9,60,0
+537,3677,26,Great Brook Valley via Lincoln St.,,3,http://www.therta.com/routes/26/,66ccff,000000,16,60,0
+537,3678,27,Auburn Mall via Main St.,,3,http://www.therta.com/routes/27/,6666cc,000000,17,70,0
+537,3679,29,Southbridge – Charlton,,3,http://www.therta.com/routes/29/,b70044,ffffff,18,120,0
+537,3681,30,W. Boylston Wal-Mart via Grove St. & W. Boylston St.,,3,http://www.therta.com/routes/30/,cc00ff,000000,19,60,0
+537,3680,3,Worcester State University via Highland St.,,3,http://www.therta.com/routes/3/,ff8704,000000,2,,0
+537,3682,31,Lincoln Plaza via Grove St. & West Boylston St.,,3,http://www.therta.com/routes/31/,ff6633,000000,20,80,0
+537,3683,33,Spencer – Brookfield via Main St. & Rt. 9 ,,3,http://www.therta.com/routes/33/,ff3333,000000,21,120,0
+537,3691,40,Downtown Loop,,3,http://www.therta.com/routes/40/,ff0087,000000,22,30,0
+537,3686,42,Oxford – Webster via Southbridge St.,,3,http://www.therta.com/routes/42/,009900,000000,23,120,0
+537,3873,West,Westborough Shuttle,,3,http://www.therta.com/routes/west/,ffffff,000000,24,,0
+537,3870,A,Northbridge Walmart - Blackstone Valley Shoppes,,3,http://www.therta.com/routes/a/,ff66ff,000000,25,,0
+537,3871,B,Rockdale - Stop and Shop - Grafton MBTA Station,,3,http://www.therta.com/routes/b/,66ccff,000000,26,60,0
+537,3685,4,The Shoppes at Blackstone Valley via Millbury St. ,,3,http://www.therta.com/routes/4/,f5270b,000000,3,60,0
+537,3687,5,Southwest Commons via Grafton St. ,,3,http://www.therta.com/routes/5/,00da42,000000,4,120,0
+537,3688,6,West Tatnuck via Chandler St. ,,3,http://www.therta.com/routes/6/,3100ff,ffffff,5,,0
+537,3689,7,Washington Heights Apts.,,3,http://www.therta.com/routes/7/,00a100,ffffff,6,60,0
+537,3663,11,The Fair Plaza via Vernon Hill and Greenwood St.,,3,http://www.therta.com/routes/11/,ff1f87,000000,7,60,0
+537,3666,14,Showcase Cinemas/Holden via Burncoat St.,,3,http://www.therta.com/routes/14/,ff99cc,000000,8,60,0
+537,3667,15,Shrewsbury Center via Shrewsbury St.,,3,http://www.therta.com/routes/15/,663366,ffffff,9,60,0

@@ -1,9 +1,12 @@
 service_id,service_description
-c_15609_b_16718_d_64,Starting 9/22 (Sunday only)
-c_15609_b_16718_d_32,Starting 9/22 (Saturday only)
-c_15609_b_16718_d_31,Starting 9/22 (Monday-Friday)
-c_15608_b_771_d_64,Ending 9/21 (Sunday only)
-c_15608_b_771_d_32,Ending 9/21 (Saturday only)
-c_15608_b_771_d_31,Ending 9/21 (Monday-Friday)
+c_16414_b_18571_d_64,"Ending Jan 25, 2019 (Sunday only)"
+c_16414_b_18571_d_32,"Ending Jan 25, 2019 (Saturday only)"
+c_16414_b_18571_d_31,"Ending Jan 25, 2019 (Monday-Friday)"
+c_16372_b_18475_d_64,"Starting Jan 26, 2019 (Sunday only)"
+c_16372_b_18475_d_32,"Starting Jan 26, 2019 (Saturday only)"
+c_16372_b_18475_d_31,"Starting Jan 26, 2019 (Monday-Friday)"
+c_15609_b_16718_d_64,Year Round (Sunday only)
+c_15609_b_16718_d_32,Year Round (Saturday only)
+c_15609_b_16718_d_31,Year Round (Monday-Friday)
 c_15398_b_16245_d_32,"Routes 29, 33, 42 (Saturday only)"
 c_15398_b_16245_d_31,"Routes 29, 33, 42 (Monday-Friday)"

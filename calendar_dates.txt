@@ -1,13 +1,25 @@
 service_id,date,holiday_name,exception_type
+c_16414_b_none_d_32,20190121,Martin Luther King Day,1
+c_16414_b_18571_d_31,20190121,Martin Luther King Day,2
+c_16372_b_none_d_32,20191129,Day after Thanksgiving,1
+c_16372_b_none_d_32,20191014,Columbus Day,1
+c_16372_b_none_d_32,20190415,Patriots' Day,1
+c_16372_b_none_d_32,20190218,President's Day,1
+c_16372_b_18475_d_31,20200101,New Year's Day,2
+c_16372_b_18475_d_31,20191225,Christmas Day,2
+c_16372_b_18475_d_31,20191129,Day after Thanksgiving,2
+c_16372_b_18475_d_31,20191128,Thanksgiving Day,2
+c_16372_b_18475_d_31,20191014,Columbus Day,2
+c_16372_b_18475_d_31,20190902,Labor Day,2
+c_16372_b_18475_d_31,20190704,Independence Day,2
+c_16372_b_18475_d_31,20190527,Memorial Day,2
+c_16372_b_18475_d_31,20190415,Patriots' Day,2
+c_16372_b_18475_d_31,20190218,President's Day,2
 c_15609_b_none_d_32,20191129,Day after Thanksgiving,1
 c_15609_b_none_d_32,20191014,Columbus Day,1
 c_15609_b_none_d_32,20190415,Patriots' Day,1
 c_15609_b_none_d_32,20190218,President's Day,1
 c_15609_b_none_d_32,20190121,Martin Luther King Day,1
-c_15609_b_none_d_32,20181123,Day after Thanksgiving,1
-c_15609_b_none_d_32,20181008,Columbus Day,1
-c_15609_b_none_d_31,20181111,Veterans Day,1
-c_15609_b_16718_d_64,20181111,Veterans Day,2
 c_15609_b_16718_d_31,20200101,New Year's Day,2
 c_15609_b_16718_d_31,20191225,Christmas Day,2
 c_15609_b_16718_d_31,20191129,Day after Thanksgiving,2
@@ -19,18 +31,9 @@ c_15609_b_16718_d_31,20190527,Memorial Day,2
 c_15609_b_16718_d_31,20190415,Patriots' Day,2
 c_15609_b_16718_d_31,20190218,President's Day,2
 c_15609_b_16718_d_31,20190121,Martin Luther King Day,2
-c_15609_b_16718_d_31,20190101,New Year's Day,2
-c_15609_b_16718_d_31,20181225,Christmas Day,2
-c_15609_b_16718_d_31,20181123,Day after Thanksgiving,2
-c_15609_b_16718_d_31,20181122,Thanksgiving Day,2
-c_15609_b_16718_d_31,20181008,Columbus Day,2
-c_15398_b_none_d_31,20181111,Veterans Day,1
 c_15398_b_16245_d_31,20200101,New Year's Day,2
 c_15398_b_16245_d_31,20191225,Christmas Day,2
 c_15398_b_16245_d_31,20191128,Thanksgiving Day,2
 c_15398_b_16245_d_31,20190902,Labor Day,2
 c_15398_b_16245_d_31,20190704,Independence Day,2
 c_15398_b_16245_d_31,20190527,Memorial Day,2
-c_15398_b_16245_d_31,20190101,New Year's Day,2
-c_15398_b_16245_d_31,20181225,Christmas Day,2
-c_15398_b_16245_d_31,20181122,Thanksgiving Day,2
