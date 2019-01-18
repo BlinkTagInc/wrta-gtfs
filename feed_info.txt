@@ -1,2 +1,2 @@
 feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_license,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_id
-http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 15-Jan-2019 04:48,,support+test+wrta-ma-us@trilliumtransit.com,http://support.trilliumtransit.com,20190114,20200101,wrta-ma-us
+http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 18-Jan-2019 19:38,,support+test+wrta-ma-us@trilliumtransit.com,http://support.trilliumtransit.com,20190118,20200101,wrta-ma-us
