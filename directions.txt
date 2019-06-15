@@ -6,6 +6,8 @@ route_id,direction_id,direction
 3870,1,Inbound
 3870,0,Outbound
 3691,,Loop
+3690,1,Inbound
+3690,0,Outbound
 3689,1,Inbound
 3689,0,Outbound
 3688,1,Inbound
@@ -32,8 +34,6 @@ route_id,direction_id,direction
 3677,0,Outbound
 3676,1,Inbound
 3676,0,Outbound
-3675,1,Inbound
-3675,0,Outbound
 3674,1,Inbound
 3674,0,Outbound
 3673,1,Inbound

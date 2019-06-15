@@ -1,12 +1,12 @@
 service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_16414_b_18571_d_64,"Ending Jan 25, 2019 (Sunday only)",0,0,0,0,0,0,1,20190101,20190125
-c_16414_b_18571_d_32,"Ending Jan 25, 2019 (Saturday only)",0,0,0,0,0,1,0,20190101,20190125
-c_16414_b_18571_d_31,"Ending Jan 25, 2019 (Monday-Friday)",1,1,1,1,1,0,0,20190101,20190125
-c_16372_b_18475_d_64,"Starting Jan 26, 2019 (Sunday only)",0,0,0,0,0,0,1,20190126,20200101
-c_16372_b_18475_d_32,"Starting Jan 26, 2019 (Saturday only)",0,0,0,0,0,1,0,20190126,20200101
-c_16372_b_18475_d_31,"Starting Jan 26, 2019 (Monday-Friday)",1,1,1,1,1,0,0,20190126,20200101
-c_15609_b_16718_d_64,Year Round (Sunday only),0,0,0,0,0,0,1,20180922,20200101
-c_15609_b_16718_d_32,Year Round (Saturday only),0,0,0,0,0,1,0,20180922,20200101
-c_15609_b_16718_d_31,Year Round (Monday-Friday),1,1,1,1,1,0,0,20180922,20200101
-c_15398_b_16245_d_32,"Routes 29, 33, 42 (Saturday only)",0,0,0,0,0,1,0,20180101,20200101
-c_15398_b_16245_d_31,"Routes 29, 33, 42 (Monday-Friday)",1,1,1,1,1,0,0,20180101,20200101
+c_17637_b_21718_d_31,Rt 14 Non-Summer Starting 9/1/19 (Weekday),1,1,1,1,1,0,0,20190901,20200531
+c_17630_b_21700_d_32,"Routes 29, 33, 42 Starting 6/22/19 (Saturday only)",0,0,0,0,0,1,0,20190622,20200101
+c_17630_b_21700_d_31,"Routes 29, 33, 42 Starting 6/22/19 (Weekday)",1,1,1,1,1,0,0,20190622,20200101
+c_17629_b_21699_d_64,Year Round Starting 6/22/19 (Sunday only),0,0,0,0,0,0,1,20190622,20200101
+c_17629_b_21699_d_32,Year Round Starting 6/22/19 (Saturday only),0,0,0,0,0,1,0,20190622,20200101
+c_17629_b_21699_d_31,Year Round Starting 6/22/19 (Weekday),1,1,1,1,1,0,0,20190622,20200101
+c_15609_b_16718_d_64,Year Round Ending 6/21/19 (Sunday only),0,0,0,0,0,0,1,20180922,20190621
+c_15609_b_16718_d_32,Year Round Ending 6/21/19 (Saturday only),0,0,0,0,0,1,0,20180922,20190621
+c_15609_b_16718_d_31,Year Round Ending 6/21/19 (Weekday),1,1,1,1,1,0,0,20180922,20190621
+c_15398_b_16245_d_32,"Routes 29, 33, 42 Ending 6/21/19 (Saturday only)",0,0,0,0,0,1,0,20180101,20190621
+c_15398_b_16245_d_31,"Routes 29, 33, 42 Ending 6/21/19 (Weekday)",1,1,1,1,1,0,0,20180101,20190621

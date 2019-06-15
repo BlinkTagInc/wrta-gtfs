@@ -68,6 +68,38 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 2484305,3601,,HARRINGTON WAY + ECOTARIUM,,42.26431588,-71.76934236,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=3601&showAllBusses=on,0,,America/New_York,,,0
 2484306,3602,,HARRINGTON WAY + HARRINGTON FIELD,,42.26616483,-71.77054309,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=3602&showAllBusses=on,0,,America/New_York,,,0
 2484307,3603,,NORTH HIGH SCHOOL,,42.26148974,-71.76672003,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=3&id=3603&showAllBusses=on,0,,America/New_York,,,0
+2536294,3631,,Worcester Senior Ctr - Driveway,,42.247935,-71.79298,,,0,,America/New_York,,,0
+2537586,699,,MAY ST + MANOR ST,,42.2634438979326,-71.8368266282002,,,0,,America/New_York,,,0
+2537587,3534,,BLACKSTONE RIVER ROAD + IMPERIAL DIST,,42.2287770207056,-71.7892403336366,,,0,,America/New_York,,,0
+2537588,3100,,Rt 20 Entering Auburn,,42.212651,-71.798877,,,0,,America/New_York,,,0
+2537589,594,,Main St at Chatham,,42.2616241298813,-71.8032244063502,,,0,,America/New_York,,,0
+2537590,724,,Mill St at Second,,42.255684,-71.846862,,,0,,America/New_York,,,0
+2537615,3605,,WEST BOYLSTON DR + MASS LOTTERY,,42.29977849,-71.80301643,,,0,,America/New_York,,,0
+2537616,3620,,CAMBRIDGE ST + EXETER ST,,42.24349746,-71.8250281,,,0,,America/New_York,,,0
+2537617,3604,,NEPONSET STREET + RELIANT MEDICAL,,42.29811383,-71.80196565,,,0,,America/New_York,,,0
+2537618,3628,,MAIN ST + HAMILTON ST OB,,42.08060171,-72.04414206,,,0,,America/New_York,,,0
+2537620,3629,,MAIN ST + SAYLES ST IB,,42.08047565,-72.04307895,,,0,,America/New_York,,,0
+2537621,3612,,PARK AVE + TOWNSEND ST,,42.26480569,-71.81892726,,,0,,America/New_York,,,0
+2537622,3606,,PARK AVE + OPP TOWNSEND ST,,42.26477633,-71.81920612,,,0,,America/New_York,,,0
+2537623,3619,,CAMBRIDGE ST + PRICE CHOPPER,,42.24401786,-71.82898814,,,0,,America/New_York,,,0
+2537624,3623,,CAMBRIDGE ST + NIXON AVE,,42.2447619,-71.83068731,,,0,,America/New_York,,,0
+2537625,3611,,666 PARK AVE,,42.24539126,-71.83585974,,,0,,America/New_York,,,0
+2537626,3613,,PARK AVE + CHANDLER ST,,42.26121816,-71.82069538,,,0,,America/New_York,,,0
+2537627,3622,,CAMBRIDGE ST + SALVATION ARMY,,42.24404249,-71.82837017,,,0,,America/New_York,,,0
+2537628,3610,,PARK AVE + MILL ST,,42.24707341,-71.83408608,,,0,,America/New_York,,,0
+2537629,3608,,PARK AVE + PARKER ST,,42.25890329,-71.82221966,,,0,,America/New_York,,,0
+2537631,3618,,CAMBRIDGE ST + WEBSTER SQ,,42.24476281,-71.83103099,,,0,,America/New_York,,,0
+2537632,3626,,BIG BUNNY SUPERMARKET,,42.08238833,-72.04734634,,,0,,America/New_York,,,0
+2537633,3617,,661 PARK AVENUE,,42.24505377,-71.83585872,,,0,,America/New_York,,,0
+2537634,3627,,MAIN ST + PINE ST OB,,42.07787172,-72.03872468,,,0,,America/New_York,,,0
+2537635,3607,,PARK AVE + CHANDLER ST ,,42.26124841,-71.82094887,,,0,,America/New_York,,,0
+2537637,3609,,PARK AVE + BEAVER BROOK PKWY,,42.25023576,-71.83115302,,,0,,America/New_York,,,0
+2537638,3616,,PARK AVE + MILL ST,,42.24687609,-71.83395039,,,0,,America/New_York,,,0
+2537639,3615,,PARK AVE + BEAVER ST,,42.2497994,-71.83130464,,,0,,America/New_York,,,0
+2537640,3621,,CAMBRIDGE ST + FREELAND ST,,42.24378854,-71.8245269,,,0,,America/New_York,,,0
+2537641,3630,,MAIN ST + SOUTH ST IB,,42.0776605,-72.03817056,,,0,,America/New_York,,,0
+2537642,3614,,PARK AVE + PARKER ST,,42.25902099,-71.82187073,,,0,,America/New_York,,,0
+2537643,,,OPPOSITE CITY HALL + FRONT ST,,42.2632371866096,-71.8016564203242,,,0,,America/New_York,,,0
 820832,3013,,PARK AVE STOP,,42.28399,-71.80818,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=31&id=3013&showAllBusses=on,0,,America/New_York,,,0
 820833,380,,GROVE ST + GLENNIE ST,,42.2844,-71.80756,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=380&showAllBusses=on,0,,America/New_York,,,0
 820834,381,,GROVE ST + WRTA OFFICES,,42.28226,-71.80628,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=381&showAllBusses=on,0,,America/New_York,,,0
@@ -212,6 +244,8 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 820996,1192,,51 SUMMER ST,,42.269376334197,-71.7969163764925,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=14&id=1192&showAllBusses=on,0,,America/New_York,,,0
 820997,1016,,SUMMER ST + PLUMLEY VILLAGE,,42.2682638989458,-71.7961259732817,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=1016&showAllBusses=on,0,,America/New_York,,,0
 820998,1014,,SUMMER ST + HAMPTON INN,,42.2670377800665,-71.7958164704506,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=1014&showAllBusses=on,0,,America/New_York,,,0
+820999,638,,MAIN ST + SUDBURY ST,,42.26654,-71.80101,,,0,,America/New_York,,,0
+821000,639,,MAIN ST + MAPLE ST,,42.2652,-71.80148,,,0,,America/New_York,,,0
 821001,621,,MAIN ST + CITY HALL,,42.2628669513363,-71.8022525718973,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=621&showAllBusses=on,0,,America/New_York,,,0
 821002,1189,,CINEMAS NORTH,,42.31678,-71.80221,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=14&id=1189&showAllBusses=on,0,,America/New_York,,,0
 821003,1265,,BROOK ST + HIGGINS ST,,42.3194414726584,-71.8007775241908,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=14&id=1265&showAllBusses=on,0,,America/New_York,,,0
@@ -510,6 +544,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 821333,1173,,PLEASANT ST + TATNUCK SQUARE,,42.2783205151152,-71.853324917193,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=2&id=1173&showAllBusses=on,0,,America/New_York,,,0
 821334,1255,,PLEASANT ST + SOUTH OLEANS ST,,42.27866,-71.85609,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=6&id=1255&showAllBusses=on,0,,America/New_York,,,0
 821335,4085,,MAIN ST + MILLBURY CENTER,,42.1915,-71.76052,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=4&id=4085&showAllBusses=on,0,,America/New_York,,,0
+821346,679,,MASSASOIT RD + TAMAR AVE,,42.23405,-71.76362,,,0,,America/New_York,,,0
 821347,670,,MASSASOIT RD + BLITHEWOOD AVE,,42.2359,-71.76498,,,0,,America/New_York,,,0
 821359,693,,MASSASOIT RD + HEYWOOD ST,,42.24973,-71.77936,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=693&showAllBusses=on,0,,America/New_York,,,0
 821360,294,,GRAFTON ST + RICE SQUARE,,42.25172,-71.78205,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=5&id=294&showAllBusses=on,0,,America/New_York,,,0
@@ -527,6 +562,9 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 821378,217,,DORCHESTER ST + ARTHUR ST,,42.2521333035683,-71.7838138689256,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=217&showAllBusses=on,0,,America/New_York,,,0
 821379,1181,,GRAFTON ST + RICE SQUARE,,42.2517107331156,-71.7821680244653,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=5&id=1181&showAllBusses=on,0,,America/New_York,,,0
 821381,652,,MASSASOIT RD + HEYWOOD ST,,42.249727417441,-71.7796300713552,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=1&id=652&showAllBusses=on,0,,America/New_York,,,0
+821393,651,,MASSASOIT RD + BLITHEWOOD TER,,42.23616,-71.76534,,,0,,America/New_York,,,0
+821394,664,,MASSASOIT RD + MISCOE RD,,42.23535,-71.76465,,,0,,America/New_York,,,0
+821396,666,,414 MASSASOIT RD,,42.23302,-71.76341,,,0,,America/New_York,,,0
 821408,1153,,MOUNTAIN VILLAGE,,42.3181,-71.77875,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1153&showAllBusses=on,0,,America/New_York,,,0
 821409,751,,MOUNTAIN ST EAST + MOSQUE,,42.31508,-71.77286,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=751&showAllBusses=on,0,,America/New_York,,,0
 821410,1155,,100 CENTURY DR,,42.31411,-71.76991,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=23&id=1155&showAllBusses=on,0,,America/New_York,,,0
@@ -557,6 +595,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 821436,553,,LINCOLN ST + LINCOLN SQUARE,,42.2719,-71.79884,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=553&showAllBusses=on,0,,America/New_York,,,0
 821437,569,,MAJOR TAYLOR BLVD + HIGHLAND ST,,42.27085,-71.79891,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=569&showAllBusses=on,0,,America/New_York,,,0
 821438,570,,MAJOR TAYLOR BLVD + MCPHS,,42.2698,-71.79888,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=570&showAllBusses=on,0,,America/New_York,,,0
+821439,649,,MAIN ST + GEORGE ST,,42.26764,-71.80076,,,0,,America/New_York,,,0
 821440,573,,MAIN ST + THOMAS ST,,42.26819,-71.80044,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=40&id=573&showAllBusses=on,0,,America/New_York,,,0
 821441,566,,MAJOR TAYLOR BLVD + MCPHS,,42.26982,-71.79858,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=566&showAllBusses=on,0,,America/New_York,,,0
 821442,567,,MAJOR TAYLOR BLVD + LINCOLN SQUARE,,42.27095,-71.79859,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=567&showAllBusses=on,0,,America/New_York,,,0
