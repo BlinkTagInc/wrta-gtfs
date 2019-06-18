@@ -14,7 +14,6 @@ timetable_page_id,timetable_page_label,filename
 19,,
 23,,
 24,,
-24A,,24a.html
 25,,
 26,,
 27,,

@@ -11,7 +11,6 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 2305,3663,0,20180922,20200101,0,0,0,0,0,0,1,The Fair Plaza via Vernon Hill and Greenwood St.,Sunday only,Outbound,horizontal,11,6
 2309,3667,0,20180922,20200101,0,0,0,0,0,1,0,Shrewsbury Center via Shrewsbury St.,Saturday only,Outbound,horizontal,15,4
 2315,3673,0,20180922,20200101,1,1,1,1,1,0,0,East Mountain Street via Lincoln St.,Weekday,Outbound,horizontal,23,2
-2320,3675,0,20180922,20200101,1,1,1,1,1,0,0,UMass Medical Center via Belmont St. ,Weekday,Outbound,horizontal,24A,2
 2334,3871,0,20180922,20200101,1,1,1,1,1,0,0,Rockdale - Stop and Shop - Grafton MBTA Station,Weekday,Outbound,horizontal,B,2
 2338,3685,1,20180922,20200101,0,0,0,0,0,1,0,The Shoppes at Blackstone Valley via Millbury St. ,Saturday only,Inbound,horizontal,4,3
 2339,3685,1,20180922,20200101,0,0,0,0,0,0,1,The Shoppes at Blackstone Valley via Millbury St. ,Sunday only,Inbound,horizontal,4,5
@@ -52,8 +51,6 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 2428,3673,0,20180922,20200101,0,0,0,0,0,0,1,East Mountain Street via Lincoln St.,Sunday only,Outbound,horizontal,23,6
 2429,3674,0,20180922,20200101,1,1,1,1,1,0,0,UMass Medical Center via Belmont St.,Weekday,Outbound,horizontal,24,2
 2430,3674,0,20180922,20200101,0,0,0,0,0,1,0,UMass Medical Center via Belmont St.,Saturday only,Outbound,horizontal,24,4
-2432,3675,0,20180922,20200101,0,0,0,0,0,1,0,UMass Medical Center via Belmont St. ,Saturday only,Outbound,horizontal,24A,4
-2433,3675,0,20180922,20200101,0,0,0,0,0,0,1,UMass Medical Center via Belmont St. ,Sunday only,Outbound,horizontal,24A,6
 2434,3677,0,20180922,20200101,1,1,1,1,1,0,0,Great Brook Valley via Lincoln St.,Weekday,Outbound,horizontal,26,2
 2435,3677,0,20180922,20200101,0,0,0,0,0,1,0,Great Brook Valley via Lincoln St.,Saturday only,Outbound,horizontal,26,4
 2436,3677,0,20180922,20200101,0,0,0,0,0,0,1,Great Brook Valley via Lincoln St.,Sunday only,Outbound,horizontal,26,6
@@ -82,9 +79,6 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 2468,3673,1,20180922,20200101,0,0,0,0,0,0,1,East Mountain Street via Lincoln St.,Sunday only,Inbound,horizontal,23,5
 2469,3674,1,20180922,20200101,1,1,1,1,1,0,0,UMass Medical Center via Belmont St.,Weekday,Inbound,horizontal,24,1
 2470,3674,1,20180922,20200101,0,0,0,0,0,1,0,UMass Medical Center via Belmont St.,Saturday only,Inbound,horizontal,24,3
-2471,3675,1,20180922,20200101,1,1,1,1,1,0,0,UMass Medical Center via Belmont St. ,Weekday,Inbound,horizontal,24A,1
-2472,3675,1,20180922,20200101,0,0,0,0,0,1,0,UMass Medical Center via Belmont St. ,Saturday only,Inbound,horizontal,24A,3
-2473,3675,1,20180922,20200101,0,0,0,0,0,0,1,UMass Medical Center via Belmont St. ,Sunday only,Inbound,horizontal,24A,5
 2474,3677,1,20180922,20200101,1,1,1,1,1,0,0,Great Brook Valley via Lincoln St.,Weekday,Inbound,horizontal,26,1
 2477,3681,1,20180922,20200101,1,1,1,1,1,0,0,W. Boylston Wal-Mart via Grove St. & W. Boylston St.,Weekday,Inbound,horizontal,30,1
 2478,3681,1,20180922,20200101,0,0,0,0,0,1,0,W. Boylston Wal-Mart via Grove St. & W. Boylston St.,Saturday only,Inbound,horizontal,30,3
