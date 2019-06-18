@@ -116,3 +116,5 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 2521,3680,0,20180922,20200101,1,1,1,1,1,0,0,Worcester State University via Highland St.,Weekday,Outbound,horizontal,3,2
 2522,3680,1,20180922,20200101,0,0,0,0,0,1,0,Worcester State University via Highland St.,Saturday only,Inbound,horizontal,3,3
 2523,3680,0,20180922,20200101,0,0,0,0,0,1,0,Worcester State University via Highland St.,Saturday only,Outbound,horizontal,3,4
+1,3690,0,20180922,20200101,1,1,1,1,1,0,0,Route 8,Weekday,Inbound,horizontal,8,1
+2,3690,1,20180922,20200101,1,1,1,1,1,0,0,Route 8,Weekday,Outbound,horizontal,8,2
