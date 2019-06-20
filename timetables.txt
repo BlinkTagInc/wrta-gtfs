@@ -38,7 +38,6 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 2414,3663,0,20190622,20200101,1,1,1,1,1,0,0,The Fair Plaza via Vernon Hill and Greenwood St.,Weekday,Outbound,horizontal,11,2
 2415,3663,0,20190622,20200101,0,0,0,0,0,1,0,The Fair Plaza via Vernon Hill and Greenwood St.,Saturday only,Outbound,horizontal,11,4
 2417,3666,0,20190622,20200101,1,1,1,1,1,0,0,Showcase Cinemas/Holden via Burncoat St.,Weekday,Outbound,horizontal,14,2
-2418,3666,0,20190622,20200101,0,0,0,0,0,1,0,Showcase Cinemas/Holden via Burncoat St.,Saturday only,Outbound,horizontal,14,4
 2419,3667,0,20190622,20200101,1,1,1,1,1,0,0,Shrewsbury Center via Shrewsbury St.,Weekday,Outbound,horizontal,15,2
 2421,3668,0,20190622,20200101,1,1,1,1,1,0,0,Lincoln Plaza via Hamilton St. and Lake Ave.,Weekday,Outbound,horizontal,16,2
 2422,3668,0,20190622,20200101,0,0,0,0,0,1,0,Lincoln Plaza via Hamilton St. and Lake Ave.,Saturday only,Outbound,horizontal,16,4
@@ -65,7 +64,6 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 2454,3663,1,20190622,20200101,1,1,1,1,1,0,0,The Fair Plaza via Vernon Hill and Greenwood St.,Weekday,Inbound,horizontal,11,1
 2456,3663,1,20190622,20200101,0,0,0,0,0,0,1,The Fair Plaza via Vernon Hill and Greenwood St.,Sunday only,Inbound,horizontal,11,5
 2457,3666,1,20190622,20200101,1,1,1,1,1,0,0,Showcase Cinemas/Holden via Burncoat St.,Weekday,Inbound,horizontal,14,1
-2458,3666,1,20190622,20200101,0,0,0,0,0,1,0,Showcase Cinemas/Holden via Burncoat St.,Saturday only,Inbound,horizontal,14,3
 2459,3667,1,20190622,20200101,1,1,1,1,1,0,0,Shrewsbury Center via Shrewsbury St.,Weekday,Inbound,horizontal,15,1
 2460,3667,1,20190622,20200101,0,0,0,0,0,1,0,Shrewsbury Center via Shrewsbury St.,Saturday only,Inbound,horizontal,15,3
 2461,3668,1,20190622,20200101,1,1,1,1,1,0,0,Lincoln Plaza via Hamilton St. and Lake Ave.,Weekday,Inbound,horizontal,16,1
