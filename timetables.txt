@@ -8,8 +8,6 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 2375,3687,0,20190701,20200101,1,1,1,1,1,0,0,Southwest Commons via Grafton St. ,Weekday,Outbound,horizontal,5,2
 2386,3687,1,20190701,20200101,1,1,1,1,1,0,0,Southwest Commons via Grafton St. ,Weekday,Inbound,horizontal,5,1
 2391,3676,1,20190701,20200101,1,1,1,1,1,0,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Weekday,Inbound,horizontal,25,1
-2392,3676,1,20190701,20200101,0,0,0,0,0,1,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Saturday only,Inbound,horizontal,25,3
-2393,3676,1,20190701,20200101,0,0,0,0,0,0,1,Auburn Industrial Park via Canterbury & Southbridge St. ,Sunday only,Inbound,horizontal,25,5
 2413,3689,0,20190701,20200101,0,0,0,0,0,0,1,Washington Heights Apts.,Sunday only,Outbound,horizontal,7,2
 2417,3666,0,20190701,20200101,1,1,1,1,1,0,0,Showcase Cinemas/Holden via Burncoat St.,Weekday,Outbound,horizontal,14,2
 2423,3670,0,20190701,20200101,1,1,1,1,1,0,0,Webster Square – Clark University via Main St.,Weekday,Outbound,horizontal,19,1
@@ -26,8 +24,6 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 2487,3687,0,20190701,20200101,0,0,0,0,0,1,0,Southwest Commons via Grafton St. ,Saturday only,Outbound,horizontal,5,4
 2488,3687,0,20190701,20200101,0,0,0,0,0,0,1,Southwest Commons via Grafton St. ,Sunday only,Outbound,horizontal,5,6
 2491,3676,0,20190701,20200101,1,1,1,1,1,0,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Weekday,Outbound,horizontal,25,2
-2492,3676,0,20190701,20200101,0,0,0,0,0,1,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Saturday only,Outbound,horizontal,25,4
-2493,3676,0,20190701,20200101,0,0,0,0,0,0,1,Auburn Industrial Park via Canterbury & Southbridge St. ,Sunday only,Outbound,horizontal,25,6
 2498,3687,1,20190701,20200101,0,0,0,0,0,1,0,Southwest Commons via Grafton St. ,Saturday only,Inbound,horizontal,5,3
 2499,3687,1,20190701,20200101,0,0,0,0,0,0,1,Southwest Commons via Grafton St. ,Sunday only,Inbound,horizontal,5,4
 2508,3661,1,20190701,20200101,1,1,1,1,1,0,0,Mount St. Ann via Providence St.,Weekday,Inbound,horizontal,1,1
