@@ -99,7 +99,6 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 2537640,3621,,CAMBRIDGE ST + FREELAND ST,,42.24378854,-71.8245269,,,0,,America/New_York,,,0
 2537641,3630,,MAIN ST + SOUTH ST IB,,42.0776605,-72.03817056,,,0,,America/New_York,,,0
 2537642,3614,,PARK AVE + PARKER ST,,42.25902099,-71.82187073,,,0,,America/New_York,,,0
-2537643,,,OPPOSITE CITY HALL + FRONT ST,,42.2632371866096,-71.8016564203242,,,0,,America/New_York,,,0
 820832,3013,,PARK AVE STOP,,42.28399,-71.80818,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=31&id=3013&showAllBusses=on,0,,America/New_York,,,0
 820833,380,,GROVE ST + GLENNIE ST,,42.2844,-71.80756,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=380&showAllBusses=on,0,,America/New_York,,,0
 820834,381,,GROVE ST + WRTA OFFICES,,42.28226,-71.80628,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=30&id=381&showAllBusses=on,0,,America/New_York,,,0
@@ -1162,6 +1161,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 822039,787,,WILLIAMSBURG DR + RENTAL OFFICE,,42.25742,-71.85263,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=7&id=787&showAllBusses=on,0,,America/New_York,,,0
 822040,788,,57 OUTLOOK DR,,42.25794,-71.85196,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=7&id=788&showAllBusses=on,0,,America/New_York,,,0
 822041,1183,,WASHINGTON HEIGHTS,,42.25844,-71.85467,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=7&id=1183&showAllBusses=on,0,,America/New_York,,,0
+822042,1236,,SHAWS SUPERMARKET,,42.2416,-71.84242,,,0,,America/New_York,,,0
 822050,4525,,MAPLE AVE + COMMONWEALTH AVE,,42.28273,-71.73275,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=15&id=4525&showAllBusses=on,0,,America/New_York,,,0
 822051,4530,,MAPLE AVE + OAK ST,,42.2857,-71.72787,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=15&id=4530&showAllBusses=on,0,,America/New_York,,,0
 822052,4535,,MAPLE AVE + BRIGHTSIDE AVE,,42.29094,-71.72146,,http://bustracker.therta.com/bustime/eta/eta.jsp?route=15&id=4535&showAllBusses=on,0,,America/New_York,,,0

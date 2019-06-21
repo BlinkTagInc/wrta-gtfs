@@ -1,6 +1,4 @@
 service_id,date,holiday_name,exception_type
-c_17637_b_none_d_32,20191129,Day after Thanksgiving,1
-c_17637_b_none_d_32,20191014,Columbus Day,1
 c_17637_b_21718_d_31,20200101,New Year's Day,2
 c_17637_b_21718_d_31,20191225,Christmas Day,2
 c_17637_b_21718_d_31,20191129,Day after Thanksgiving,2
@@ -12,7 +10,6 @@ c_17630_b_21700_d_31,20200101,New Year's Day,2
 c_17630_b_21700_d_31,20191225,Christmas Day,2
 c_17630_b_21700_d_31,20191128,Thanksgiving Day,2
 c_17630_b_21700_d_31,20190902,Labor Day,2
-c_17630_b_21700_d_31,20190704,Independence Day,2
 c_17629_b_none_d_32,20191129,Day after Thanksgiving,1
 c_17629_b_none_d_32,20191014,Columbus Day,1
 c_17629_b_21699_d_31,20200101,New Year's Day,2
@@ -22,17 +19,4 @@ c_17629_b_21699_d_31,20191128,Thanksgiving Day,2
 c_17629_b_21699_d_31,20191014,Columbus Day,2
 c_17629_b_21699_d_31,20190902,Labor Day,2
 c_17629_b_21699_d_31,20190704,Independence Day,2
-c_15609_b_none_d_32,20191129,Day after Thanksgiving,1
-c_15609_b_none_d_32,20191014,Columbus Day,1
-c_15609_b_16718_d_31,20200101,New Year's Day,2
-c_15609_b_16718_d_31,20191225,Christmas Day,2
-c_15609_b_16718_d_31,20191129,Day after Thanksgiving,2
-c_15609_b_16718_d_31,20191128,Thanksgiving Day,2
-c_15609_b_16718_d_31,20191014,Columbus Day,2
-c_15609_b_16718_d_31,20190902,Labor Day,2
-c_15609_b_16718_d_31,20190704,Independence Day,2
-c_15398_b_16245_d_31,20200101,New Year's Day,2
-c_15398_b_16245_d_31,20191225,Christmas Day,2
-c_15398_b_16245_d_31,20191128,Thanksgiving Day,2
-c_15398_b_16245_d_31,20190902,Labor Day,2
 c_15398_b_16245_d_31,20190704,Independence Day,2
