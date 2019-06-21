@@ -1,42 +1,42 @@
-timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,direction_label,orientation
-2285,3679,0,20190701,20200101,1,1,1,1,1,0,0,Southbridge – Charlton,Weekday,Outbound,horizontal
-2286,3679,0,20190701,20200101,0,0,0,0,0,1,0,Southbridge – Charlton,Saturday only,Outbound,horizontal
-2290,3679,1,20190701,20200101,1,1,1,1,1,0,0,Southbridge – Charlton,Weekday,Inbound,horizontal
-2291,3679,1,20190701,20200101,0,0,0,0,0,1,0,Southbridge – Charlton,Saturday only,Inbound,horizontal
-2342,3689,1,20190701,20200101,0,0,0,0,0,0,1,Washington Heights Apts.,Sunday only,Inbound,horizontal
-2344,3663,1,20190701,20200101,0,0,0,0,0,1,0,The Fair Plaza via Vernon Hill and Greenwood St.,Saturday only,Inbound,horizontal
-2375,3687,0,20190701,20200101,1,1,1,1,1,0,0,Southwest Commons via Grafton St. ,Weekday,Outbound,horizontal
-2386,3687,1,20190701,20200101,1,1,1,1,1,0,0,Southwest Commons via Grafton St. ,Weekday,Inbound,horizontal
-2391,3676,1,20190701,20200101,1,1,1,1,1,0,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Weekday,Inbound,horizontal
-2392,3676,1,20190701,20200101,0,0,0,0,0,1,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Saturday only,Inbound,horizontal
-2393,3676,1,20190701,20200101,0,0,0,0,0,0,1,Auburn Industrial Park via Canterbury & Southbridge St. ,Sunday only,Inbound,horizontal
-2413,3689,0,20190701,20200101,0,0,0,0,0,0,1,Washington Heights Apts.,Sunday only,Outbound,horizontal
-2417,3666,0,20190701,20200101,1,1,1,1,1,0,0,Showcase Cinemas/Holden via Burncoat St.,Weekday,Outbound,horizontal
-2423,3670,0,20190701,20200101,1,1,1,1,1,0,0,Webster Square – Clark University via Main St.,Weekday,Outbound,horizontal
-2424,3670,0,20190701,20200101,0,0,0,0,0,1,0,Webster Square – Clark University via Main St.,Saturday only,Outbound,horizontal
-2429,3674,0,20190701,20200101,1,1,1,1,1,0,0,UMass Medical Center via Belmont St.,Weekday,Outbound,horizontal
-2430,3674,0,20190701,20200101,0,0,0,0,0,1,0,UMass Medical Center via Belmont St.,Saturday only,Outbound,horizontal
-2433,3674,0,20190701,20200101,0,0,0,0,0,0,1,UMass Medical Center via Belmont St.,Sunday only,Outbound,horizontal
-2454,3663,1,20190701,20200101,1,1,1,1,1,0,0,The Fair Plaza via Vernon Hill and Greenwood St.,Weekday,Inbound,horizontal
-2456,3663,1,20190701,20200101,0,0,0,0,0,0,1,The Fair Plaza via Vernon Hill and Greenwood St.,Sunday only,Inbound,horizontal
-2457,3666,1,20190701,20200101,1,1,1,1,1,0,0,Showcase Cinemas/Holden via Burncoat St.,Weekday,Inbound,horizontal
-2469,3674,1,20190701,20200101,1,1,1,1,1,0,0,UMass Medical Center via Belmont St.,Weekday,Inbound,horizontal
-2470,3674,1,20190701,20200101,0,0,0,0,0,1,0,UMass Medical Center via Belmont St.,Saturday only,Inbound,horizontal
-2473,3674,1,20190701,20200101,0,0,0,0,0,0,1,UMass Medical Center via Belmont St.,Sunday only,Inbound,horizontal
-2487,3687,0,20190701,20200101,0,0,0,0,0,1,0,Southwest Commons via Grafton St. ,Saturday only,Outbound,horizontal
-2488,3687,0,20190701,20200101,0,0,0,0,0,0,1,Southwest Commons via Grafton St. ,Sunday only,Outbound,horizontal
-2491,3676,0,20190701,20200101,1,1,1,1,1,0,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Weekday,Outbound,horizontal
-2492,3676,0,20190701,20200101,0,0,0,0,0,1,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Saturday only,Outbound,horizontal
-2493,3676,0,20190701,20200101,0,0,0,0,0,0,1,Auburn Industrial Park via Canterbury & Southbridge St. ,Sunday only,Outbound,horizontal
-2498,3687,1,20190701,20200101,0,0,0,0,0,1,0,Southwest Commons via Grafton St. ,Saturday only,Inbound,horizontal
-2499,3687,1,20190701,20200101,0,0,0,0,0,0,1,Southwest Commons via Grafton St. ,Sunday only,Inbound,horizontal
-2508,3661,1,20190701,20200101,1,1,1,1,1,0,0,Mount St. Ann via Providence St.,Weekday,Inbound,horizontal
-2509,3661,0,20190701,20200101,1,1,1,1,1,0,0,Mount St. Ann via Providence St.,Weekday,Outbound,horizontal
-2510,3661,1,20190701,20200101,0,0,0,0,0,1,0,Mount St. Ann via Providence St.,Saturday only,Inbound,horizontal
-2511,3661,0,20190701,20200101,0,0,0,0,0,1,0,Mount St. Ann via Providence St.,Saturday only,Outbound,horizontal
-2512,3661,1,20190701,20200101,0,0,0,0,0,0,1,Mount St. Ann via Providence St.,Sunday only,Inbound,horizontal
-2513,3661,0,20190701,20200101,0,0,0,0,0,0,1,Mount St. Ann via Providence St.,Sunday only,Outbound,horizontal
-2518,3671,1,20190701,20200101,0,0,0,0,0,0,1,Tatnuck Square via Pleasant St.,Sunday only,Inbound,horizontal
-2519,3671,0,20190701,20200101,0,0,0,0,0,0,1,Tatnuck Square via Pleasant St.,Sunday only,Outbound,horizontal
-2972,3690,0,20190701,20200101,1,1,1,1,1,0,0,Park Avenue Connector,Weekday,Outbound,horizontal
-2973,3690,1,20190701,20200101,1,1,1,1,1,0,0,Park Avenue Connector,Weekday,Inbound,horizontal
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,timetable_label,service_notes,direction_label,orientation,timetable_page_id,timetable_sequence
+2285,3679,0,20190701,20200101,1,1,1,1,1,0,0,Southbridge – Charlton,Weekday,Outbound,horizontal,29,3
+2286,3679,0,20190701,20200101,0,0,0,0,0,1,0,Southbridge – Charlton,Saturday only,Outbound,horizontal,29,4
+2290,3679,1,20190701,20200101,1,1,1,1,1,0,0,Southbridge – Charlton,Weekday,Inbound,horizontal,29,1
+2291,3679,1,20190701,20200101,0,0,0,0,0,1,0,Southbridge – Charlton,Saturday only,Inbound,horizontal,29,2
+2342,3689,1,20190701,20200101,0,0,0,0,0,0,1,Washington Heights Apts.,Sunday only,Inbound,horizontal,7,1
+2344,3663,1,20190701,20200101,0,0,0,0,0,1,0,The Fair Plaza via Vernon Hill and Greenwood St.,Saturday only,Inbound,horizontal,11,2
+2375,3687,0,20190701,20200101,1,1,1,1,1,0,0,Southwest Commons via Grafton St. ,Weekday,Outbound,horizontal,5,2
+2386,3687,1,20190701,20200101,1,1,1,1,1,0,0,Southwest Commons via Grafton St. ,Weekday,Inbound,horizontal,5,1
+2391,3676,1,20190701,20200101,1,1,1,1,1,0,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Weekday,Inbound,horizontal,25,1
+2392,3676,1,20190701,20200101,0,0,0,0,0,1,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Saturday only,Inbound,horizontal,25,3
+2393,3676,1,20190701,20200101,0,0,0,0,0,0,1,Auburn Industrial Park via Canterbury & Southbridge St. ,Sunday only,Inbound,horizontal,25,5
+2413,3689,0,20190701,20200101,0,0,0,0,0,0,1,Washington Heights Apts.,Sunday only,Outbound,horizontal,7,2
+2417,3666,0,20190701,20200101,1,1,1,1,1,0,0,Showcase Cinemas/Holden via Burncoat St.,Weekday,Outbound,horizontal,14,2
+2423,3670,0,20190701,20200101,1,1,1,1,1,0,0,Webster Square – Clark University via Main St.,Weekday,Outbound,horizontal,19,1
+2424,3670,0,20190701,20200101,0,0,0,0,0,1,0,Webster Square – Clark University via Main St.,Saturday only,Outbound,horizontal,19,2
+2429,3674,0,20190701,20200101,1,1,1,1,1,0,0,UMass Medical Center via Belmont St.,Weekday,Outbound,horizontal,24,2
+2430,3674,0,20190701,20200101,0,0,0,0,0,1,0,UMass Medical Center via Belmont St.,Saturday only,Outbound,horizontal,24,4
+2433,3674,0,20190701,20200101,0,0,0,0,0,0,1,UMass Medical Center via Belmont St.,Sunday only,Outbound,horizontal,24,6
+2454,3663,1,20190701,20200101,1,1,1,1,1,0,0,The Fair Plaza via Vernon Hill and Greenwood St.,Weekday,Inbound,horizontal,11,1
+2456,3663,1,20190701,20200101,0,0,0,0,0,0,1,The Fair Plaza via Vernon Hill and Greenwood St.,Sunday only,Inbound,horizontal,11,3
+2457,3666,1,20190701,20200101,1,1,1,1,1,0,0,Showcase Cinemas/Holden via Burncoat St.,Weekday,Inbound,horizontal,14,1
+2469,3674,1,20190701,20200101,1,1,1,1,1,0,0,UMass Medical Center via Belmont St.,Weekday,Inbound,horizontal,24,1
+2470,3674,1,20190701,20200101,0,0,0,0,0,1,0,UMass Medical Center via Belmont St.,Saturday only,Inbound,horizontal,24,3
+2473,3674,1,20190701,20200101,0,0,0,0,0,0,1,UMass Medical Center via Belmont St.,Sunday only,Inbound,horizontal,24,5
+2487,3687,0,20190701,20200101,0,0,0,0,0,1,0,Southwest Commons via Grafton St. ,Saturday only,Outbound,horizontal,5,4
+2488,3687,0,20190701,20200101,0,0,0,0,0,0,1,Southwest Commons via Grafton St. ,Sunday only,Outbound,horizontal,5,6
+2491,3676,0,20190701,20200101,1,1,1,1,1,0,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Weekday,Outbound,horizontal,25,2
+2492,3676,0,20190701,20200101,0,0,0,0,0,1,0,Auburn Industrial Park via Canterbury & Southbridge St. ,Saturday only,Outbound,horizontal,25,4
+2493,3676,0,20190701,20200101,0,0,0,0,0,0,1,Auburn Industrial Park via Canterbury & Southbridge St. ,Sunday only,Outbound,horizontal,25,6
+2498,3687,1,20190701,20200101,0,0,0,0,0,1,0,Southwest Commons via Grafton St. ,Saturday only,Inbound,horizontal,5,3
+2499,3687,1,20190701,20200101,0,0,0,0,0,0,1,Southwest Commons via Grafton St. ,Sunday only,Inbound,horizontal,5,4
+2508,3661,1,20190701,20200101,1,1,1,1,1,0,0,Mount St. Ann via Providence St.,Weekday,Inbound,horizontal,1,1
+2509,3661,0,20190701,20200101,1,1,1,1,1,0,0,Mount St. Ann via Providence St.,Weekday,Outbound,horizontal,1,2
+2510,3661,1,20190701,20200101,0,0,0,0,0,1,0,Mount St. Ann via Providence St.,Saturday only,Inbound,horizontal,1,3
+2511,3661,0,20190701,20200101,0,0,0,0,0,1,0,Mount St. Ann via Providence St.,Saturday only,Outbound,horizontal,1,4
+2512,3661,1,20190701,20200101,0,0,0,0,0,0,1,Mount St. Ann via Providence St.,Sunday only,Inbound,horizontal,1,5
+2513,3661,0,20190701,20200101,0,0,0,0,0,0,1,Mount St. Ann via Providence St.,Sunday only,Outbound,horizontal,1,6
+2518,3671,1,20190701,20200101,0,0,0,0,0,0,1,Tatnuck Square via Pleasant St.,Sunday only,Inbound,horizontal,2,1
+2519,3671,0,20190701,20200101,0,0,0,0,0,0,1,Tatnuck Square via Pleasant St.,Sunday only,Outbound,horizontal,2,2
+2972,3690,0,20190701,20200101,1,1,1,1,1,0,0,Park Avenue Connector,Weekday,Outbound,horizontal,8,2
+2973,3690,1,20190701,20200101,1,1,1,1,1,0,0,Park Avenue Connector,Weekday,Inbound,horizontal,8,1
